@@ -1,6 +1,8 @@
 Initial README
 
-ENV: 
+ENV:
 py -m venv cominer
+
 cominer\Scripts\activate
+
 pip install -r requirements.txt
