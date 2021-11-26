@@ -1,6 +1,7 @@
 ## Initial README
 
 ENV:
+Python 3.6+ 64bit
 
 ```
 py -m venv venv

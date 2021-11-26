@@ -5,6 +5,12 @@ import urllib.request
 from inscriptis import get_text
 
 
+def get_data(query):
+    get_search_res(query)
+    get_urls_from_search_page()
+    get_data_from_url()
+
+
 def data_to_file(data, path, mode_="w"):
     print(f"[DATA TO FILE] data/{path}")
     with open(file=f"data/{path}", mode=mode_, encoding='utf-8') as outfile:
@@ -13,7 +19,8 @@ def data_to_file(data, path, mode_="w"):
 
 def get_search_res(query):
     print(f"[GET] Search results {query} ")
-    r = requests.get(f'https://searx.roughs.ru/search?q={query}&format=json')
+    r = requests.get(
+        f'https://searx.roughs.ru/search?q={query}&language=en&format=json')
     data_json = json.dumps(r.json(), ensure_ascii=False, indent=4)
     data_to_file(data_json, "search_page.json")
 
@@ -22,7 +29,7 @@ def get_urls_from_search_page():
     print(f"[GET] URLs from search results")
     search_page_dict = json_file_to_dict("data/search_page.json")
     urls = [res['url'] for res in search_page_dict["results"]]
-    data_json = json.dumps(urls, ensure_ascii=False, indent=4)
+    data_json = json.dumps(urls[:3], ensure_ascii=False, indent=4)
     data_to_file(data_json, "urls.json")
 
 
@@ -50,4 +57,4 @@ def get_data_from_url():
 
 # get_search_res(query="Toyota")
 # get_urls_from_search_page()
-get_data_from_url()
+# get_data_from_url()

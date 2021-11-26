@@ -1,158 +1,16 @@
 {
-    "query": "Toyota",
-    "number_of_results": 22900007.0,
+    "query": "such as Toyota or",
+    "number_of_results": 1865000020.0,
     "results": [
         {
-            "url": "https://ru.wikipedia.org/wiki/Toyota",
-            "title": "Toyota",
-            "engine": "wikipedia",
-            "parsed_url": [
-                "https",
-                "ru.wikipedia.org",
-                "/wiki/Toyota",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikipedia",
-                "google",
-                "wikidata"
-            ],
-            "positions": [
-                1,
-                2,
-                3
-            ],
-            "content": "Toyota Motor Corporation (яп. トヨタ自動車株式会社 тоёта дзидо:ся кабусики-гайся, TYO: 7203.T) (кратко: Toyota — «Тоёта», по-русски чаще пишется «Тойота») ...Продукция: Легковые, грузовые и коммерчес...‎Сайт: global.toyota​ (англ.)Капитализация: ▲ $177 млрд. (2016)Оборот: ▲ ¥28,403 трлн; $258 млрд (2016)",
-            "score": 11.0,
-            "category": "general",
-            "pretty_url": "https://ru.wikipedia.org/wiki/Toyota"
-        },
-        {
-            "url": "https://www.toyota.ru/",
-            "title": "Официальный сайт Toyota: цены на автомобили Toyota",
-            "content": "На сайте представлена информация о ценах на новые автомобили Toyota, а также указаны официальные дилеры Тойота в Москве и других городах России.",
-            "engine": "google",
-            "parsed_url": [
-                "https",
-                "www.toyota.ru",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "google"
-            ],
-            "positions": [
-                1,
-                2
-            ],
-            "score": 3.0,
-            "category": "general",
-            "pretty_url": "https://www.toyota.ru/"
-        },
-        {
-            "title": "Toyota",
-            "url": "https://global.toyota",
-            "engine": "wikidata",
-            "parsed_url": [
-                "https",
-                "global.toyota",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikidata"
-            ],
-            "positions": [
-                1
-            ],
-            "score": 2.0,
-            "category": "general",
-            "pretty_url": "https://global.toyota"
-        },
-        {
-            "url": "https://ru.wikisource.org/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%91%D1%83%D1%80%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9",
-            "title": "Лентапедия/Буркотов, Сергей",
-            "content": "",
-            "engine": "wikisource",
-            "parsed_url": [
-                "https",
-                "ru.wikisource.org",
-                "/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%91%D1%83%D1%80%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikisource"
-            ],
-            "positions": [
-                1
-            ],
-            "score": 1.0,
-            "category": "general",
-            "pretty_url": "https://ru.wikisource.org/wiki/%D0%9B%[...]C_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9"
-        },
-        {
-            "url": "https://ru.wiktionary.org/wiki/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D1%80",
-            "title": "крузер",
-            "content": "",
-            "engine": "wiktionary",
-            "parsed_url": [
-                "https",
-                "ru.wiktionary.org",
-                "/wiki/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D1%80",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wiktionary"
-            ],
-            "positions": [
-                1
-            ],
-            "score": 1.0,
-            "category": "general",
-            "pretty_url": "https://ru.wiktionary.org/wiki/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D1%80"
-        },
-        {
-            "url": "https://toyota.catalogs-parts.com/",
-            "title": "Catalogs-Parts.com",
-            "content": "Catalogs-Parts.com",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "toyota.catalogs-parts.com",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                1
-            ],
-            "score": 1.0,
-            "category": "general",
-            "pretty_url": "https://toyota.catalogs-parts.com/"
-        },
-        {
-            "url": "https://ru.wikiquote.org/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D1%83%D0%B1%D0%B8%D0%BD",
-            "title": "Дмитрий Павлович Губин",
+            "url": "https://en.wikiquote.org/wiki/Toyota_Tercel",
+            "title": "Toyota Tercel",
             "content": "",
             "engine": "wikiquote",
             "parsed_url": [
                 "https",
-                "ru.wikiquote.org",
-                "/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D1%83%D0%B1%D0%B8%D0%BD",
+                "en.wikiquote.org",
+                "/wiki/Toyota_Tercel",
                 "",
                 "",
                 ""
@@ -165,17 +23,63 @@
             ],
             "score": 1.0,
             "category": "general",
-            "pretty_url": "https://ru.wikiquote.org/wiki/%D0%94%D[...]8%D1%87_%D0%93%D1%83%D0%B1%D0%B8%D0%BD"
+            "pretty_url": "https://en.wikiquote.org/wiki/Toyota_Tercel"
         },
         {
-            "url": "https://ru.wikibooks.org/wiki/GUI_Help/HTML_book",
-            "title": "GUI Help/HTML book",
+            "url": "https://en.wiktionary.org/wiki/Toyota",
+            "title": "Toyota",
+            "content": "",
+            "engine": "wiktionary",
+            "parsed_url": [
+                "https",
+                "en.wiktionary.org",
+                "/wiki/Toyota",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wiktionary"
+            ],
+            "positions": [
+                1
+            ],
+            "score": 1.0,
+            "category": "general",
+            "pretty_url": "https://en.wiktionary.org/wiki/Toyota"
+        },
+        {
+            "url": "https://en.wikisource.org/wiki/Meshwerks%2C_Inc._v._Toyota_Motor_Sales_U.S.A.%2C_Inc.",
+            "title": "Meshwerks, Inc. v. Toyota Motor Sales U.S.A., Inc.",
+            "content": "",
+            "engine": "wikisource",
+            "parsed_url": [
+                "https",
+                "en.wikisource.org",
+                "/wiki/Meshwerks%2C_Inc._v._Toyota_Motor_Sales_U.S.A.%2C_Inc.",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikisource"
+            ],
+            "positions": [
+                1
+            ],
+            "score": 1.0,
+            "category": "general",
+            "pretty_url": "https://en.wikisource.org/wiki/Meshwer[...]._v._Toyota_Motor_Sales_U.S.A.%2C_Inc."
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/FAQ",
+            "title": "Toyota Prius/FAQ",
             "content": "",
             "engine": "wikibooks",
             "parsed_url": [
                 "https",
-                "ru.wikibooks.org",
-                "/wiki/GUI_Help/HTML_book",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/FAQ",
                 "",
                 "",
                 ""
@@ -188,42 +92,134 @@
             ],
             "score": 1.0,
             "category": "general",
-            "pretty_url": "https://ru.wikibooks.org/wiki/GUI_Help/HTML_book"
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/FAQ"
         },
         {
-            "url": "https://www.toyota.com/",
-            "title": "www.toyota.comToyota - Official Site",
-            "content": "Explore the newest Toyota trucks, cars, SUVs, hybrids and minivans. See photos, compare models, get tips, calculate payments, and more.",
-            "engine": "yahoo",
+            "url": "https://global.toyota/en/newsroom/toyota/35083987.html",
+            "title": "Toyota announces its new BEV series, Toyota bZ, in ...",
+            "content": "19.04.2021 · Toyota Motor Corporation (Toyota) announced Toyota bZ, its newly established series of battery electric vehicles (BEVs), in establishment of a full line-up of electrified vehicles, on April 19. At Auto Shanghai, a motor show held in Shanghai, China, Toyota unveiled a concept version of the Toyota bZ4X, which will be the first model in the bZ series.",
+            "engine": "bing",
             "parsed_url": [
                 "https",
-                "www.toyota.com",
-                "/",
+                "global.toyota",
+                "/en/newsroom/toyota/35083987.html",
                 "",
                 "",
                 ""
             ],
             "engines": [
-                "yahoo"
+                "bing"
             ],
             "positions": [
                 1
             ],
             "score": 1.0,
             "category": "general",
-            "pretty_url": "https://www.toyota.com/"
+            "pretty_url": "https://global.toyota/en/newsroom/toyota/35083987.html"
         },
         {
-            "url": "https://www.reddit.com/r/pics/comments/qz11qw/a_toyota_dealership_in_oakland_has_added_a_40000/",
-            "title": "A Toyota dealership in Oakland has added a $40,000 markup on a RAV4, bringing the total to $96,000",
-            "img_src": "https://i.ibb.co/QHYFB1X/FEs-EYOp-VUAY4-D2-O-format-jpg-name-large.jpg",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/JHAzGDSnrxEtzDkD9UaN9sL9Yx2Z45wUwZhdzD9HJ-I.jpg",
+            "url": "https://hbr.org/2007/07/lessons-from-toyotas-long-drive",
+            "title": "Lessons from Toyota's Long Drive - Harvard Business Review",
+            "content": "As Toyota becomes the world's biggest automaker, the company finds its ... Finally, some of our overseas affiliates, such as Toyota Canada and Toyota ...Industries: Automotive industry",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "hbr.org",
+                "/2007/07/lessons-from-toyotas-long-drive",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                1
+            ],
+            "score": 1.0,
+            "category": "general",
+            "pretty_url": "https://hbr.org/2007/07/lessons-from-toyotas-long-drive"
+        },
+        {
+            "url": "https://en.wikiquote.org/wiki/Kiichiro_Toyoda",
+            "title": "Kiichiro Toyoda",
+            "content": "",
+            "engine": "wikiquote",
+            "parsed_url": [
+                "https",
+                "en.wikiquote.org",
+                "/wiki/Kiichiro_Toyoda",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikiquote"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://en.wikiquote.org/wiki/Kiichiro_Toyoda"
+        },
+        {
+            "url": "https://en.wiktionary.org/wiki/toyota",
+            "title": "toyota",
+            "content": "",
+            "engine": "wiktionary",
+            "parsed_url": [
+                "https",
+                "en.wiktionary.org",
+                "/wiki/toyota",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wiktionary"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://en.wiktionary.org/wiki/toyota"
+        },
+        {
+            "url": "https://en.wikisource.org/wiki/Hidemitsu_Toyota_v._United_States",
+            "title": "Hidemitsu Toyota v. United States",
+            "content": "",
+            "engine": "wikisource",
+            "parsed_url": [
+                "https",
+                "en.wikisource.org",
+                "/wiki/Hidemitsu_Toyota_v._United_States",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikisource"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://en.wikisource.org/wiki/Hidemitsu_Toyota_v._United_States"
+        },
+        {
+            "url": "https://www.reddit.com/r/ScammerNumbers/comments/q24f4p/mail_scam_claiming_that_you_won_a_chance_to_get/",
+            "title": "Mail Scam claiming that you won a chance to get multiple prizes such as a 2021 Toyota Corolla or a cruise 😆 here's their number. I called and a women with an American Accent answered and said to be from the \"gifting department\" then I hung up.",
+            "img_src": "https://www.reddit.com/gallery/q24f4p",
+            "thumbnail_src": "https://b.thumbs.redditmedia.com/3mlwzuLsDIzvSc7uFCgjgckOUtuPCVXuUMy-m9ouAHQ.jpg",
             "template": "images.html",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/pics/comments/qz11qw/a_toyota_dealership_in_oakland_has_added_a_40000/",
+                "/r/ScammerNumbers/comments/q24f4p/mail_scam_claiming_that_you_won_a_chance_to_get/",
                 "",
                 "",
                 ""
@@ -236,19 +232,19 @@
             ],
             "score": 1.0,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/pics/comments[...]alership_in_oakland_has_added_a_40000/"
+            "pretty_url": "https://www.reddit.com/r/ScammerNumber[...]claiming_that_you_won_a_chance_to_get/"
         },
         {
-            "url": "https://www.reddit.com/r/technology/comments/qo70g9/toyota_named_third_most_obstructive_company/",
-            "title": "Toyota Named Third Most Obstructive Company Towards Climate Change After ExxonMobil, Chevron",
-            "img_src": "https://www.carscoops.com/2021/11/toyota-named-third-most-obstructive-company-towards-climate-change-after-exxonmobil-chevron/",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/7SnyRqlj0vUOHn-7VUwt59Biy4GEswsmaVs4Cys4mHk.jpg",
+            "url": "https://www.reddit.com/r/4x4/comments/5xfcl5/i_posted_this_a_few_months_ago_as_of_today_its/",
+            "title": "I posted this a few months ago. As of today, it's STILL there. Abandoned as far as I can tell (never been moved). Such a sad, sad sight. Just left rotting year after year. 84 SAS'd Toyota pickup. I'd rescue it myself, if not for nowhere to put it, or finances available to give it what it needs.",
+            "img_src": "http://imgur.com/kS6S5CD",
+            "thumbnail_src": "https://b.thumbs.redditmedia.com/X1ysPyGiKPHRLHgxzmwaNH5GhWjn59SIbyA3xKQfV8s.jpg",
             "template": "images.html",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/technology/comments/qo70g9/toyota_named_third_most_obstructive_company/",
+                "/r/4x4/comments/5xfcl5/i_posted_this_a_few_months_ago_as_of_today_its/",
                 "",
                 "",
                 ""
@@ -261,19 +257,19 @@
             ],
             "score": 0.5,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/technology/co[...]_named_third_most_obstructive_company/"
+            "pretty_url": "https://www.reddit.com/r/4x4/comments/[...]this_a_few_months_ago_as_of_today_its/"
         },
         {
-            "url": "https://www.reddit.com/r/Unexpected/comments/qu9vmg/an_old_toyota_commercial/",
-            "title": "An old Toyota commercial",
-            "img_src": "https://v.redd.it/jxor60cocpz71",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/h_FOEHxUyacVP4Chygl2k2H4Y_T3ACoT76htb7yAZng.jpg",
+            "url": "https://www.reddit.com/r/MechanicAdvice/comments/bz7hz1/i_hit_a_deer_in_my_car_and_the_insurance_totaled/",
+            "title": "I hit a deer in my car and the insurance totaled it. I’m looking to buy a new car with zero issues. Not transmission issues, or major issues as long as I take care of it. I’m looking at another Kia because I had such a good experience with that car, or a honda or Toyota. Which is best?",
+            "img_src": "https://i.redd.it/4q2e6my5en331.jpg",
+            "thumbnail_src": "https://a.thumbs.redditmedia.com/mxlb8nkflWpLt4RmahFFwsTGSR8MCVXFGwEMqGIPCX4.jpg",
             "template": "images.html",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/Unexpected/comments/qu9vmg/an_old_toyota_commercial/",
+                "/r/MechanicAdvice/comments/bz7hz1/i_hit_a_deer_in_my_car_and_the_insurance_totaled/",
                 "",
                 "",
                 ""
@@ -286,19 +282,363 @@
             ],
             "score": 0.3333333333333333,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/Unexpected/co[...]ments/qu9vmg/an_old_toyota_commercial/"
+            "pretty_url": "https://www.reddit.com/r/MechanicAdvic[...]r_in_my_car_and_the_insurance_totaled/"
         },
         {
-            "url": "https://www.reddit.com/r/Justrolledintotheshop/comments/pxmtiw/they_got_us_toyota_dealer_1_of_the_3_cars_that/",
-            "title": "They got us (Toyota Dealer) 1 of the 3 cars that the catalytic converter got stolen. About 6k for replacement parts on 1 vehicle.",
-            "img_src": "https://v.redd.it/ahe7bihy1dq71",
-            "thumbnail_src": "https://a.thumbs.redditmedia.com/0nFWQKqI5d5olnNpDEGgJ3xcm-t5O79mWTKmDkm1xq4.jpg",
-            "template": "images.html",
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Specifications",
+            "title": "Toyota Prius/Specifications",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/Specifications",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Specifications"
+        },
+        {
+            "url": "http://www.kooltoyota.com/",
+            "title": "New & Used Toyota Vehicles in Grand Rapids | Kool Toyota",
+            "content": "02.06.2018 · Our Toyota dealership offers a high-quality automotive experience that starts with just a handshake and smile the moment you walk through the door. Take a moment to browse through our online inventory of new and used cars for sale. We offer the latest Toyota models in the market such as the all-new 2020 Toyota Highlander and the 2020 Toyota ...",
+            "engine": "bing",
+            "parsed_url": [
+                "http",
+                "www.kooltoyota.com",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "http://www.kooltoyota.com/"
+        },
+        {
+            "url": "https://global.toyota/en/company/profile/other-toyota-businesses/",
+            "title": "Other Toyota Businesses | Profile | Company",
+            "content": "Independent Toyota Group companies have subsequently been established in integrated automotive industry areas such as materials, manufacturing equipment, ...",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "global.toyota",
+                "/en/company/profile/other-toyota-businesses/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://global.toyota/en/company/profile/other-toyota-businesses/"
+        },
+        {
+            "url": "https://en.wikiquote.org/wiki/Steve_Lyons",
+            "title": "Steve Lyons",
+            "content": "",
+            "engine": "wikiquote",
+            "parsed_url": [
+                "https",
+                "en.wikiquote.org",
+                "/wiki/Steve_Lyons",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikiquote"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://en.wikiquote.org/wiki/Steve_Lyons"
+        },
+        {
+            "url": "https://en.wiktionary.org/wiki/Toyotas",
+            "title": "Toyotas",
+            "content": "",
+            "engine": "wiktionary",
+            "parsed_url": [
+                "https",
+                "en.wiktionary.org",
+                "/wiki/Toyotas",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wiktionary"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://en.wiktionary.org/wiki/Toyotas"
+        },
+        {
+            "url": "https://en.wikisource.org/wiki/Toyota_v._Territory_of_Hawaii",
+            "title": "Toyota v. Territory of Hawaii",
+            "content": "",
+            "engine": "wikisource",
+            "parsed_url": [
+                "https",
+                "en.wikisource.org",
+                "/wiki/Toyota_v._Territory_of_Hawaii",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikisource"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://en.wikisource.org/wiki/Toyota_v._Territory_of_Hawaii"
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Rental",
+            "title": "Toyota Prius/Rental",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/Rental",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Rental"
+        },
+        {
+            "url": "https://japaneseusedengines.net/manufacturer/toyota",
+            "title": "Toyota Engines | Used Toyota engine from Japan",
+            "content": "All Toyota used Engines for Camry, Highlander, Rav4, 4Runner, Tacoma, Tundra, 4Runner, Solara, T100, Celica, Corolla, Supra, Sienna, Sequoia in stock. We have the largest inventory of Toyota Engines in United States and Canada with over 500 motors in stock at any given point. We offer used & rebuilt versions of hard to find Toyota Engines.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "japaneseusedengines.net",
+                "/manufacturer/toyota",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://japaneseusedengines.net/manufacturer/toyota"
+        },
+        {
+            "url": "https://sentence.yourdictionary.com/toyota",
+            "title": "Use toyota in a sentence",
+            "content": "PlanetTran is one such company, which exclusively uses hybrid vehicles like the Toyota Prius. 0. 0.",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "sentence.yourdictionary.com",
+                "/toyota",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://sentence.yourdictionary.com/toyota"
+        },
+        {
+            "url": "https://en.wikiquote.org/wiki/Up_in_Smoke",
+            "title": "Up in Smoke",
+            "content": "",
+            "engine": "wikiquote",
+            "parsed_url": [
+                "https",
+                "en.wikiquote.org",
+                "/wiki/Up_in_Smoke",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikiquote"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://en.wikiquote.org/wiki/Up_in_Smoke"
+        },
+        {
+            "url": "https://en.wiktionary.org/wiki/%E8%B1%8A%E7%94%B0",
+            "title": "豊田",
+            "content": "",
+            "engine": "wiktionary",
+            "parsed_url": [
+                "https",
+                "en.wiktionary.org",
+                "/wiki/%E8%B1%8A%E7%94%B0",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wiktionary"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://en.wiktionary.org/wiki/%E8%B1%8A%E7%94%B0"
+        },
+        {
+            "url": "https://en.wikisource.org/wiki/Meshwerks%2C_Inc._v._Toyota_Motor_Sales_U.S.A.%2C_Inc./Opinion_of_the_Court",
+            "title": "Meshwerks, Inc. v. Toyota Motor Sales U.S.A., Inc./Opinion of the Court",
+            "content": "",
+            "engine": "wikisource",
+            "parsed_url": [
+                "https",
+                "en.wikisource.org",
+                "/wiki/Meshwerks%2C_Inc._v._Toyota_Motor_Sales_U.S.A.%2C_Inc./Opinion_of_the_Court",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikisource"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://en.wikisource.org/wiki/Meshwer[...]es_U.S.A.%2C_Inc./Opinion_of_the_Court"
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Professionalism/The_Toyota_Recalls_of_2009-2010",
+            "title": "Professionalism/The Toyota Recalls of 2009-2010",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Professionalism/The_Toyota_Recalls_of_2009-2010",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Professi[...]nalism/The_Toyota_Recalls_of_2009-2010"
+        },
+        {
+            "url": "https://www.toyota.com/corollahatchback/corollahatchback-features/",
+            "title": "View the 2022 Toyota Corolla Hatchback Features",
+            "content": "Explore the 2022 Toyota Corolla Hatchback features like available leather-trimmed sport seats, 8-in. multimedia touchscreen, and more.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "www.toyota.com",
+                "/corollahatchback/corollahatchback-features/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://www.toyota.com/corollahatchback/corollahatchback-features/"
+        },
+        {
+            "url": "https://www.toyota-tech.eu/",
+            "title": "Toyota Service Information",
+            "content": "... with the technical information published on this website is performed under the sole responsibility of such user, and Toyota Motor Europe NV/SA, ...",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "www.toyota-tech.eu",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://www.toyota-tech.eu/"
+        },
+        {
+            "url": "https://www.reddit.com/r/CarTalkUK/comments/qe8wpo/does_getting_a_car_through_an_approved_used/",
+            "title": "Does getting a car through an \"Approved Used Scheme\" such as Toyota or Mazda would still require a mechanic inspection?",
+            "content": "I don't understand much about cars so by getting a used car I'm playing a bit of roulette: could buy a lemon and not knowing it until it's too late. I know that I can pay a mechanic to inspect the car before I buy it (to give some peace of mind) but was wondering if getting a car under an Approved Used Scheme still requires that given that, at least in Toyota and Mazda, the cars come with 12 months warranty and 30 day exchange policy... For my budget of 14k I'm still undecided between a Toyota...",
+            "publishedDate": "Oct 23, 2021",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/Justrolledintotheshop/comments/pxmtiw/they_got_us_toyota_dealer_1_of_the_3_cars_that/",
+                "/r/CarTalkUK/comments/qe8wpo/does_getting_a_car_through_an_approved_used/",
                 "",
                 "",
                 ""
@@ -311,12 +651,200 @@
             ],
             "score": 0.25,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/Justrolledint[...]us_toyota_dealer_1_of_the_3_cars_that/"
+            "pretty_url": "https://www.reddit.com/r/CarTalkUK/com[...]etting_a_car_through_an_approved_used/",
+            "pubdate": "2021-10-23 20:07:49"
         },
         {
-            "title": "Toyota",
+            "url": "https://en.wikiquote.org/wiki/Game_6",
+            "title": "Game 6",
+            "content": "",
+            "engine": "wikiquote",
+            "parsed_url": [
+                "https",
+                "en.wikiquote.org",
+                "/wiki/Game_6",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikiquote"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://en.wikiquote.org/wiki/Game_6"
+        },
+        {
+            "url": "https://en.wiktionary.org/wiki/Toyotism",
+            "title": "Toyotism",
+            "content": "",
+            "engine": "wiktionary",
+            "parsed_url": [
+                "https",
+                "en.wiktionary.org",
+                "/wiki/Toyotism",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wiktionary"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://en.wiktionary.org/wiki/Toyotism"
+        },
+        {
+            "url": "https://en.wikisource.org/wiki/Toyota_v._Territory_of_Hawaii/Opinion_of_the_Court",
+            "title": "Toyota v. Territory of Hawaii/Opinion of the Court",
+            "content": "",
+            "engine": "wikisource",
+            "parsed_url": [
+                "https",
+                "en.wikisource.org",
+                "/wiki/Toyota_v._Territory_of_Hawaii/Opinion_of_the_Court",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikisource"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://en.wikisource.org/wiki/Toyota_[...]rritory_of_Hawaii/Opinion_of_the_Court"
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Notable_facts",
+            "title": "Toyota Prius/Notable facts",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/Notable_facts",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Notable_facts"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Toyota_Group",
+            "title": "Toyota Group - Wikipedia",
+            "content": "The Toyota Group (トヨタグループ, Toyota Gurūpu) is a group of companies that have supplier, vendor and investment relationships with Toyota Industries and Toyota Motor vehicle manufacturing facilities. It is similar to a keiretsu in that no particular entity has outright control over the entire group, although unlike most keiretsu it does not contain a major bank.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "en.wikipedia.org",
+                "/wiki/Toyota_Group",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://en.wikipedia.org/wiki/Toyota_Group"
+        },
+        {
+            "url": "https://www.bigtwotoyota.com/",
+            "title": "Big Two Toyota | New Toyota & Used Car Dealer Serving ...",
+            "content": "Come in to Big Two Toyota of Chandler serving the Phoenix Metro Area with New ... with new Toyota cars, trucks, SUVs and hybrid cars such as the popular ...",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "www.bigtwotoyota.com",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://www.bigtwotoyota.com/"
+        },
+        {
+            "url": "https://www.reddit.com/r/forza/comments/pqt20z/why_arent_any_iconic_jdm_cars_such_as_the_8th/",
+            "title": "Why aren’t any iconic Jdm cars such as the 8th Honda Civic si sedan or the Toyota Corolla xrs aren’t in current racing games if there both great cars?",
+            "content": "",
+            "publishedDate": "Sep 18, 2021",
+            "engine": "reddit",
+            "parsed_url": [
+                "https",
+                "www.reddit.com",
+                "/r/forza/comments/pqt20z/why_arent_any_iconic_jdm_cars_such_as_the_8th/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "reddit"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://www.reddit.com/r/forza/comment[...]t_any_iconic_jdm_cars_such_as_the_8th/",
+            "pubdate": "2021-09-18 22:42:30"
+        },
+        {
+            "url": "https://www.carmax.com/cars/toyota/sienna",
+            "title": "Used Toyota Sienna for Sale - CarMax",
+            "content": "Toyota Sienna 2013 - 2018 Trim Configurations: L - In earlier model years, the base L trim comes with basic features such as 17-inch wheels, power accessories, and a four-speaker sound system. More recent model years, including 2017 and 2018, feature keyless ignition/entry, a seven-inch touchscreen, a rearview camera, and smartphone integration as well.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "www.carmax.com",
+                "/cars/toyota/sienna",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                6
+            ],
+            "score": 0.16666666666666666,
+            "category": "general",
+            "pretty_url": "https://www.carmax.com/cars/toyota/sienna"
+        },
+        {
             "url": "https://en.wikipedia.org/wiki/Toyota",
-            "engine": "wikidata",
+            "title": "Toyota - Wikipedia",
+            "content": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered ... Toyota supports a variety of philanthropic work in areas such as ...Founder: Kiichiro ToyodaHeadquarters: Toyota City, Aichi, Japan‎Subsidiaries: Daihatsu; ‎Denso‎ (25%); ‎FAW To...‎Founded: August 28, 1937; 84 years ago",
+            "engine": "google",
             "parsed_url": [
                 "https",
                 "en.wikipedia.org",
@@ -326,649 +854,25 @@
                 ""
             ],
             "engines": [
-                "wikidata"
+                "google"
             ],
             "positions": [
-                3
+                6
             ],
-            "score": 0.6666666666666666,
+            "score": 0.16666666666666666,
             "category": "general",
             "pretty_url": "https://en.wikipedia.org/wiki/Toyota"
         },
         {
-            "url": "https://ru.wikisource.org/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%91%D0%B5%D0%BB%D1%8B%D1%85%2C_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0",
-            "title": "Лентапедия/Белых, Никита",
-            "content": "",
-            "engine": "wikisource",
-            "parsed_url": [
-                "https",
-                "ru.wikisource.org",
-                "/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%91%D0%B5%D0%BB%D1%8B%D1%85%2C_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikisource"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "https://ru.wikisource.org/wiki/%D0%9B%[...]C_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0"
-        },
-        {
-            "url": "https://ru.wiktionary.org/wiki/%D1%86%D0%B5%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%85%D1%83",
-            "title": "целка на меху",
-            "content": "",
-            "engine": "wiktionary",
-            "parsed_url": [
-                "https",
-                "ru.wiktionary.org",
-                "/wiki/%D1%86%D0%B5%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%85%D1%83",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wiktionary"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "https://ru.wiktionary.org/wiki/%D1%86%[...]_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%85%D1%83"
-        },
-        {
-            "url": "http://www.catcar.info/toyota/",
-            "title": "Toyota/Lexus - Catcar.info",
-            "content": "Автозапчасти - ваш бизнес? Программа для учета и продажи запчастей! Хотите продавать больше?",
-            "engine": "bing",
-            "parsed_url": [
-                "http",
-                "www.catcar.info",
-                "/toyota/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "http://www.catcar.info/toyota/"
-        },
-        {
-            "url": "https://ru.wikiquote.org/wiki/%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8_%D0%9A%D0%BB%D0%B0%D1%80%D0%BA%D1%81%D0%BE%D0%BD",
-            "title": "Джереми Кларксон",
-            "content": "",
-            "engine": "wikiquote",
-            "parsed_url": [
-                "https",
-                "ru.wikiquote.org",
-                "/wiki/%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8_%D0%9A%D0%BB%D0%B0%D1%80%D0%BA%D1%81%D0%BE%D0%BD",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikiquote"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "https://ru.wikiquote.org/wiki/%D0%94%D[...]BB%D0%B0%D1%80%D0%BA%D1%81%D0%BE%D0%BD"
-        },
-        {
-            "url": "https://ru.wikibooks.org/wiki/Cobra",
-            "title": "Cobra",
-            "content": "",
-            "engine": "wikibooks",
-            "parsed_url": [
-                "https",
-                "ru.wikibooks.org",
-                "/wiki/Cobra",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikibooks"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "https://ru.wikibooks.org/wiki/Cobra"
-        },
-        {
-            "url": "http://toyota.jp/",
-            "title": "toyota.jpトヨタ自動車WEBサイト",
-            "content": "トヨタブランドの新型車を始めとした詳細情報、試乗車検索／店舗検索／見積りシミュレーション／カタログ請求などの各種インターネットサービスを提供するトヨタ自動車の公式サイトです。",
-            "engine": "yahoo",
-            "parsed_url": [
-                "http",
-                "toyota.jp",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "yahoo"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "http://toyota.jp/"
-        },
-        {
-            "url": "https://ru.wikisource.org/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%9C%D0%B8%D1%8F%D0%BC%D0%BE%D1%82%D0%BE%2C_%D0%A1%D0%B8%D0%B3%D1%8D%D1%80%D1%83",
-            "title": "Лентапедия/Миямото, Сигэру",
-            "content": "",
-            "engine": "wikisource",
-            "parsed_url": [
-                "https",
-                "ru.wikisource.org",
-                "/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%9C%D0%B8%D1%8F%D0%BC%D0%BE%D1%82%D0%BE%2C_%D0%A1%D0%B8%D0%B3%D1%8D%D1%80%D1%83",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikisource"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://ru.wikisource.org/wiki/%D0%9B%[...]C_%D0%A1%D0%B8%D0%B3%D1%8D%D1%80%D1%83"
-        },
-        {
-            "url": "https://ru.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D1%8A%D1%91%D0%BC%D0%BD%D1%8B%D0%B9",
-            "title": "маслосъёмный",
-            "content": "",
-            "engine": "wiktionary",
-            "parsed_url": [
-                "https",
-                "ru.wiktionary.org",
-                "/wiki/%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D1%81%D1%8A%D1%91%D0%BC%D0%BD%D1%8B%D0%B9",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wiktionary"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://ru.wiktionary.org/wiki/%D0%BC%[...]81%D1%8A%D1%91%D0%BC%D0%BD%D1%8B%D0%B9"
-        },
-        {
-            "url": "https://www.toyota.ru/owners/manuals/",
-            "title": "Руководства по эксплуатации автомобилей Toyota",
-            "content": "19/11/2021 Реализация отзывной кампании для некоторых автомобилей Toyota Land Cruiser Prado 19 ноября 2021 года компания ООО «Тойота Мотор» приступила к реализации отзывной кампании по замене выпускного коллектора на некоторых ...",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.toyota.ru",
-                "/owners/manuals/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://www.toyota.ru/owners/manuals/"
-        },
-        {
-            "url": "https://ru.wikiquote.org/wiki/Hobosti",
-            "title": "Hobosti",
-            "content": "",
-            "engine": "wikiquote",
-            "parsed_url": [
-                "https",
-                "ru.wikiquote.org",
-                "/wiki/Hobosti",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikiquote"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://ru.wikiquote.org/wiki/Hobosti"
-        },
-        {
-            "url": "https://ru.wikibooks.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA/%D0%A3%D1%80%D0%BE%D0%BA_6",
-            "title": "Японский язык/Урок 6",
-            "content": "",
-            "engine": "wikibooks",
-            "parsed_url": [
-                "https",
-                "ru.wikibooks.org",
-                "/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA/%D0%A3%D1%80%D0%BE%D0%BA_6",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikibooks"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://ru.wikibooks.org/wiki/%D0%AF%D[...]D1%8B%D0%BA/%D0%A3%D1%80%D0%BE%D0%BA_6"
-        },
-        {
-            "url": "https://shop.toyota.com.au/",
-            "title": "shop.toyota.com.auHome | Toyota",
-            "content": "Toyota Supra Picnic Blanket. $32.00. Hybrid Pencil Case. $3.50. Contact Info. Customer Service Team; toyotamerchandise@toyota.com.au (Mon to Fri 9:00am - 5:00pm AEST)",
-            "engine": "yahoo",
-            "parsed_url": [
-                "https",
-                "shop.toyota.com.au",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "yahoo"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://shop.toyota.com.au/"
-        },
-        {
-            "url": "https://ru.wikisource.org/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%95%D0%B3%D0%B8%D0%B0%D0%B7%D0%B0%D1%80%D1%8F%D0%BD%2C_%D0%90%D1%88%D0%BE%D1%82",
-            "title": "Лентапедия/Егиазарян, Ашот",
-            "content": "",
-            "engine": "wikisource",
-            "parsed_url": [
-                "https",
-                "ru.wikisource.org",
-                "/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%95%D0%B3%D0%B8%D0%B0%D0%B7%D0%B0%D1%80%D1%8F%D0%BD%2C_%D0%90%D1%88%D0%BE%D1%82",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikisource"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "https://ru.wikisource.org/wiki/%D0%9B%[...]1%8F%D0%BD%2C_%D0%90%D1%88%D0%BE%D1%82"
-        },
-        {
-            "url": "https://ru.wiktionary.org/wiki/%D1%82%D0%BE%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9",
-            "title": "тойотовский",
-            "content": "",
-            "engine": "wiktionary",
-            "parsed_url": [
-                "https",
-                "ru.wiktionary.org",
-                "/wiki/%D1%82%D0%BE%D0%B9%D0%BE%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wiktionary"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "https://ru.wiktionary.org/wiki/%D1%82%[...]82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9"
-        },
-        {
-            "url": "https://auto.drom.ru/toyota/hiace/",
-            "title": "Купить Тойота Хайс в России: продажа Toyota Hiace с ...",
-            "content": "Частные объявления о продаже Тойота Хайс б/у и новых в России. Узнать стоимость Toyota Hiace и купить с пробегом на Drom.ru",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "auto.drom.ru",
-                "/toyota/hiace/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "https://auto.drom.ru/toyota/hiace/"
-        },
-        {
-            "url": "https://ru.wikiquote.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%B8%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F",
-            "title": "Благие знамения",
-            "content": "",
-            "engine": "wikiquote",
-            "parsed_url": [
-                "https",
-                "ru.wikiquote.org",
-                "/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%B8%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikiquote"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "https://ru.wikiquote.org/wiki/%D0%91%D[...]BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F"
-        },
-        {
-            "url": "http://www.toyota.com.cn/",
-            "title": "www.toyota.com.cn丰田中国官方网站 - 首页 - TOYOTA",
-            "content": "toyota supra限量版车型发售toyota gr86确定引进中国市场- gr进入中国市场一周年 发布多款新车型- 2021年11月01日更新 查看全部新闻",
-            "engine": "yahoo",
-            "parsed_url": [
-                "http",
-                "www.toyota.com.cn",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "yahoo"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "http://www.toyota.com.cn/"
-        },
-        {
-            "url": "https://toyota-i.ru/",
-            "title": "Официальный дилер TOYOTA ИЗМАЙЛОВО в Москве и ...",
-            "content": "Официальный дилер TOYOTA в Москве и области – купить авто в Тойота Центр Измайлово. Работаем ежедневно с 7:00 до 21:00. Звоните +7 (499) 112-29-27.",
-            "engine": "google",
-            "parsed_url": [
-                "https",
-                "toyota-i.ru",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "google"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "https://toyota-i.ru/"
-        },
-        {
-            "url": "https://ru.wikisource.org/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%2C_%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D0%B9",
-            "title": "Лентапедия/Лебедев, Артемий",
-            "content": "",
-            "engine": "wikisource",
-            "parsed_url": [
-                "https",
-                "ru.wikisource.org",
-                "/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%2C_%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D0%B9",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikisource"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://ru.wikisource.org/wiki/%D0%9B%[...]90%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D0%B9"
-        },
-        {
-            "url": "https://ru.wiktionary.org/wiki/%D0%BA%D1%80%D1%83%D0%B7%D0%B0%D0%BA",
-            "title": "крузак",
-            "content": "",
-            "engine": "wiktionary",
-            "parsed_url": [
-                "https",
-                "ru.wiktionary.org",
-                "/wiki/%D0%BA%D1%80%D1%83%D0%B7%D0%B0%D0%BA",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wiktionary"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://ru.wiktionary.org/wiki/%D0%BA%D1%80%D1%83%D0%B7%D0%B0%D0%BA"
-        },
-        {
-            "url": "https://www.drom.ru/catalog/toyota/land_cruiser/",
-            "title": "Тойота Ленд Крузер технические характеристики. Toyota …",
-            "content": "Тойота Ленд Крузер комплектации и цены, фото. Подробно расписан модельный ряд Toyota Land Cruiser: технические характеристики, полная комплектация салона, цвета, в которые окрашивался автомобиль, фото внешнего вида и салона.",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.drom.ru",
-                "/catalog/toyota/land_cruiser/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://www.drom.ru/catalog/toyota/land_cruiser/"
-        },
-        {
-            "url": "https://ru.wikiquote.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC%2C_%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC_%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%BC",
-            "title": "Самолётом, поездом и автомобилем",
-            "content": "",
-            "engine": "wikiquote",
-            "parsed_url": [
-                "https",
-                "ru.wikiquote.org",
-                "/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%BC%2C_%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC_%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%BC",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikiquote"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://ru.wikiquote.org/wiki/%D0%A1%D[...]BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%BC"
-        },
-        {
-            "url": "http://toyotasupplier.com/",
-            "title": "toyotasupplier.comToyota Supplier Home",
-            "content": "Toyota is committed to generating business opportunities that position diverse entrepreneurs for economic sustainability. We work to build a supply base that reflects the diversity of our team members, customers and the communities we serve.",
-            "engine": "yahoo",
-            "parsed_url": [
-                "http",
-                "toyotasupplier.com",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "yahoo"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "http://toyotasupplier.com/"
-        },
-        {
-            "url": "https://toyota-vnukovo.ru/",
-            "title": "Официальный дилер TOYOTA в Москве – купить авто в ...",
-            "content": "Тойота Центр Внуково - официальный дилер TOYOTA в Москве. Предлагаем купить Тойота в Москве. Современный автосалон, полный перечь услуг.",
-            "engine": "google",
-            "parsed_url": [
-                "https",
-                "toyota-vnukovo.ru",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "google"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://toyota-vnukovo.ru/"
-        },
-        {
-            "url": "https://www.toyotakz.com/",
-            "title": "Официальный сайт автомобилей Toyota в Казахстане",
-            "content": "Добро пожаловать на официальный сайт Toyota в Казахстане | Информация о ценах на новые ...",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.toyotakz.com",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                6
-            ],
-            "score": 0.16666666666666666,
-            "category": "general",
-            "pretty_url": "https://www.toyotakz.com/"
-        },
-        {
-            "url": "http://www.kendalltoyota.com/",
-            "title": "www.kendalltoyota.comKendall Toyota in Miami | New Cars | Used Cars | Toyota ...",
-            "content": "Kendall Toyota started out as a small Toyota dealership on US-1 and have grown to become one of the largest and highest volume Toyota dealerships in the nation. As part of the Bean Automotive Group, our vision is to be the leading automotive group within our industry, serving our customers, associates and community.",
-            "engine": "yahoo",
-            "parsed_url": [
-                "http",
-                "www.kendalltoyota.com",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "yahoo"
-            ],
-            "positions": [
-                6
-            ],
-            "score": 0.16666666666666666,
-            "category": "general",
-            "pretty_url": "http://www.kendalltoyota.com/"
-        },
-        {
-            "url": "https://www.reddit.com/r/electricvehicles/comments/qiar0p/details_of_allnew_toyota_bz4x_bev_announced/",
-            "title": "Details of All-New [Toyota] bZ4X BEV Announced",
-            "img_src": "https://global.toyota/en/newsroom/toyota/36254760.html",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/fbEK3zipegkWv1zB8t94vG3VrLW6vPL0_wFfHbE-qmw.jpg",
-            "template": "images.html",
+            "url": "https://www.reddit.com/r/SPACs/comments/mrluzs/cciv_a_deal_with_carmakers_such_as_honda_hyundai/",
+            "title": "CCIV: \"A deal with carmakers such as Honda, Hyundai or Toyota (named by Rawlinson) would be the “icing on the cake”\"",
+            "content": "Disclaimer: obviously not a financial advisor and long on CCIV (30% of my portfolio). Please do your own due diligence. This posting is just for entertainment :) **Previous DD postings:** [https://www.reddit.com/r/SPACs/comments/m6hkgt/cciv\\_rawlinson\\_said\\_six\\_wellknown\\_automakers\\_have/](https://www.reddit.com/r/SPACs/comments/m6hkgt/cciv_rawlinson_said_six_wellknown_automakers_have/) [https://www.reddit.com/r/SPACs/comments/mfyewv/cciv\\_lucids\\_biggest\\_shareholder\\_we\\_will\\_invest\\_at...",
+            "publishedDate": "Apr 15, 2021",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/electricvehicles/comments/qiar0p/details_of_allnew_toyota_bz4x_bev_announced/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "reddit"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://www.reddit.com/r/electricvehic[...]s_of_allnew_toyota_bz4x_bev_announced/"
-        },
-        {
-            "url": "https://www.reddit.com/r/electricvehicles/comments/qu66zw/toyota_forms_team_japan_to_help_keep_combustion/",
-            "title": "\"Toyota Forms ‘Team Japan’ To Help Keep Combustion Engine Alive\"",
-            "img_src": "https://insideevs.com/news/547809/toyota-team-japan/amp/",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/uqkdoG5inqc1AXB5Km8iuMNH5li6OYgDfdidxmVq8vs.jpg",
-            "template": "images.html",
-            "engine": "reddit",
-            "parsed_url": [
-                "https",
-                "www.reddit.com",
-                "/r/electricvehicles/comments/qu66zw/toyota_forms_team_japan_to_help_keep_combustion/",
+                "/r/SPACs/comments/mrluzs/cciv_a_deal_with_carmakers_such_as_honda_hyundai/",
                 "",
                 "",
                 ""
@@ -981,19 +885,65 @@
             ],
             "score": 0.16666666666666666,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/electricvehic[...]ms_team_japan_to_help_keep_combustion/"
+            "pretty_url": "https://www.reddit.com/r/SPACs/comment[...]_with_carmakers_such_as_honda_hyundai/",
+            "pubdate": "2021-04-15 22:15:59"
         },
         {
-            "url": "https://www.reddit.com/r/HistoryMemes/comments/qqtv7q/the_toyota_war_is_way_to_underrated/",
-            "title": "The Toyota War is WAY to underrated",
-            "img_src": "https://i.redd.it/5azjioydnry71.png",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/bn07jT6wDjHpHd6J8izh38G3BxhTEPPt1dJwrYPoUCw.jpg",
-            "template": "images.html",
+            "url": "https://www.toyota.com.au/corporate/toyota-motor-corporation-australia",
+            "title": "About The Company | Toyota Australia",
+            "content": "Toyota Australia Since its foundation in 1937, globally, Toyota has strived continuously to contribute to the sustainable development of society and the planet through its business operations. It’s a principle that we have continued since Toyota Australia started in 1963 and has helped to cement our position as Australia’s leading automotive company.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "www.toyota.com.au",
+                "/corporate/toyota-motor-corporation-australia",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                7
+            ],
+            "score": 0.14285714285714285,
+            "category": "general",
+            "pretty_url": "https://www.toyota.com.au/corporate/toyota-motor-corporation-australia"
+        },
+        {
+            "url": "https://www.britannica.com/topic/Toyota-Motor-Corporation",
+            "title": "Toyota Motor Corporation | History & Facts | Britannica",
+            "content": "Toyota Motor Corporation, Japanese parent company of the Toyota Group. ... Toyota acquired such companies as Hino Motors, Ltd. (1966), a manufacturer of ...Founders: Kiichiro Toyoda",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "www.britannica.com",
+                "/topic/Toyota-Motor-Corporation",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                7
+            ],
+            "score": 0.14285714285714285,
+            "category": "general",
+            "pretty_url": "https://www.britannica.com/topic/Toyota-Motor-Corporation"
+        },
+        {
+            "url": "https://www.reddit.com/r/CCIV/comments/mrku6z/lucidpartnership_incoming_a_deal_with_carmakers/",
+            "title": "Lucid-partnership incoming? \"A deal with carmakers such as Honda, Hyundai or Toyota (named by Rawlinson) would be the “icing on the cake”\"",
+            "content": "In this update video, we focused on a recent Guardian article, in which Rawlinson specifically mentions these 3 car producers: [https://www.youtube.com/watch?v=HJa\\_92VMPvk](https://www.youtube.com/watch?v=HJa_92VMPvk) We present the case, why a partnership is highly likely (it's a core pillar of Lucid's strategy) and we also mention BMW and Jaguar as potential partners. **Speculation**: I think a partnership with a well-known car producer is not priced in at all. The market simply doesn'...",
+            "publishedDate": "Apr 15, 2021",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/HistoryMemes/comments/qqtv7q/the_toyota_war_is_way_to_underrated/",
+                "/r/CCIV/comments/mrku6z/lucidpartnership_incoming_a_deal_with_carmakers/",
                 "",
                 "",
                 ""
@@ -1006,19 +956,65 @@
             ],
             "score": 0.14285714285714285,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/HistoryMemes/[...]q/the_toyota_war_is_way_to_underrated/"
+            "pretty_url": "https://www.reddit.com/r/CCIV/comments[...]ership_incoming_a_deal_with_carmakers/",
+            "pubdate": "2021-04-15 21:28:11"
         },
         {
-            "url": "https://www.reddit.com/r/bayarea/comments/qyul1d/oakland_toyota_price_gouging/",
-            "title": "Oakland Toyota price gouging",
-            "img_src": "https://i.redd.it/7bnwfwjk6y081.jpg",
-            "thumbnail_src": "https://a.thumbs.redditmedia.com/TW_EQbgjgwuM-Sr2SuE0iTu8RzdfE-jMq55xUi0Uzz4.jpg",
-            "template": "images.html",
+            "url": "https://www.canadianblackbook.com/Toyota/",
+            "title": "Toyota: Cars, Trucks, SUVs, Minivans and Hybrids ...",
+            "content": "In addition to the Prius, Toyota has other well-known and admired models such as the Camry and Lexus, and also partnered with Tesla Motors to create a series of electric vehicles in 2010. Toyota has a body style for any family situation with compact models like the Yaris and the Corolla, but also the popular Toyota Sienna, when you need that extra seating and space.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "www.canadianblackbook.com",
+                "/Toyota/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                8
+            ],
+            "score": 0.125,
+            "category": "general",
+            "pretty_url": "https://www.canadianblackbook.com/Toyota/"
+        },
+        {
+            "url": "https://www.reuters.com/article/us-honda-output-idUSKBN29D1NF",
+            "title": "Chip shortage forces Ford, Toyota, Nissan, FCA to cut vehicle ...",
+            "content": "Jan 8, 2021 — Ford Motor Co, Toyota Motor Corp <7203. ... Major auto chip suppliers such as NXP Semiconductor said auto production rebounded faster than ...",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "www.reuters.com",
+                "/article/us-honda-output-idUSKBN29D1NF",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                8
+            ],
+            "score": 0.125,
+            "category": "general",
+            "pretty_url": "https://www.reuters.com/article/us-honda-output-idUSKBN29D1NF"
+        },
+        {
+            "url": "https://www.reddit.com/r/MechanicAdvice/comments/p8vc7n/car_epcs_required/",
+            "title": "Car EPC's required",
+            "content": "Hello everyone, a young car enthusiast from Pakistan interested in starting a spare parts business. Wanted to ask about car parts catalogues known as epc's that are available on many online websites of businesses dealing with OEM car parts such as megazip, catcar etc. Do the companies such as Toyota or Suzuki etc themselves give them access to this data or do they attain it from somewhere else? I'm familiar with the EPC softwares but just can't find out how these websites have the exact data as ...",
+            "publishedDate": "Aug 21, 2021",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/bayarea/comments/qyul1d/oakland_toyota_price_gouging/",
+                "/r/MechanicAdvice/comments/p8vc7n/car_epcs_required/",
                 "",
                 "",
                 ""
@@ -1031,19 +1027,65 @@
             ],
             "score": 0.125,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/bayarea/comme[...]s/qyul1d/oakland_toyota_price_gouging/"
+            "pretty_url": "https://www.reddit.com/r/MechanicAdvice/comments/p8vc7n/car_epcs_required/",
+            "pubdate": "2021-08-21 20:16:39"
         },
         {
-            "url": "https://www.reddit.com/r/carporn/comments/qzqezj/toyota_tacoma_tacozilla_camper_overlanding_truck/",
-            "title": "Toyota Tacoma Tacozilla Camper Overlanding Truck at the 2021 Los Angeles Auto Show [5184x3456]",
-            "img_src": "https://i.redd.it/23yq7v84k6181.jpg",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/YV8A9UPftOqYhlbgqG_dHZf5fOpiwDPlTQ5qB4BlxCw.jpg",
-            "template": "images.html",
+            "url": "http://www.global-toyotaforklifts.com/",
+            "title": "Toyota Material Handling Global WebSite",
+            "content": "TMH G. T oyota M aterial H andling Group - A division of Toyota Industries Corporation. The flow of goods links the world and enriches the lives of people and society. By providing a diverse range of material handling equipment such as forklifts, TMHG supports people working at the frontlines of logistics and helps bring smiles to the faces of people all over the world.",
+            "engine": "bing",
+            "parsed_url": [
+                "http",
+                "www.global-toyotaforklifts.com",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                9
+            ],
+            "score": 0.1111111111111111,
+            "category": "general",
+            "pretty_url": "http://www.global-toyotaforklifts.com/"
+        },
+        {
+            "url": "https://www.toyota.com/support/privacy-rights/",
+            "title": "Privacy | Toyota.com",
+            "content": "Jan 1, 2021 — Some of our products and services may have additional privacy statements that apply, such as Toyota Connected Services.",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "www.toyota.com",
+                "/support/privacy-rights/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                9
+            ],
+            "score": 0.1111111111111111,
+            "category": "general",
+            "pretty_url": "https://www.toyota.com/support/privacy-rights/"
+        },
+        {
+            "url": "https://www.reddit.com/r/Cartalk/comments/pa74ov/auto_epcs_information_required_for_business/",
+            "title": "Auto EPC's information required for business",
+            "content": "Hello everyone, a young car enthusiast from Pakistan interested in starting a spare parts business. Wanted to ask about car parts catalogues known as epc's that are available on many online websites of businesses dealing with OEM car parts such as megazip, catcar etc. Do the companies such as Toyota or Suzuki etc themselves give them access to this data or do they attain it from somewhere else? I'm familiar with the EPC softwares but just can't find out how these websites have the exact data as ...",
+            "publishedDate": "Aug 23, 2021",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/carporn/comments/qzqezj/toyota_tacoma_tacozilla_camper_overlanding_truck/",
+                "/r/Cartalk/comments/pa74ov/auto_epcs_information_required_for_business/",
                 "",
                 "",
                 ""
@@ -1056,19 +1098,65 @@
             ],
             "score": 0.1111111111111111,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/carporn/comme[...]ma_tacozilla_camper_overlanding_truck/"
+            "pretty_url": "https://www.reddit.com/r/Cartalk/comme[...]pcs_information_required_for_business/",
+            "pubdate": "2021-08-23 22:36:49"
         },
         {
-            "url": "https://www.reddit.com/r/therewasanattempt/comments/q916j1/to_defend_toyota_supra_from_hail_storm/",
-            "title": "TO Defend Toyota Supra From Hail Storm",
-            "img_src": "https://v.redd.it/10kxrorfjpt71",
-            "thumbnail_src": "https://a.thumbs.redditmedia.com/Lrb80hoSYp-X62awsWyo7eV4YyH7EwQofqzQ5ML5Rj0.jpg",
-            "template": "images.html",
+            "url": "https://pressroom.toyota.com/news/",
+            "title": "News - Toyota USA Newsroom",
+            "content": "12.11.2021 · LOS ANGELES (Nov. 17, 2021) – Toyota will display an array of its latest vehicles at the 2021 Los Angeles Auto Show, including the all-electric bZ4X SUV and new 2022 RAV4 SE Hybrid grade. Additionally, the 2022 NASCAR Toyota Tundra TRD Pro is making its first auto show appearance, along with three customized SEMA builds, including the TRD Desert Chase Tundra, Tacozilla and GR Supra …",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "pressroom.toyota.com",
+                "/news/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                10
+            ],
+            "score": 0.1,
+            "category": "general",
+            "pretty_url": "https://pressroom.toyota.com/news/"
+        },
+        {
+            "url": "https://www.toyota-global.com/company/history_of_toyota/75years/common/pdf/code_of_conduct.pdf",
+            "title": "TOYOTA CODE OF CONDUCT",
+            "content": "Ever since the company was founded in 1937, we, TOYOTA MOTOR CORPORATION and our ... For an automotive manufacturing company such as TOYOTA, the pursuit of ...19 pages",
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "www.toyota-global.com",
+                "/company/history_of_toyota/75years/common/pdf/code_of_conduct.pdf",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                10
+            ],
+            "score": 0.1,
+            "category": "general",
+            "pretty_url": "https://www.toyota-global.com/company/[...]75years/common/pdf/code_of_conduct.pdf"
+        },
+        {
+            "url": "https://www.reddit.com/r/AskReddit/comments/dwphc6/assuming_prostitution_is_100_legalized_and_ran_by/",
+            "title": "Assuming prostitution is 100% legalized and ran by big corporations such as Disney, Microsoft, or Toyota. What would be the job requirements and skills needed on the resume to beat all of the other applicants to work at a \"prestigious\" top 3 prostitution corporation that has decent benefits?",
+            "content": "",
+            "publishedDate": "Nov 15, 2019",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/therewasanattempt/comments/q916j1/to_defend_toyota_supra_from_hail_storm/",
+                "/r/AskReddit/comments/dwphc6/assuming_prostitution_is_100_legalized_and_ran_by/",
                 "",
                 "",
                 ""
@@ -1081,19 +1169,19 @@
             ],
             "score": 0.1,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/therewasanatt[...]o_defend_toyota_supra_from_hail_storm/"
+            "pretty_url": "https://www.reddit.com/r/AskReddit/com[...]stitution_is_100_legalized_and_ran_by/",
+            "pubdate": "2019-11-15 14:27:28"
         },
         {
-            "url": "https://www.reddit.com/r/Justrolledintotheshop/comments/qaepdb/2022_toyota_4runner_adjusted/",
-            "title": "2022 Toyota 4Runner *adjusted",
-            "img_src": "https://www.reddit.com/gallery/qaepdb",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/N_g_r5QsiOFbi6AgYWN-8P7euoPl8Q8DTXHkCwr5qFI.jpg",
-            "template": "images.html",
+            "url": "https://www.reddit.com/r/Stance/comments/hobm33/looking_to_build_a_japanese_vip_car_such_as/",
+            "title": "Looking to build a Japanese vip car such as Toyota crown or Nissan president but can’t find parts can someone tell me where to find suspension for jdm sedans",
+            "content": "",
+            "publishedDate": "Jul 10, 2020",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/Justrolledintotheshop/comments/qaepdb/2022_toyota_4runner_adjusted/",
+                "/r/Stance/comments/hobm33/looking_to_build_a_japanese_vip_car_such_as/",
                 "",
                 "",
                 ""
@@ -1106,19 +1194,19 @@
             ],
             "score": 0.09090909090909091,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/Justrolledint[...]s/qaepdb/2022_toyota_4runner_adjusted/"
+            "pretty_url": "https://www.reddit.com/r/Stance/commen[...]g_to_build_a_japanese_vip_car_such_as/",
+            "pubdate": "2020-07-10 00:21:05"
         },
         {
-            "url": "https://www.reddit.com/r/electricvehicles/comments/qw7raz/tesla_toyota_accuse_bidens_ev_tax_credit_of/",
-            "title": "Tesla, Toyota Accuse Biden’s EV Tax Credit of Putting Unions Over the Environment",
-            "img_src": "https://www.wsj.com/articles/biden-electric-vehicle-tax-credit-tesla-toyota-11637161415?st=wl6c81pweklwrav&amp;reflink=article_copyURL_share",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/VGZiNbwpvzYmaZ9VhUJOh-6YA4XBj8Wx9q3LsTKWp3A.jpg",
-            "template": "images.html",
+            "url": "https://www.reddit.com/r/DonutMedia/comments/grq2ia/past_gas_on_manufacturer_team_ups_such_as_gm/",
+            "title": "Past gas on manufacturer team ups such as GM & Toyota, Ford & Mazda, or Chrysler & Mitsubishi etc.",
+            "content": "",
+            "publishedDate": "May 27, 2020",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/electricvehicles/comments/qw7raz/tesla_toyota_accuse_bidens_ev_tax_credit_of/",
+                "/r/DonutMedia/comments/grq2ia/past_gas_on_manufacturer_team_ups_such_as_gm/",
                 "",
                 "",
                 ""
@@ -1131,19 +1219,19 @@
             ],
             "score": 0.08333333333333333,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/electricvehic[...]toyota_accuse_bidens_ev_tax_credit_of/"
+            "pretty_url": "https://www.reddit.com/r/DonutMedia/co[...]s_on_manufacturer_team_ups_such_as_gm/",
+            "pubdate": "2020-05-27 22:07:20"
         },
         {
-            "url": "https://www.reddit.com/r/energy/comments/qvbl4a/the_antitesla_why_toyota_remains_hung_up_on/",
-            "title": "The Anti-Tesla: Why Toyota Remains Hung Up On Hydrogen. Why does such an advanced company continue to insist that fuel cells are a viable technology for passenger cars? “The original bet on hydrogen wasn’t a mistake, but continuing the pursuit past 2010 certainly was.”",
-            "img_src": "https://cleantechnica.com/2021/11/14/the-anti-tesla-why-toyota-remains-hung-up-on-hydrogen/amp/",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/lGw6Dr5ckIGbMi9pRSggZGeGGV8Erb9I5cAaXhAG26o.jpg",
-            "template": "images.html",
+            "url": "https://www.reddit.com/r/AskEngineers/comments/cbr7m7/what_is_it_like_to_work_for_toyota_such_as/",
+            "title": "What is it like to work for Toyota, such as working on their innovative Prius’s or other tech because I feel like people under appreciate Toyota as an engineering company",
+            "content": "",
+            "publishedDate": "Jul 11, 2019",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/energy/comments/qvbl4a/the_antitesla_why_toyota_remains_hung_up_on/",
+                "/r/AskEngineers/comments/cbr7m7/what_is_it_like_to_work_for_toyota_such_as/",
                 "",
                 "",
                 ""
@@ -1156,230 +1244,19 @@
             ],
             "score": 0.07692307692307693,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/energy/commen[...]titesla_why_toyota_remains_hung_up_on/"
+            "pretty_url": "https://www.reddit.com/r/AskEngineers/[...]is_it_like_to_work_for_toyota_such_as/",
+            "pubdate": "2019-07-11 07:23:18"
         },
         {
-            "url": "https://toyotabc.ru/",
-            "title": "Тойота - Официальный дилер в Москве | Бизнес Кар ...",
-            "content": "ГК Бизнес Кар - первый официальный дилер Toyota в России. 6 дилерских центров Тойота в Москве. Лучшие цены на покупку и обслуживание.",
-            "engine": "google",
-            "parsed_url": [
-                "https",
-                "toyotabc.ru",
-                "/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "google"
-            ],
-            "positions": [
-                6
-            ],
-            "score": 0.16666666666666666,
-            "category": "general",
-            "pretty_url": "https://toyotabc.ru/"
-        },
-        {
-            "url": "https://www.instagram.com/kuntsevo_toyota_centre/",
-            "title": "@kuntsevo_toyota_centre is on Instagram • 14.9k people ...",
-            "content": "14.9k Followers, 845 Following, 1,241 Posts - See Instagram photos and videos from ТОЙОТА ЦЕНТР КУНЦЕВО (@kuntsevo_toyota_centre)",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.instagram.com",
-                "/kuntsevo_toyota_centre/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                7
-            ],
-            "score": 0.14285714285714285,
-            "category": "general",
-            "pretty_url": "https://www.instagram.com/kuntsevo_toyota_centre/"
-        },
-        {
-            "url": "https://www.toyota.com/racing/trd",
-            "title": "www.toyota.com › racing › trdSearch for TRD Parts | Toyota.com",
-            "content": "Owning an off-road legend means you sometimes need parts to keep it going. Find the TRD part you need to get back on the road today.",
-            "engine": "yahoo",
-            "parsed_url": [
-                "https",
-                "www.toyota.com",
-                "/racing/trd",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "yahoo"
-            ],
-            "positions": [
-                7
-            ],
-            "score": 0.14285714285714285,
-            "category": "general",
-            "pretty_url": "https://www.toyota.com/racing/trd"
-        },
-        {
-            "url": "https://www.rolf.ru/cars/toyota/",
-            "title": "Автосалон Тойота | Официальный дилер Toyota в Москве ...",
-            "content": "Официальный дилер Тойота РОЛЬФ в Москве: модельный ряд, технические характеристики, комплектации и цены на новые Toyota 2020 и 2021 года на особых условиях.",
-            "engine": "google",
-            "parsed_url": [
-                "https",
-                "www.rolf.ru",
-                "/cars/toyota/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "google"
-            ],
-            "positions": [
-                7
-            ],
-            "score": 0.14285714285714285,
-            "category": "general",
-            "pretty_url": "https://www.rolf.ru/cars/toyota/"
-        },
-        {
-            "url": "https://www.drive2.ru/experience/toyota/g5600/",
-            "title": "DRIVE2",
-            "content": "Мы хотели бы показать здесь описание, но сайт, который вы просматриваете, этого не позволяет.",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.drive2.ru",
-                "/experience/toyota/g5600/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                8
-            ],
-            "score": 0.125,
-            "category": "general",
-            "pretty_url": "https://www.drive2.ru/experience/toyota/g5600/"
-        },
-        {
-            "url": "https://www.japancars.ru/index.php?route=catalog%2Ftoyota",
-            "title": "Каталог запчастей TOYOTA и LEXUS",
-            "content": "Начало » Каталоги » Каталог Toyota & Lexus. Каталог запчастей TOYOTA и LEXUS. VIN ...",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.japancars.ru",
-                "/index.php",
-                "",
-                "route=catalog%2Ftoyota",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                9
-            ],
-            "score": 0.1111111111111111,
-            "category": "general",
-            "pretty_url": "https://www.japancars.ru/index.php?route=catalog%2Ftoyota"
-        },
-        {
-            "url": "https://www.ixbt.com/news/2021/11/15/toyota-rav4-25.html",
-            "title": "Представлен новый гибрид Toyota RAV4. Самый …",
-            "content": "15.11.2021 · Toyota RAV4, самый продаваемый кроссовер марки, отмечает 25-летие в США. Чтобы отметить это событие, Toyota представила новые варианты окраски, колёсные дисков и фары для существующих версий, а также новую гибридную модель.",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.ixbt.com",
-                "/news/2021/11/15/toyota-rav4-25.html",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                10
-            ],
-            "score": 0.1,
-            "category": "general",
-            "pretty_url": "https://www.ixbt.com/news/2021/11/15/toyota-rav4-25.html"
-        },
-        {
-            "url": "https://www.reddit.com/r/cars/comments/qyyl94/toyota_will_disable_key_fob_remote_start_unless/",
-            "title": "Toyota will disable key fob remote start unless you pay a monthly fee",
-            "content": "",
-            "publishedDate": "Nov 21, 2021",
+            "url": "https://www.reddit.com/r/cars/comments/552hzd/what_is_the_reasoning_behind_bmw_and_mercedes/",
+            "title": "What is the reasoning behind BMW and Mercedes Benz not having lower-tier brands such as Lexus/Toyota or Audi/Volkswagen?",
+            "content": "I realize it's usually the lower tiered brand that owns the luxury one, but how come BMW/MB don't own/aren't owned by an average-consumer brand?",
+            "publishedDate": "Sep 29, 2016",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/cars/comments/qyyl94/toyota_will_disable_key_fob_remote_start_unless/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "reddit"
-            ],
-            "positions": [
-                15
-            ],
-            "score": 0.06666666666666667,
-            "category": "general",
-            "pretty_url": "https://www.reddit.com/r/cars/comments[...]l_disable_key_fob_remote_start_unless/",
-            "pubdate": "2021-11-21 19:31:50"
-        },
-        {
-            "url": "https://www.reddit.com/r/wallstreetbets/comments/qlb35d/yo_seriously_what_the_shit_would_tesla_even_need/",
-            "title": "Yo seriously. What the shit would Tesla even need to do for profit in order to even justify it's current valuation???? 1.2t market cap. Amazon is at 1.7t and the most profitable car company rn is Toyota at 300b .......???",
-            "content": "Mind you Walmart is at 400b market cap. So what this means is that Tesla would need to make as much profit as 3 Walmart corporations In the future in order to even justify it's CURRENT market cap. It's actually absurd. It almost seems like people who are investing into Tesla don't really understand what it's current market cap even means... I've heard from a Tesla investor that Tesla would become an industry leader like hibachi Ltd.... And once that happens Tesla is going to moon..... And its ...",
-            "publishedDate": "Nov 2, 2021",
-            "engine": "reddit",
-            "parsed_url": [
-                "https",
-                "www.reddit.com",
-                "/r/wallstreetbets/comments/qlb35d/yo_seriously_what_the_shit_would_tesla_even_need/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "reddit"
-            ],
-            "positions": [
-                16
-            ],
-            "score": 0.0625,
-            "category": "general",
-            "pretty_url": "https://www.reddit.com/r/wallstreetbet[...]y_what_the_shit_would_tesla_even_need/",
-            "pubdate": "2021-11-02 21:43:45"
-        },
-        {
-            "url": "https://www.reddit.com/r/carporn/comments/r17kre/awesome_toyota_supra_10791080/",
-            "title": "Awesome Toyota Supra (1079×1080)",
-            "img_src": "https://i.redd.it/atnxtwm79k181.png",
-            "thumbnail_src": "https://b.thumbs.redditmedia.com/_elQj8uANxZls4yCSjj4Tp6Q2qMR63X-pTDz-pZVpIk.jpg",
-            "template": "images.html",
-            "engine": "reddit",
-            "parsed_url": [
-                "https",
-                "www.reddit.com",
-                "/r/carporn/comments/r17kre/awesome_toyota_supra_10791080/",
+                "/r/cars/comments/552hzd/what_is_the_reasoning_behind_bmw_and_mercedes/",
                 "",
                 "",
                 ""
@@ -1392,18 +1269,69 @@
             ],
             "score": 0.07142857142857142,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/carporn/comme[...]/r17kre/awesome_toyota_supra_10791080/"
+            "pretty_url": "https://www.reddit.com/r/cars/comments[...]the_reasoning_behind_bmw_and_mercedes/",
+            "pubdate": "2016-09-29 17:44:44"
         },
         {
-            "url": "https://www.reddit.com/r/cars/comments/r18pzy/toyota_busts_the_car_microchip_shortage_announced/",
-            "title": "Toyota Busts The Car Microchip Shortage - announced it will be back to full global production capacity in December 2021",
+            "url": "https://www.reddit.com/r/NoStupidQuestions/comments/col3ct/can_the_licence_plate_of_a_toyota_for_example/",
+            "title": "Can the licence plate of a Toyota (for example) contain the letters spelling out words such as BMW or KIA?",
             "content": "",
-            "publishedDate": "Nov 24, 2021",
+            "publishedDate": "Aug 10, 2019",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/cars/comments/r18pzy/toyota_busts_the_car_microchip_shortage_announced/",
+                "/r/NoStupidQuestions/comments/col3ct/can_the_licence_plate_of_a_toyota_for_example/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "reddit"
+            ],
+            "positions": [
+                15
+            ],
+            "score": 0.06666666666666667,
+            "category": "general",
+            "pretty_url": "https://www.reddit.com/r/NoStupidQuest[...]licence_plate_of_a_toyota_for_example/",
+            "pubdate": "2019-08-10 20:40:35"
+        },
+        {
+            "url": "https://www.reddit.com/r/sellmycar/comments/b1krx0/im_moving_to_dallas_from_raleigh_should_i_sell_my/",
+            "title": "Im moving to Dallas from Raleigh. Should I sell my car in nc or to drive to Dallas and then sell it. Toyota camry 2006, 123K miles. I‘d like to understand what are all the different things to keep in mind as I make this decision such as sales tax, additional registration fee, etc. Thank you!",
+            "content": "",
+            "publishedDate": "Mar 16, 2019",
+            "engine": "reddit",
+            "parsed_url": [
+                "https",
+                "www.reddit.com",
+                "/r/sellmycar/comments/b1krx0/im_moving_to_dallas_from_raleigh_should_i_sell_my/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "reddit"
+            ],
+            "positions": [
+                16
+            ],
+            "score": 0.0625,
+            "category": "general",
+            "pretty_url": "https://www.reddit.com/r/sellmycar/com[...]_dallas_from_raleigh_should_i_sell_my/",
+            "pubdate": "2019-03-16 00:56:52"
+        },
+        {
+            "url": "https://www.reddit.com/r/askcarsales/comments/hhrk0x/car_credit_approval_differs_for_different_car/",
+            "title": "Car Credit Approval differs for different car brands?",
+            "content": "&#x200B; Hey, &#x200B; I just heard this rumor about Credit approval on different car brand. &#x200B; Can I get rejected on the Japanese Car such as Toyota or Nissan but get approved on Hyundai or Ford?",
+            "publishedDate": "Jun 29, 2020",
+            "engine": "reddit",
+            "parsed_url": [
+                "https",
+                "www.reddit.com",
+                "/r/askcarsales/comments/hhrk0x/car_credit_approval_differs_for_different_car/",
                 "",
                 "",
                 ""
@@ -1416,19 +1344,19 @@
             ],
             "score": 0.058823529411764705,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/cars/comments[...]_the_car_microchip_shortage_announced/",
-            "pubdate": "2021-11-24 19:14:10"
+            "pretty_url": "https://www.reddit.com/r/askcarsales/c[...]it_approval_differs_for_different_car/",
+            "pubdate": "2020-06-29 05:25:28"
         },
         {
-            "url": "https://www.reddit.com/r/nfl/comments/qm7qrf/schefter_according_to_police_tina_o_tintor_was/",
-            "title": "[Schefter] According to police, Tina O. Tintor was the name of the Las Vegas woman who died with her dog in the wrecked and burned Toyota RAV4. Records show she lived several blocks from where the crash occurred on a busy thoroughfare in a residential area several miles west of the Strip",
+            "url": "https://www.reddit.com/r/explainlikeimfive/comments/6qb8kc/eli5_why_do_car_companies_such_as_chevy_or_toyota/",
+            "title": "ELI5: Why do car companies such as Chevy or Toyota dissolve their brands (Saturn, Pontiac, Scion) but then keep making the cars under a new brand? How is this advantageous? (i.e. Chevy Captiva, Toyota iM, Lexus CT200)",
             "content": "",
-            "publishedDate": "Nov 4, 2021",
+            "publishedDate": "Jul 29, 2017",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/nfl/comments/qm7qrf/schefter_according_to_police_tina_o_tintor_was/",
+                "/r/explainlikeimfive/comments/6qb8kc/eli5_why_do_car_companies_such_as_chevy_or_toyota/",
                 "",
                 "",
                 ""
@@ -1441,19 +1369,19 @@
             ],
             "score": 0.05555555555555555,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/nfl/comments/[...]according_to_police_tina_o_tintor_was/",
-            "pubdate": "2021-11-04 02:51:53"
+            "pretty_url": "https://www.reddit.com/r/explainlikeim[...]car_companies_such_as_chevy_or_toyota/",
+            "pubdate": "2017-07-29 17:29:37"
         },
         {
-            "url": "https://www.reddit.com/r/stocks/comments/r1g02r/toyota_busts_the_car_microchip_shortage_returning/",
-            "title": "Toyota Busts The Car Microchip Shortage - Returning to full production by EOY",
-            "content": "https://news.yahoo.com/toyota-busts-car-microchip-shortage-200000094.html - Toyota has announced it will be back to full global production capacity in December. In fact, the company says it anticipates churning out 800,000 vehicles next month, up from the 760,000 it made in December of 2020. I assume they're storing CPUs and other parts and have modified the Toyota Production System to get around this. I wouldn't say it's signs of the shortage ending. Trust Toyota to find a way out of all the ...",
-            "publishedDate": "19 hour(s), 55 minute(s) ago",
+            "url": "https://www.reddit.com/r/Frugal/comments/1a3xxy/wanting_to_buy_a_new_subcompact_car_please_do_not/",
+            "title": "Wanting to buy a new subcompact car. Please do not suggest used or Craigslist. Was considering a hatchback such as Toyota Yaris, Honda Fit, Ford Fiesta, or Chevy Sonic. Want people's opinions on what is the most frugal new car.",
+            "content": "I do not have a car right now because my job doesn't need it. However, I am about to start a new job soon and will most likely commute 30 min each day. I cannot move because I will be living at my bf's house which he bought and be paying a very reduced rent of $400ish a month. I am planning on buying a new car that has decent fuel economy, has lots of storage, nice exterior, etc. I do not wish to go to a dealer and buy a used car because the prices are ridiculous and some cost about the same...",
+            "publishedDate": "Mar 12, 2013",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/stocks/comments/r1g02r/toyota_busts_the_car_microchip_shortage_returning/",
+                "/r/Frugal/comments/1a3xxy/wanting_to_buy_a_new_subcompact_car_please_do_not/",
                 "",
                 "",
                 ""
@@ -1466,19 +1394,19 @@
             ],
             "score": 0.05263157894736842,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/stocks/commen[...]_the_car_microchip_shortage_returning/",
-            "pubdate": "2021-11-25 00:43:06"
+            "pretty_url": "https://www.reddit.com/r/Frugal/commen[...]uy_a_new_subcompact_car_please_do_not/",
+            "pubdate": "2013-03-12 02:28:36"
         },
         {
-            "url": "https://www.reddit.com/r/cars/comments/qha3ax/the_2022_toyota_gr_86_priced_its_less_than_29000/",
-            "title": "The 2022 Toyota GR 86 Priced: It’s Less Than $29,000!",
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/3fg9pm/the_ceos_of_companies_such_as_toyota_chevrolet/",
+            "title": "The CEOs of companies such as Toyota, Chevrolet, etc can't get a luxury car such as a Lamborghini or Ferrari without being deemed a traitor",
             "content": "",
-            "publishedDate": "Oct 28, 2021",
+            "publishedDate": "Aug 2, 2015",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/cars/comments/qha3ax/the_2022_toyota_gr_86_priced_its_less_than_29000/",
+                "/r/Showerthoughts/comments/3fg9pm/the_ceos_of_companies_such_as_toyota_chevrolet/",
                 "",
                 "",
                 ""
@@ -1491,19 +1419,19 @@
             ],
             "score": 0.05,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/cars/comments[...]yota_gr_86_priced_its_less_than_29000/",
-            "pubdate": "2021-10-28 03:00:21"
+            "pretty_url": "https://www.reddit.com/r/Showerthought[...]of_companies_such_as_toyota_chevrolet/",
+            "pubdate": "2015-08-02 01:30:50"
         },
         {
-            "url": "https://www.reddit.com/r/cars/comments/r1ggjz/2022_subaru_brz_and_toyota_gr86_post_serious/",
-            "title": "2022 Subaru BRZ and Toyota GR86 Post Serious Performance Numbers",
-            "content": "",
-            "publishedDate": "19 hour(s), 34 minute(s) ago",
+            "url": "https://www.reddit.com/r/whatcarshouldIbuy/comments/364yec/2_questions_1_buying_first_car_in_australia_is_it/",
+            "title": "2 Questions: 1. Buying first car in Australia. Is it expensive to own european models such as BMWs and Audis? 2. Is a Lexus is200 (toyota altezza) manual powerful, or would a supra be a better choice?",
+            "content": "I am interested in old BMW 3 series and Audi 4's, but I love JDM cars such as Supras and silvias. can i get a european car without it being too expensive or should I stick to JDMs?",
+            "publishedDate": "May 16, 2015",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/cars/comments/r1ggjz/2022_subaru_brz_and_toyota_gr86_post_serious/",
+                "/r/whatcarshouldIbuy/comments/364yec/2_questions_1_buying_first_car_in_australia_is_it/",
                 "",
                 "",
                 ""
@@ -1516,19 +1444,19 @@
             ],
             "score": 0.047619047619047616,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/cars/comments[...]baru_brz_and_toyota_gr86_post_serious/",
-            "pubdate": "2021-11-25 01:04:21"
+            "pretty_url": "https://www.reddit.com/r/whatcarshould[...]1_buying_first_car_in_australia_is_it/",
+            "pubdate": "2015-05-16 07:37:21"
         },
         {
-            "url": "https://www.reddit.com/r/cars/comments/qnj0eo/whats_your_automotive_white_whale_mine_is_a_2010/",
-            "title": "Whats your automotive white whale? Mine is A 2010 4Runner with the 2.7L 4 Cylinder. Did Toyota actually sell any of them? Has anyone ever seen one?",
-            "content": "For the current 4Runners first year of production Toyota offered a comically underpowered 151HP 4 cylinder attached to an ancient 4 speed automatic, in RWD only guise for the 2010 model year. 30lbs/hp and was rated to tow 2000lbs. It was discontinued for the 2011 MY. I have never seen a video of one running, I have never seen one for sale, and AFAIK nobody even in the 4Runner forums owns one. I know of one photo in existence of its [engine bay](https://imgur.com/kfS7W1E) Take any on...",
-            "publishedDate": "Nov 5, 2021",
+            "url": "https://www.reddit.com/r/reddit.com/comments/c9bvy/people_are_such_hypocrites_they_hate_on_bp_for/",
+            "title": "People are such hypocrites: they hate on BP for spilling all this oil but at the same time refuse to accept a life without oil. Unfortunately, as of now, life on earth is a zero-sum game: you either choose to live with nature, or you choose to live a life with toyotas and ipads.",
+            "content": "That is all.",
+            "publishedDate": "May 29, 2010",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/cars/comments/qnj0eo/whats_your_automotive_white_whale_mine_is_a_2010/",
+                "/r/reddit.com/comments/c9bvy/people_are_such_hypocrites_they_hate_on_bp_for/",
                 "",
                 "",
                 ""
@@ -1541,19 +1469,19 @@
             ],
             "score": 0.045454545454545456,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/cars/comments[...]automotive_white_whale_mine_is_a_2010/",
-            "pubdate": "2021-11-05 22:45:41"
+            "pretty_url": "https://www.reddit.com/r/reddit.com/co[...]e_such_hypocrites_they_hate_on_bp_for/",
+            "pubdate": "2010-05-29 13:29:27"
         },
         {
-            "url": "https://www.reddit.com/r/YouShouldKnow/comments/q2h961/ysk_catalytic_converter_thieves_are_targeting/",
-            "title": "YSK catalytic converter thieves are targeting specific models of cars (especially the Prius). Toyota is so back-ordered on catalysts it may take over a month to replace a stolen one, while costing you over $1,000. But theft can be deterred by installing an anti-theft catalytic converter shield.",
-            "content": "Why YSK: Catalytic converter theft is so rampant that catalysts for the most commonly targeted cars (all models of the Toyota Prius) are severely back-ordered by a month or more, made worse by world-wide supply chain complications. They are also very expensive to replace. Your car isn't legal to drive if the catalyst has been cut out. But you should know that catalyst theft can be easily deterred by installing a catalytic converter shield that makes them much harder to cut out. ___ Catalytic c...",
-            "publishedDate": "Oct 6, 2021",
+            "url": "https://www.reddit.com/r/askcarsales/comments/aeg8ft/any_advice_for_someone_looking_to_enter_the_car/",
+            "title": "Any advice for someone looking to enter the car sales field?",
+            "content": "I was debating whether or not to give car sales a go, I think I have a personality conducive to that type of sales environment. I’m very hardworking, I have no problem working long hours, I’m very personable, and I’m used to selling. I think car sales would work as a great supplemental income source, I own a landscaping company and work from late April to December but for the remaining months of the year I’m not really doing anything. So I’m just trying to get a handle on the process and your a...",
+            "publishedDate": "Jan 10, 2019",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/YouShouldKnow/comments/q2h961/ysk_catalytic_converter_thieves_are_targeting/",
+                "/r/askcarsales/comments/aeg8ft/any_advice_for_someone_looking_to_enter_the_car/",
                 "",
                 "",
                 ""
@@ -1566,19 +1494,19 @@
             ],
             "score": 0.043478260869565216,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/YouShouldKnow[...]lytic_converter_thieves_are_targeting/",
-            "pubdate": "2021-10-06 12:59:17"
+            "pretty_url": "https://www.reddit.com/r/askcarsales/c[...]_for_someone_looking_to_enter_the_car/",
+            "pubdate": "2019-01-10 09:09:26"
         },
         {
-            "url": "https://www.reddit.com/r/JDM/comments/r1901w/my_1998_toyota_celica_gt_not_the_cleanest_but/",
-            "title": "My 1998 Toyota Celica GT. Not the cleanest but she’s my love.",
-            "content": "",
-            "publishedDate": "Nov 24, 2021",
+            "url": "https://www.reddit.com/r/askcarsales/comments/89utum/first_job_first_carsuggest_me_options/",
+            "title": "First Job First Car...Suggest me options",
+            "content": "Hi, I am on first job after college. I am planning to buy a car in the coming 6-8 weeks. I live in a town in Midwest. My monthly commute is not more than 800 miles (200 miles local and 500 miles to nearby cities on weekends). I want a reliable car which will last for further 30k miles. I am planning to keep the car for the next 30-36 months. Under this time, I want the car which can give me the least depreciation (under 5k$) when I sell it. Following are the options: Option A: Buy a certified...",
+            "publishedDate": "Apr 5, 2018",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/JDM/comments/r1901w/my_1998_toyota_celica_gt_not_the_cleanest_but/",
+                "/r/askcarsales/comments/89utum/first_job_first_carsuggest_me_options/",
                 "",
                 "",
                 ""
@@ -1591,19 +1519,19 @@
             ],
             "score": 0.041666666666666664,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/JDM/comments/[...]toyota_celica_gt_not_the_cleanest_but/",
-            "pubdate": "2021-11-24 19:27:18"
+            "pretty_url": "https://www.reddit.com/r/askcarsales/c[...]first_job_first_carsuggest_me_options/",
+            "pubdate": "2018-04-05 02:44:25"
         },
         {
-            "url": "https://www.reddit.com/r/cars/comments/qygchb/best_engine_toyota_ever_made/",
-            "title": "Best Engine Toyota ever Made?",
-            "content": "What's the consensus on the best overall motor ever made by Toyota, in terms of reliability, durability, and day-to-day usability, and why? My first thoughts would be the 3rz-fe, 1fz-fe, and 2uz-fe, at least as far as the gas engines go. I can't comment too much on the diesels.",
-            "publishedDate": "Nov 21, 2021",
+            "url": "https://www.reddit.com/r/NoStupidQuestions/comments/biykxx/why_dont_car_companies_buy_customers_from_other/",
+            "title": "Why don't car companies buy customers from other car companies by paying off there car if they get one from them, the way Phone companies do it if you want to switch over to there carrier?",
+            "content": "Hopefully the title isn't to long. Sorry if it is but I am curious as to why Car companies, such as Toyota or Honda or any other U.S car companies don't tell the car customer whose got a Honda, \"Hey, if you switch over to getting a car from us, we'll pay off your car in order for you to buy a car from us.\" The same way Cell Phone carriers tend to offer switch carrier deals, like from AT&T to T-Mobile or vice versa. Hope you understand what I am asking.",
+            "publishedDate": "Apr 30, 2019",
             "engine": "reddit",
             "parsed_url": [
                 "https",
                 "www.reddit.com",
-                "/r/cars/comments/qygchb/best_engine_toyota_ever_made/",
+                "/r/NoStupidQuestions/comments/biykxx/why_dont_car_companies_buy_customers_from_other/",
                 "",
                 "",
                 ""
@@ -1616,105 +1544,22 @@
             ],
             "score": 0.04,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/cars/comments[...]s/qygchb/best_engine_toyota_ever_made/",
-            "pubdate": "2021-11-21 01:23:12"
+            "pretty_url": "https://www.reddit.com/r/NoStupidQuest[...]ar_companies_buy_customers_from_other/",
+            "pubdate": "2019-04-30 06:22:27"
         }
     ],
     "answers": [],
     "corrections": [],
-    "infoboxes": [
-        {
-            "infobox": "Toyota",
-            "id": "https://ru.wikipedia.org/wiki/Toyota",
-            "content": "Toyota Motor Corporation (яп. トヨタ自動車株式会社 тоёта дзидо:ся кабусики-гайся, TYO: 7203.T) — крупнейшая японская автомобилестроительная корпорация, также предоставляющая финансовые услуги и имеющая несколько дополнительных направлений в бизнесе. Является крупнейшей автомобилестроительной публичной компанией в мире, а также крупнейшей публичной компанией в Японии. Главный офис компании находится в городе Тоёта, префектура Айти, Япония. Компания занимает 6 место в Fortune Global 500.",
-            "img_src": "https://commons.wikimedia.org/wiki/Special:FilePath/Toyota.png?width=500&height=400",
-            "urls": [
-                {
-                    "title": "Wikipedia",
-                    "url": "https://ru.wikipedia.org/wiki/Toyota"
-                },
-                {
-                    "title": "Официальный сайт",
-                    "url": "https://global.toyota",
-                    "official": true
-                },
-                {
-                    "title": "Wikipedia (en)",
-                    "url": "https://en.wikipedia.org/wiki/Toyota"
-                },
-                {
-                    "title": "IMDb",
-                    "url": "https://www.imdb.com/company/co0210939"
-                },
-                {
-                    "title": "YouTube",
-                    "url": "https://www.youtube.com/channel/UCu2Nnh9SBz5ax3NQFEnInyg"
-                },
-                {
-                    "title": "Twitter",
-                    "url": "https://twitter.com/ToyotaMotorCorp"
-                },
-                {
-                    "title": "Facebook",
-                    "url": "https://facebook.com/TOYOTA.Global"
-                },
-                {
-                    "title": "Instagram",
-                    "url": "https://www.instagram.com/toyota_turkiye"
-                },
-                {
-                    "title": "Wikidata",
-                    "url": "http://www.wikidata.org/entity/Q53268"
-                }
-            ],
-            "engine": "wikidata",
-            "engines": [
-                "wikipedia",
-                "wikidata"
-            ],
-            "attributes": [
-                {
-                    "label": "Дата основания / создания / возникновения",
-                    "value": "суббота, 28 августа 1937 г.",
-                    "entity": "P571"
-                },
-                {
-                    "label": "Государство",
-                    "value": "Япония",
-                    "entity": "P17"
-                },
-                {
-                    "label": "Расположение штаб-квартиры",
-                    "value": "Тоёта",
-                    "entity": "P159"
-                },
-                {
-                    "label": "Генеральный директор",
-                    "value": "Тоёда, Акио",
-                    "entity": "P169"
-                },
-                {
-                    "label": "Основатель",
-                    "value": "Тоёда, Киитиро",
-                    "entity": "P112"
-                },
-                {
-                    "label": "Организационно-правовая форма",
-                    "value": "кабусики-гайся",
-                    "entity": "P1454"
-                }
-            ]
-        }
-    ],
+    "infoboxes": [],
     "suggestions": [
-        "Toyota financial",
-        "Toyota rav4",
-        "Toyota venza",
-        "Toyota highlander",
-        "honda",
-        "hyundai",
-        "Toyota dealers near me",
-        "Toyota cars"
+        "such as Toyota or jeep",
+        "such as Toyota or honda",
+        "such as Toyota or chevy",
+        "such as Toyota or nissan",
+        "such as Toyota or ford",
+        "such as Toyota or kia",
+        "such as Toyota or gmc",
+        "such as Toyota or hyundai"
     ],
     "unresponsive_engines": []
 }
