@@ -1,7 +1,82 @@
 {
     "query": "such as Toyota or",
-    "number_of_results": 1865000020.0,
+    "number_of_results": 1865000020.5,
     "results": [
+        {
+            "url": "https://global.toyota/en/newsroom/toyota/35083987.html",
+            "title": "Toyota announces its new BEV series, Toyota bZ, in ...",
+            "content": "Apr 19, 2021 · In contrast, the new Toyota bZ series of BEVs takes on a \"human-centered\" approach aimed at widespread use in regions such as China, the U.S., and Europe, where there is significant demand for BEVs, and where there is a large supply of renewable electricity. \"bZ\" stands for \"beyond Zero,\" and incorporates the desire to provide customers with ...",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "global.toyota",
+                "/en/newsroom/toyota/35083987.html",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing",
+                "yahoo"
+            ],
+            "positions": [
+                1,
+                1
+            ],
+            "score": 4.0,
+            "category": "general",
+            "pretty_url": "https://global.toyota/en/newsroom/toyota/35083987.html"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Toyota_Group",
+            "title": "Toyota Group - Wikipedia",
+            "content": "The Toyota Group (トヨタグループ, Toyota Gurūpu) is a group of companies that have supplier, vendor and investment relationships with Toyota Industries and Toyota Motor vehicle manufacturing facilities. It is similar to a keiretsu in that no particular entity has outright control over the entire group, although unlike most keiretsu it does not contain a major bank.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "en.wikipedia.org",
+                "/wiki/Toyota_Group",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing",
+                "yahoo"
+            ],
+            "positions": [
+                5,
+                2
+            ],
+            "score": 1.4,
+            "category": "general",
+            "pretty_url": "https://en.wikipedia.org/wiki/Toyota_Group"
+        },
+        {
+            "url": "https://www.toyota.com/corollahatchback/corollahatchback-features/",
+            "title": "View the 2022 Toyota Corolla Hatchback Features",
+            "content": "The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc., and any use of such marks by Toyota is under license. A compatible Bluetooth®-enabled phone must first be paired.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "www.toyota.com",
+                "/corollahatchback/corollahatchback-features/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing",
+                "yahoo"
+            ],
+            "positions": [
+                4,
+                3
+            ],
+            "score": 1.1666666666666665,
+            "category": "general",
+            "pretty_url": "https://www.toyota.com/corollahatchback/corollahatchback-features/"
+        },
         {
             "url": "https://en.wikiquote.org/wiki/Toyota_Tercel",
             "title": "Toyota Tercel",
@@ -24,6 +99,29 @@
             "score": 1.0,
             "category": "general",
             "pretty_url": "https://en.wikiquote.org/wiki/Toyota_Tercel"
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/FAQ",
+            "title": "Toyota Prius/FAQ",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/FAQ",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                1
+            ],
+            "score": 1.0,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/FAQ"
         },
         {
             "url": "https://en.wiktionary.org/wiki/Toyota",
@@ -72,52 +170,6 @@
             "pretty_url": "https://en.wikisource.org/wiki/Meshwer[...]._v._Toyota_Motor_Sales_U.S.A.%2C_Inc."
         },
         {
-            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/FAQ",
-            "title": "Toyota Prius/FAQ",
-            "content": "",
-            "engine": "wikibooks",
-            "parsed_url": [
-                "https",
-                "en.wikibooks.org",
-                "/wiki/Toyota_Prius/FAQ",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikibooks"
-            ],
-            "positions": [
-                1
-            ],
-            "score": 1.0,
-            "category": "general",
-            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/FAQ"
-        },
-        {
-            "url": "https://global.toyota/en/newsroom/toyota/35083987.html",
-            "title": "Toyota announces its new BEV series, Toyota bZ, in ...",
-            "content": "19.04.2021 · Toyota Motor Corporation (Toyota) announced Toyota bZ, its newly established series of battery electric vehicles (BEVs), in establishment of a full line-up of electrified vehicles, on April 19. At Auto Shanghai, a motor show held in Shanghai, China, Toyota unveiled a concept version of the Toyota bZ4X, which will be the first model in the bZ series.",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "global.toyota",
-                "/en/newsroom/toyota/35083987.html",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                1
-            ],
-            "score": 1.0,
-            "category": "general",
-            "pretty_url": "https://global.toyota/en/newsroom/toyota/35083987.html"
-        },
-        {
             "url": "https://hbr.org/2007/07/lessons-from-toyotas-long-drive",
             "title": "Lessons from Toyota's Long Drive - Harvard Business Review",
             "content": "As Toyota becomes the world's biggest automaker, the company finds its ... Finally, some of our overseas affiliates, such as Toyota Canada and Toyota ...Industries: Automotive industry",
@@ -141,73 +193,29 @@
             "pretty_url": "https://hbr.org/2007/07/lessons-from-toyotas-long-drive"
         },
         {
-            "url": "https://en.wikiquote.org/wiki/Kiichiro_Toyoda",
-            "title": "Kiichiro Toyoda",
-            "content": "",
-            "engine": "wikiquote",
+            "url": "https://www.toyota.com.au/corporate/toyota-motor-corporation-australia",
+            "title": "About The Company | Toyota Australia",
+            "content": "Toyota Australia Since its foundation in 1937, globally, Toyota has strived continuously to contribute to the sustainable development of society and the planet through its business operations. It’s a principle that we have continued since Toyota Australia started in 1963 and has helped to cement our position as Australia’s leading automotive company.",
+            "engine": "bing",
             "parsed_url": [
                 "https",
-                "en.wikiquote.org",
-                "/wiki/Kiichiro_Toyoda",
+                "www.toyota.com.au",
+                "/corporate/toyota-motor-corporation-australia",
                 "",
                 "",
                 ""
             ],
             "engines": [
-                "wikiquote"
+                "bing",
+                "yahoo"
             ],
             "positions": [
-                2
+                7,
+                5
             ],
-            "score": 0.5,
+            "score": 0.6857142857142857,
             "category": "general",
-            "pretty_url": "https://en.wikiquote.org/wiki/Kiichiro_Toyoda"
-        },
-        {
-            "url": "https://en.wiktionary.org/wiki/toyota",
-            "title": "toyota",
-            "content": "",
-            "engine": "wiktionary",
-            "parsed_url": [
-                "https",
-                "en.wiktionary.org",
-                "/wiki/toyota",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wiktionary"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "https://en.wiktionary.org/wiki/toyota"
-        },
-        {
-            "url": "https://en.wikisource.org/wiki/Hidemitsu_Toyota_v._United_States",
-            "title": "Hidemitsu Toyota v. United States",
-            "content": "",
-            "engine": "wikisource",
-            "parsed_url": [
-                "https",
-                "en.wikisource.org",
-                "/wiki/Hidemitsu_Toyota_v._United_States",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikisource"
-            ],
-            "positions": [
-                2
-            ],
-            "score": 0.5,
-            "category": "general",
-            "pretty_url": "https://en.wikisource.org/wiki/Hidemitsu_Toyota_v._United_States"
+            "pretty_url": "https://www.toyota.com.au/corporate/toyota-motor-corporation-australia"
         },
         {
             "url": "https://www.reddit.com/r/ScammerNumbers/comments/q24f4p/mail_scam_claiming_that_you_won_a_chance_to_get/",
@@ -285,27 +293,27 @@
             "pretty_url": "https://www.reddit.com/r/MechanicAdvic[...]r_in_my_car_and_the_insurance_totaled/"
         },
         {
-            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Specifications",
-            "title": "Toyota Prius/Specifications",
+            "url": "https://en.wikiquote.org/wiki/Kiichiro_Toyoda",
+            "title": "Kiichiro Toyoda",
             "content": "",
-            "engine": "wikibooks",
+            "engine": "wikiquote",
             "parsed_url": [
                 "https",
-                "en.wikibooks.org",
-                "/wiki/Toyota_Prius/Specifications",
+                "en.wikiquote.org",
+                "/wiki/Kiichiro_Toyoda",
                 "",
                 "",
                 ""
             ],
             "engines": [
-                "wikibooks"
+                "wikiquote"
             ],
             "positions": [
                 2
             ],
             "score": 0.5,
             "category": "general",
-            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Specifications"
+            "pretty_url": "https://en.wikiquote.org/wiki/Kiichiro_Toyoda"
         },
         {
             "url": "http://www.kooltoyota.com/",
@@ -329,6 +337,75 @@
             "score": 0.5,
             "category": "general",
             "pretty_url": "http://www.kooltoyota.com/"
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Specifications",
+            "title": "Toyota Prius/Specifications",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/Specifications",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Specifications"
+        },
+        {
+            "url": "https://en.wiktionary.org/wiki/toyota",
+            "title": "toyota",
+            "content": "",
+            "engine": "wiktionary",
+            "parsed_url": [
+                "https",
+                "en.wiktionary.org",
+                "/wiki/toyota",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wiktionary"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://en.wiktionary.org/wiki/toyota"
+        },
+        {
+            "url": "https://en.wikisource.org/wiki/Hidemitsu_Toyota_v._United_States",
+            "title": "Hidemitsu Toyota v. United States",
+            "content": "",
+            "engine": "wikisource",
+            "parsed_url": [
+                "https",
+                "en.wikisource.org",
+                "/wiki/Hidemitsu_Toyota_v._United_States",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikisource"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general",
+            "pretty_url": "https://en.wikisource.org/wiki/Hidemitsu_Toyota_v._United_States"
         },
         {
             "url": "https://global.toyota/en/company/profile/other-toyota-businesses/",
@@ -377,6 +454,52 @@
             "pretty_url": "https://en.wikiquote.org/wiki/Steve_Lyons"
         },
         {
+            "url": "https://japaneseusedengines.net/manufacturer/toyota",
+            "title": "Toyota Engines | Used Toyota engine from Japan",
+            "content": "All Toyota used Engines for Camry, Highlander, Rav4, 4Runner, Tacoma, Tundra, 4Runner, Solara, T100, Celica, Corolla, Supra, Sienna, Sequoia in stock. We have the largest inventory of Toyota Engines in United States and Canada with over 500 motors in stock at any given point. We offer used & rebuilt versions of hard to find Toyota Engines.",
+            "engine": "bing",
+            "parsed_url": [
+                "https",
+                "japaneseusedengines.net",
+                "/manufacturer/toyota",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "bing"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://japaneseusedengines.net/manufacturer/toyota"
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Rental",
+            "title": "Toyota Prius/Rental",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/Rental",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Rental"
+        },
+        {
             "url": "https://en.wiktionary.org/wiki/Toyotas",
             "title": "Toyotas",
             "content": "",
@@ -421,52 +544,6 @@
             "score": 0.3333333333333333,
             "category": "general",
             "pretty_url": "https://en.wikisource.org/wiki/Toyota_v._Territory_of_Hawaii"
-        },
-        {
-            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Rental",
-            "title": "Toyota Prius/Rental",
-            "content": "",
-            "engine": "wikibooks",
-            "parsed_url": [
-                "https",
-                "en.wikibooks.org",
-                "/wiki/Toyota_Prius/Rental",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikibooks"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Rental"
-        },
-        {
-            "url": "https://japaneseusedengines.net/manufacturer/toyota",
-            "title": "Toyota Engines | Used Toyota engine from Japan",
-            "content": "All Toyota used Engines for Camry, Highlander, Rav4, 4Runner, Tacoma, Tundra, 4Runner, Solara, T100, Celica, Corolla, Supra, Sienna, Sequoia in stock. We have the largest inventory of Toyota Engines in United States and Canada with over 500 motors in stock at any given point. We offer used & rebuilt versions of hard to find Toyota Engines.",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "japaneseusedengines.net",
-                "/manufacturer/toyota",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                3
-            ],
-            "score": 0.3333333333333333,
-            "category": "general",
-            "pretty_url": "https://japaneseusedengines.net/manufacturer/toyota"
         },
         {
             "url": "https://sentence.yourdictionary.com/toyota",
@@ -515,6 +592,29 @@
             "pretty_url": "https://en.wikiquote.org/wiki/Up_in_Smoke"
         },
         {
+            "url": "https://en.wikibooks.org/wiki/Professionalism/The_Toyota_Recalls_of_2009-2010",
+            "title": "Professionalism/The Toyota Recalls of 2009-2010",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Professionalism/The_Toyota_Recalls_of_2009-2010",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Professi[...]nalism/The_Toyota_Recalls_of_2009-2010"
+        },
+        {
             "url": "https://en.wiktionary.org/wiki/%E8%B1%8A%E7%94%B0",
             "title": "豊田",
             "content": "",
@@ -559,52 +659,6 @@
             "score": 0.25,
             "category": "general",
             "pretty_url": "https://en.wikisource.org/wiki/Meshwer[...]es_U.S.A.%2C_Inc./Opinion_of_the_Court"
-        },
-        {
-            "url": "https://en.wikibooks.org/wiki/Professionalism/The_Toyota_Recalls_of_2009-2010",
-            "title": "Professionalism/The Toyota Recalls of 2009-2010",
-            "content": "",
-            "engine": "wikibooks",
-            "parsed_url": [
-                "https",
-                "en.wikibooks.org",
-                "/wiki/Professionalism/The_Toyota_Recalls_of_2009-2010",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikibooks"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "https://en.wikibooks.org/wiki/Professi[...]nalism/The_Toyota_Recalls_of_2009-2010"
-        },
-        {
-            "url": "https://www.toyota.com/corollahatchback/corollahatchback-features/",
-            "title": "View the 2022 Toyota Corolla Hatchback Features",
-            "content": "Explore the 2022 Toyota Corolla Hatchback features like available leather-trimmed sport seats, 8-in. multimedia touchscreen, and more.",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "www.toyota.com",
-                "/corollahatchback/corollahatchback-features/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                4
-            ],
-            "score": 0.25,
-            "category": "general",
-            "pretty_url": "https://www.toyota.com/corollahatchback/corollahatchback-features/"
         },
         {
             "url": "https://www.toyota-tech.eu/",
@@ -655,6 +709,29 @@
             "pubdate": "2021-10-23 20:07:49"
         },
         {
+            "url": "https://en.wikipedia.org/wiki/Toyota_LiteAce",
+            "title": "en.wikipedia.org › wiki › Toyota_LiteAceToyota LiteAce - Wikipedia",
+            "content": "Toyota Australia released the TownAce commercial van in April 1992. Then in October 1993, the eight-seater model arrived as the Toyota Spacia. The powertrain fitted comprised the 2.2-liter 4Y-E with 75 kW (101 hp) and 180 N⋅m (130 lb⋅ft) paired to a five-speed manual or four-speed automatic transmission.",
+            "engine": "yahoo",
+            "parsed_url": [
+                "https",
+                "en.wikipedia.org",
+                "/wiki/Toyota_LiteAce",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "yahoo"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general",
+            "pretty_url": "https://en.wikipedia.org/wiki/Toyota_LiteAce"
+        },
+        {
             "url": "https://en.wikiquote.org/wiki/Game_6",
             "title": "Game 6",
             "content": "",
@@ -676,6 +753,29 @@
             "score": 0.2,
             "category": "general",
             "pretty_url": "https://en.wikiquote.org/wiki/Game_6"
+        },
+        {
+            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Notable_facts",
+            "title": "Toyota Prius/Notable facts",
+            "content": "",
+            "engine": "wikibooks",
+            "parsed_url": [
+                "https",
+                "en.wikibooks.org",
+                "/wiki/Toyota_Prius/Notable_facts",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "wikibooks"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general",
+            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Notable_facts"
         },
         {
             "url": "https://en.wiktionary.org/wiki/Toyotism",
@@ -722,52 +822,6 @@
             "score": 0.2,
             "category": "general",
             "pretty_url": "https://en.wikisource.org/wiki/Toyota_[...]rritory_of_Hawaii/Opinion_of_the_Court"
-        },
-        {
-            "url": "https://en.wikibooks.org/wiki/Toyota_Prius/Notable_facts",
-            "title": "Toyota Prius/Notable facts",
-            "content": "",
-            "engine": "wikibooks",
-            "parsed_url": [
-                "https",
-                "en.wikibooks.org",
-                "/wiki/Toyota_Prius/Notable_facts",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "wikibooks"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://en.wikibooks.org/wiki/Toyota_Prius/Notable_facts"
-        },
-        {
-            "url": "https://en.wikipedia.org/wiki/Toyota_Group",
-            "title": "Toyota Group - Wikipedia",
-            "content": "The Toyota Group (トヨタグループ, Toyota Gurūpu) is a group of companies that have supplier, vendor and investment relationships with Toyota Industries and Toyota Motor vehicle manufacturing facilities. It is similar to a keiretsu in that no particular entity has outright control over the entire group, although unlike most keiretsu it does not contain a major bank.",
-            "engine": "bing",
-            "parsed_url": [
-                "https",
-                "en.wikipedia.org",
-                "/wiki/Toyota_Group",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "bing"
-            ],
-            "positions": [
-                5
-            ],
-            "score": 0.2,
-            "category": "general",
-            "pretty_url": "https://en.wikipedia.org/wiki/Toyota_Group"
         },
         {
             "url": "https://www.bigtwotoyota.com/",
@@ -889,27 +943,27 @@
             "pubdate": "2021-04-15 22:15:59"
         },
         {
-            "url": "https://www.toyota.com.au/corporate/toyota-motor-corporation-australia",
-            "title": "About The Company | Toyota Australia",
-            "content": "Toyota Australia Since its foundation in 1937, globally, Toyota has strived continuously to contribute to the sustainable development of society and the planet through its business operations. It’s a principle that we have continued since Toyota Australia started in 1963 and has helped to cement our position as Australia’s leading automotive company.",
-            "engine": "bing",
+            "url": "https://www.wheel-size.com/size/toyota/camry/",
+            "title": "www.wheel-size.com › size › toyotaToyota Camry - Specs of wheel sizes, tires, PCD, Offset and ...",
+            "content": "Nov 22, 2021 · Toyota Camry - Find out the correct alloy wheel fitment, PCD, offset and such specs as bolt pattern, thread size(THD), center bore(CB) for all model years of Toyota Camry. Choose a model year to begin narrowing down the correct tire size",
+            "engine": "yahoo",
             "parsed_url": [
                 "https",
-                "www.toyota.com.au",
-                "/corporate/toyota-motor-corporation-australia",
+                "www.wheel-size.com",
+                "/size/toyota/camry/",
                 "",
                 "",
                 ""
             ],
             "engines": [
-                "bing"
+                "yahoo"
             ],
             "positions": [
-                7
+                6
             ],
-            "score": 0.14285714285714285,
+            "score": 0.16666666666666666,
             "category": "general",
-            "pretty_url": "https://www.toyota.com.au/corporate/toyota-motor-corporation-australia"
+            "pretty_url": "https://www.wheel-size.com/size/toyota/camry/"
         },
         {
             "url": "https://www.britannica.com/topic/Toyota-Motor-Corporation",
@@ -958,6 +1012,29 @@
             "category": "general",
             "pretty_url": "https://www.reddit.com/r/CCIV/comments[...]ership_incoming_a_deal_with_carmakers/",
             "pubdate": "2021-04-15 21:28:11"
+        },
+        {
+            "url": "https://www.hotcars.com/heres-why-prius-catalytic-converter-theft-is-such-a-prominent-issue/",
+            "title": "www.hotcars.com › heres-why-prius-catalyticHere's Why Prius Catalytic Converter Theft Is Such A ...",
+            "content": "Sep 30, 2021 · Updated September 2021: If you own a Toyota Prius, and you're worried someone might steal the catalytic converter fitted to your car, we've updated this article with more relevant information, as well as some tips to help keep your car safe and potentially save you thousands of dollars.",
+            "engine": "yahoo",
+            "parsed_url": [
+                "https",
+                "www.hotcars.com",
+                "/heres-why-prius-catalytic-converter-theft-is-such-a-prominent-issue/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "yahoo"
+            ],
+            "positions": [
+                7
+            ],
+            "score": 0.14285714285714285,
+            "category": "general",
+            "pretty_url": "https://www.hotcars.com/heres-why-priu[...]erter-theft-is-such-a-prominent-issue/"
         },
         {
             "url": "https://www.canadianblackbook.com/Toyota/",
@@ -1104,7 +1181,7 @@
         {
             "url": "https://pressroom.toyota.com/news/",
             "title": "News - Toyota USA Newsroom",
-            "content": "12.11.2021 · LOS ANGELES (Nov. 17, 2021) – Toyota will display an array of its latest vehicles at the 2021 Los Angeles Auto Show, including the all-electric bZ4X SUV and new 2022 RAV4 SE Hybrid grade. Additionally, the 2022 NASCAR Toyota Tundra TRD Pro is making its first auto show appearance, along with three customized SEMA builds, including the TRD Desert Chase Tundra, Tacozilla and GR Supra …",
+            "content": "12.11.2021 · Auto Shows & Events Toyota’s All-New Electric Vehicle Takes Center Stage at 2021 Los Angeles Auto Show LOS ANGELES (Nov. 17, 2021) – Toyota will display an array of its latest vehicles at the 2021 Los Angeles Auto Show, including the all-electric …",
             "engine": "bing",
             "parsed_url": [
                 "https",
@@ -1423,31 +1500,6 @@
             "pubdate": "2015-08-02 01:30:50"
         },
         {
-            "url": "https://www.reddit.com/r/whatcarshouldIbuy/comments/364yec/2_questions_1_buying_first_car_in_australia_is_it/",
-            "title": "2 Questions: 1. Buying first car in Australia. Is it expensive to own european models such as BMWs and Audis? 2. Is a Lexus is200 (toyota altezza) manual powerful, or would a supra be a better choice?",
-            "content": "I am interested in old BMW 3 series and Audi 4's, but I love JDM cars such as Supras and silvias. can i get a european car without it being too expensive or should I stick to JDMs?",
-            "publishedDate": "May 16, 2015",
-            "engine": "reddit",
-            "parsed_url": [
-                "https",
-                "www.reddit.com",
-                "/r/whatcarshouldIbuy/comments/364yec/2_questions_1_buying_first_car_in_australia_is_it/",
-                "",
-                "",
-                ""
-            ],
-            "engines": [
-                "reddit"
-            ],
-            "positions": [
-                21
-            ],
-            "score": 0.047619047619047616,
-            "category": "general",
-            "pretty_url": "https://www.reddit.com/r/whatcarshould[...]1_buying_first_car_in_australia_is_it/",
-            "pubdate": "2015-05-16 07:37:21"
-        },
-        {
             "url": "https://www.reddit.com/r/reddit.com/comments/c9bvy/people_are_such_hypocrites_they_hate_on_bp_for/",
             "title": "People are such hypocrites: they hate on BP for spilling all this oil but at the same time refuse to accept a life without oil. Unfortunately, as of now, life on earth is a zero-sum game: you either choose to live with nature, or you choose to live a life with toyotas and ipads.",
             "content": "That is all.",
@@ -1465,12 +1517,37 @@
                 "reddit"
             ],
             "positions": [
+                21
+            ],
+            "score": 0.047619047619047616,
+            "category": "general",
+            "pretty_url": "https://www.reddit.com/r/reddit.com/co[...]e_such_hypocrites_they_hate_on_bp_for/",
+            "pubdate": "2010-05-29 13:29:27"
+        },
+        {
+            "url": "https://www.reddit.com/r/whatcarshouldIbuy/comments/364yec/2_questions_1_buying_first_car_in_australia_is_it/",
+            "title": "2 Questions: 1. Buying first car in Australia. Is it expensive to own european models such as BMWs and Audis? 2. Is a Lexus is200 (toyota altezza) manual powerful, or would a supra be a better choice?",
+            "content": "I am interested in old BMW 3 series and Audi 4's, but I love JDM cars such as Supras and silvias. can i get a european car without it being too expensive or should I stick to JDMs?",
+            "publishedDate": "May 16, 2015",
+            "engine": "reddit",
+            "parsed_url": [
+                "https",
+                "www.reddit.com",
+                "/r/whatcarshouldIbuy/comments/364yec/2_questions_1_buying_first_car_in_australia_is_it/",
+                "",
+                "",
+                ""
+            ],
+            "engines": [
+                "reddit"
+            ],
+            "positions": [
                 22
             ],
             "score": 0.045454545454545456,
             "category": "general",
-            "pretty_url": "https://www.reddit.com/r/reddit.com/co[...]e_such_hypocrites_they_hate_on_bp_for/",
-            "pubdate": "2010-05-29 13:29:27"
+            "pretty_url": "https://www.reddit.com/r/whatcarshould[...]1_buying_first_car_in_australia_is_it/",
+            "pubdate": "2015-05-16 07:37:21"
         },
         {
             "url": "https://www.reddit.com/r/askcarsales/comments/aeg8ft/any_advice_for_someone_looking_to_enter_the_car/",

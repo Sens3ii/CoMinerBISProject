@@ -3,12 +3,14 @@ import json
 from bs4 import BeautifulSoup
 import urllib.request
 from inscriptis import get_text
+from optimization import optimize_text
 
 
-def get_data(query):
+
+def get_data(query, entity):
     get_search_res(query)
     get_urls_from_search_page()
-    get_data_from_url()
+    get_data_from_url(entity)
 
 
 def data_to_file(data, path, mode_="w"):
@@ -40,7 +42,7 @@ def json_file_to_dict(filename):
         return dict_
 
 
-def get_data_from_url():
+def get_data_from_url(entity):
     print(f"[GET] Data from URLs")
     urls_dict = json_file_to_dict("data/urls.json")
     data_list = []
@@ -50,6 +52,7 @@ def get_data_from_url():
             html = urllib.request.urlopen(url).read().decode('utf-8')
             text = get_text(html)
             text = ' '.join(text.split())
+            text = optimize_text(text, entity)
             data_to_file(text, "data.txt", "a")
         except:
             print(f"[ERROR] Data from URL: {url}")

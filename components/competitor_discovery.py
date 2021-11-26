@@ -19,9 +19,9 @@ def competitor_discovery(entity, domain=""):
 
 def candidate_extraction(entity, domain=""):
     print("[EXTRACTION] Candidate extraction")
-    queries = get_hearst_queries(entity, domain)
-    for q in queries:
-        get_data(q)
-
+    # queries = get_hearst_queries(entity, domain)
+    # for q in queries:
+    #     get_data(q, entity)
+    
 
 competitor_discovery("Toyota")
