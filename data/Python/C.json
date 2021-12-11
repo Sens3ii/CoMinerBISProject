@@ -1,0 +1,662 @@
+[
+    {
+        "title": "1. Extending Python with C or C++ — Python 3.10.1 ...",
+        "content": "1. Extending Python with C or C++¶. It is quite easy to add new built-in modules to Python, if you know how to program in C. Such extension modules can do two things that can't be done directly in Python: they can implement new built-in object types, and they can call C library functions and system calls.. To support extensions, the Python API (Application Programmers Interface) defines a ..."
+    },
+    {
+        "title": "How to use the -c flag in python - Stack Overflow",
+        "content": "Nov 26, 2014 · 2 answersJust pass regular Python code as the argument to the flag: python -c 'print 1 print 2'. Import modules works, and blank lines are OK, too:Can we use C code in Python? - Stack OverflowSep 12, 2013Calling C/C++ from Python? [closed] - Stack OverflowNov 6, 2011C-like structures in Python - Stack OverflowNov 13, 2011How to create a generator/iterator with the Python C API?Nov 9, 2011More results from stackoverflow.com"
+    },
+    {
+        "title": "Python curtus"
+    },
+    {
+        "title": "www.educba.com › c-vs-pythonC vs Python | 10 Most Valuable Differences You Should Know",
+        "content": "The main difference between C and Python is that, C is a structure oriented programming language while Python is an object oriented programming language. In general, C is used for developing hardware operable applications, and python is used as a general purpose programming language. C language is run under a compiler, python on the other hand ..."
+    },
+    {
+        "title": "Monty Python's The Meaning of Life",
+        "content": ""
+    },
+    {
+        "title": "python",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Python (mythology)",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Extending with C",
+        "content": ""
+    },
+    {
+        "title": "stackoverflow.com › questions › 145270Calling C/C++ from Python? - Stack Overflow",
+        "content": "Nov 04, 2014 · It doesn't, really: Cython is a Python-like programming language to write C extension modules for Python (the Cython code gets translated into C, together with the necessary C-API boilerplate). It provides some basic C++ support. Programming with cppyy only involves Python and C++, no language extensions."
+    },
+    {
+        "title": "JavaScript, Python, C#..."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Python C Extensions Debugging Tutorial"
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Building a Python C Extension Module",
+        "content": "Extending Your Python Program. One of the lesser-known yet incredibly powerful features of Python is its ability to call functions and libraries defined in compiled languages such as C or C++. This allows you to extend the capabilities of your program beyond what Python's built-in features have to offer."
+    },
+    {
+        "title": "CPython - Wikipedia",
+        "content": "CPython is the reference implementation of the Python programming language.Written in C and Python, CPython is the default and most widely used implementation of the Python language.. CPython can be defined as both an interpreter and a compiler as it compiles Python code into bytecode before interpreting it. It has a foreign function interface with several languages, including C, in which one ..."
+    },
+    {
+        "title": "Python - Extension Programming with C - Tutorialspoint",
+        "content": "Python - Extension Programming with C. Any code that you write using any compiled language like C, C++, or Java can be integrated or imported into another Python script. This code is considered as an \"extension.\" A Python extension module is nothing more than a normal C library."
+    },
+    {
+        "title": "C++",
+        "content": ""
+    },
+    {
+        "title": "pytonorm",
+        "content": ""
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Python (mythology)",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Extending with C++",
+        "content": ""
+    },
+    {
+        "title": "C (programming language)",
+        "content": ""
+    },
+    {
+        "title": "pyton",
+        "content": ""
+    },
+    {
+        "title": "Tropical Diseases/Chapter 44",
+        "content": ""
+    },
+    {
+        "title": "Python Programming",
+        "content": ""
+    },
+    {
+        "title": "% (String Formatting Operator) — Python Reference (The ...",
+        "content": "'c' Single character (accepts integer or single character string). 'r' String (converts any Python object using repr()). The precision determines the maximal number of characters used. 's' String (converts any Python object using str()). If the object or format provided is a unicode string, the resulting string will also be unicode."
+    },
+    {
+        "title": "Perl",
+        "content": ""
+    },
+    {
+        "title": "umonya",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Pythagoras (of Rhegium)",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Print version",
+        "content": ""
+    },
+    {
+        "title": "Write C++ extensions for Python - Visual Studio (Windows ...",
+        "content": "Select C++ File (.cpp), name the file setup.py, and then select OK. Naming the file with the .py extension makes Visual Studio recognize it as a Python file despite the use of the C++ file template. When the file appears in the editor, paste the following code into it, as appropriate to the extension method:"
+    },
+    {
+        "title": "King Arthur",
+        "content": ""
+    },
+    {
+        "title": "inhlwathi",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Apollo",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Getting Python",
+        "content": ""
+    },
+    {
+        "title": "22. Python C extensions — Python Tips 0.1 documentation",
+        "content": "The Python ctypes module is probably the easiest way to call C functions from Python. The ctypes module provides C compatible data types and functions to load ..."
+    },
+    {
+        "title": "numpy.c_ — NumPy v1.21 Manual",
+        "content": "numpy.c_¶ numpy. c_ =  ¶ Translates slice objects to concatenation along the second axis. This is short-hand for np.r_['-1,2,0', index expression], which is useful because of its common occurrence.In particular, arrays will be stacked along their last axis after being upgraded to at least 2-D with 1's post-pended to the shape (column vectors made out ..."
+    },
+    {
+        "title": "Python Bindings: Calling C or C++ From Python - Real Python",
+        "content": "Python bindings need to do marshalling because Python and C store data in different ways. C stores data in the most compact form in memory possible. If you use an uint8_t, then it will only use 8 bits of memory total. In Python, on the other hand, everything is an object. This means that each integer uses several bytes in memory."
+    },
+    {
+        "title": "2.8. Interfacing with C - Scipy Lecture Notes",
+        "content": "Python code too slow, push inner loops to native code. Each technology is demonstrated by wrapping the cos function from math.h . While this is a mostly a ..."
+    },
+    {
+        "title": "How to call C / C++ from Python? - GeeksforGeeks",
+        "content": "As we know that, C has faster execution speed and to overcome the limitation of Global Interpreter Lock(GIL) in python, python bindings are helpful. We have a large, stable and tested library in C/C++, which will be advantageous to use."
+    },
+    {
+        "title": "Chapter 8 The Connector/Python C Extension - MySQL ...",
+        "content": "Connector/Python supports a C extension that interfaces with the MySQL C client library. For queries that return large result sets, using the C Extension ..."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed."
+    },
+    {
+        "title": "Python vs C++ | Find Out The 9 Essential Differences",
+        "content": "Python is an easy-to-use programming language in comparison to C++. Python is slower than C++. Python helps in faster application development and keep introducing additional language features. Writing code in C++ is not as easy as in python due to its complex syntax. Python is easier to use and writing code because of its friendly syntax."
+    },
+    {
+        "title": "Programmers, what's the best language to start programming? Python? C? JS? Which one? And what's your best tips?",
+        "content": ""
+    },
+    {
+        "title": "Python/C API Reference Manual — Python 3.10.0 documentation",
+        "content": "Python/C API Reference Manual¶. This manual documents the API used by C and C++ programmers who want to write extension modules or embed Python. It is a companion to Extending and Embedding the Python Interpreter, which describes the general principles of extension writing but does not document the API functions in detail."
+    },
+    {
+        "title": "Update on my Python, C++ and Rust Library",
+        "content": "tl;dr: Fast Python, C++ and Rust library with support for CUDA, Blas and multithreading. Supports multidimensional arrays and neural networks (neural networks not yet implemented). Usually faster than NumPy, too. A little while ago I started working on an array library for personal use, though it seemed to get a decent amount of attention and I decided to turn it into something a little larger. With the generous support of u/NervousNullPtr, we were able to redesign the library from the ground u..."
+    },
+    {
+        "title": "GitHub - python/cpython: The Python programming language",
+        "content": "Documentation for Python 3.10 is online, updated daily. It can also be downloaded in many formats for faster access. The documentation is downloadable in HTML, PDF, and reStructuredText formats; the latter version is primarily for documentation authors, translators, and people with special formatting requirements."
+    },
+    {
+        "title": "Looking for mentor/buddy/group to learn Python, C++, and ROS",
+        "content": "Hi everyone! I'm 27, and I'm fairly new to programming. I'm looking for a buddy to learn Python, C++, and ROS with, (highest priority being Python). My experience with the above is close to zero. My background is mechanical engineering, and my current field is more of Robotics, hence the mention of ROS. I'm open to either a mentor or a complete beginner (buddy) to learn with, or perhaps a group on Discord. Preferably UK/EU timezone, and through Discord. In exchange I'm happy to offer my few ye..."
+    },
+    {
+        "title": "Python (programming language) - Wikipedia",
+        "content": "Python is an interpreted high-level general-purpose programming language.Its design philosophy emphasizes code readability with its use of significant indentation.Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.. Python is dynamically-typed and garbage-collected."
+    },
+    {
+        "title": "Help me translate this Python/C# code to Emacs Lisp",
+        "content": "Hello all! I'm learning emacs lisp and getting used to the language. Yesterday I was trying to write a function to build and execute a shell command that I type frequently, to backup some of my files to google drive. I could make it work by hardcoding the commands, but as a learning exercise, I decided to try some fancy, overengineered stuff, to see if I can incorporate what I'm thinking in Elisp. Well, I couldn't. I still get confused with the function/var namespace separation, and the multipl..."
+    },
+    {
+        "title": "Design a new better C API for Python — pythoncapi 0.1 ...",
+        "content": "a new Python runtime which is only usable with C extensions compiled with the new stricter and smaller C API (and the new stable ABI) for Python 3.8 and newer, whereas the existing \"regular python\" becomes the \"regular runtime\" which provides maximum backward compatibility with Python 3.7 and older. The current C API has multiple issues:"
+    },
+    {
+        "title": "Struggling on CS job pathways using Python, c++ and c#.",
+        "content": "Hello, I am 15 and I want to start programming earlier. I feel like I am running out of time to find viable options for programming using Python, c++ and c#. What I am post interested in is Unity and Arduino, but I feel like the openings for work in those fields are scarce. Are there many opportunities for jobs in those fields? Are there any other popular categories that I can work with that are not immensely challenging ?"
+    },
+    {
+        "title": "I’m studying Python, C, Crypto Development, and maybe some cryptography and maths later, anyone down to be my study buddy?",
+        "content": "I already know Python and some C, but I haven’t programmed in a long while and as such would like to re-learn/practice my skills in them. Later on after studying some crypto development and maybe some web development, I’m probably going to study some maths and the mathematics behind cryptography, so stuff like number theory, combinatorics, calculus…etc Anyone would be down to join me? I’m based in Europe, so anywhere around European time zone(UTC+1) would be best. I’d be starting tomorrow a..."
+    },
+    {
+        "title": "Cython: C-Extensions for Python",
+        "content": "»SciPy is approximately 50% Python, 25% Fortran, 20% C, 3% Cython and 2% C++ … The distribution of secondary programming languages in SciPy is a compromise between a powerful, performance-enhancing language that interacts well with Python (that is, Cython) and the usage of languages (and their libraries) that have proven reliable and performant over many decades."
+    },
+    {
+        "title": "Is Python, C#, or Java better for desktop GUI app than C++?",
+        "content": "I know Python, C#, and Java, but most fluent in C++. Now I am thinking of doing GUI, should I use other languages than C++?"
+    },
+    {
+        "title": "Python vs C: A Beginner's Guide - Udemy Blog",
+        "content": "Python. Originally introduced in 1991, Python is a general-purpose, high-level programming language. The syntax emphasizes code readability by allowing programmers to use 10% of the code required by other languages, such as C. Python is often used as a scripting language, but is also extremely effective as a standalone program."
+    },
+    {
+        "title": "I lied, not waiting around till 2022. Hired 2 aerospace engineers (who know python, C, and solidworks/ansys, 1 has a few publications) who will make the simulations, 1 electrical engineer, and one mechanical engineer. We have begun. The eye opening thing is the level of intelligence/skill out there.",
+        "content": "Reading through CV's really hit home. After going through a hundred or so applications I basically hired the one's that showed keen interest with some amazing backgrounds especially in programming. I foresee us having to write up some physics limitation code somewhere down the line in the simulations, although there's probably code out there in github (haven't checked). I rejected the one's who took too long to respond...after contacting them. One person affiliated with NASA rejected us becau..."
+    },
+    {
+        "title": "PDF A Transition Guide: Python to C++",
+        "content": "Python source code and C++ code. As much as possible, we rely upon earlier examples in Python and then translate these to C++. From there we will go into speciﬁc syntax and usage of C++. In Section 3 we discuss the major features of C++. Writing classes are discussed in Section 4 with coverage of Python and C++'s"
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed.",
+        "content": ""
+    },
+    {
+        "title": "Python vs C++: What's the Difference? - Guru99",
+        "content": "Python is slower, on the other hand, C++ is faster than Python. In Python, Rapid Prototyping is possible because of the small size of the code while in C++, Rapid Prototyping not possible because of larger code size. Python is easy to learn language whereas C++ has a stiff learning curve as it has lots of predefined syntaxes and structure."
+    },
+    {
+        "title": "[Hire Me] Get expert help in Computer science, Cyber security, Networking, Machine learning, SPSS, Python, C, C++",
+        "content": "Hi, I am tech guy and I specialize in handling assignments, research papers and case studies Involving Penetration testing, Wireshark analysis, Snort Analysis Metasploit Anything Kali Linux Machine learning Network design using Packet Tracer and GNS3 IoT research Machine learning using R, SPSS and Python among other tech related projects. In case you have a research paper or a dissertation project, PM or connect on Discord kalipapers#1373 Email kalipaperss@gmail.com"
+    },
+    {
+        "title": "Difference between C and Python - GeeksforGeeks",
+        "content": "Python is dynamically typed. Syntax of C is harder than python because of which programmers prefer to use python instead of C. It is easy to learn, write and read Python programs than C. C programs are saved with .c extension. Python programs are saved by .py extension. An assignment is allowed in a line."
+    },
+    {
+        "title": "Requesting help with a Python/C++ program that gathers specific stock market data and puts it into a spreadsheet",
+        "content": "On Webull (a stock-trading app), every stock has a 1-minute candlestick timechart. I'm requesting help to build a program that can gather this data and otganize it into a spreadsheet. - Firstly, I'm asking for help as to how to code a program that can gather specific data from websites and apps. - I'd like to know how to organize and put this data into a spreadsheet. Please help, I'm currently doing this key by key on my computer and I'm really hoping there's a faster way."
+    },
+    {
+        "title": "What is Cython? Python at the speed of C | InfoWorld",
+        "content": "The Cython language is a superset of Python that compiles to C, yielding performance boosts that can range from a few percent to several orders of magnitude, depending on the task at hand. For ..."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed.",
+        "content": ""
+    },
+    {
+        "title": "Python vs C: Top 12 Differences You Must Know | Edureka",
+        "content": "Python is an interpreted, high-level, general-purpose programming language. C is a general-purpose, procedural computer programming language. Speed. Interpreted programs execute slower as compared to compiled programs. Compiled programs execute faster as compared to interpreted programs. Usage."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed.",
+        "content": ""
+    },
+    {
+        "title": "Python 3 - Extension Programming with C - Tutorialspoint",
+        "content": "Python 3 - Extension Programming with C. Any code that you write using any compiled language like C, C++, or Java can be integrated or imported into another Python script. This code is considered as an \"extension.\" A Python extension module is nothing more than a normal C library."
+    },
+    {
+        "title": "Hire Me for Java, Python, C++, SQL, HTML/CSS/JS programming, Calculus, Linear Algebra, and Discrete Math as well as Essays, Economics, and Accounting tasks. An A is guaranteed.",
+        "content": ""
+    },
+    {
+        "title": "Welcome to Python.org",
+        "content": "Python is a programming language that lets you work quickly and integrate systems more effectively. Learn More. Participate in the official 2021 Python Developers Survey Take the 2021 survey! Get Started. Whether you're new to programming or an experienced developer, it's easy to learn and use Python."
+    },
+    {
+        "title": "Python vs C++ Comparison: Compare Python vs C++ Speed and More",
+        "content": "C++. C++ is a general-purpose language usually involved in the development of large and complicated systems.This language is the most portable out of the whole circle of programming languages.. When comparing Python vs C++, Python follows a rule of \"write once, run anywhere,\" which means that one code will work on all operating systems.However, the C++ code needs to compile on each OS ..."
+    },
+    {
+        "title": "GitHub - cython/cython: The most widely used Python to C ...",
+        "content": "Pythran, a static Python-to-C++ extension compiler for a subset of the language, mostly targeted at numerical computation. Pythran can be (and is probably best) used as an additional backend for NumPy code in Cython. mypyc, a static Python-to-C extension compiler, based on the mypy static Python analyser. Like Cython's pure Python mode , mypyc ..."
+    },
+    {
+        "title": "Mixed-mode debugging for Python - Visual Studio (Windows ...",
+        "content": "Unlike [Python view] nodes, which use Python object metadata to determine the type of the object, there's no similarly reliable mechanism for [C++ view]. Generally speaking, given a Python value (that is, a PyObject reference) it's not possible to reliably determine which C/C++ structure is backing it."
+    },
+    {
+        "title": "British Columbia",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 33/August 1888/Something About Snakes",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Game Programming in Python",
+        "content": ""
+    },
+    {
+        "title": "Pythonesque",
+        "content": ""
+    },
+    {
+        "title": "Introduction — Python 3.10.1 documentation",
+        "content": "The Application Programmer's Interface to Python gives C and C++ programmers access to the Python interpreter at a variety of levels. The API is equally ..."
+    },
+    {
+        "title": "Java (programming language)",
+        "content": ""
+    },
+    {
+        "title": "Pindar and Anacreon/Pindar/Pythian Odes",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Creating Python Programs",
+        "content": ""
+    },
+    {
+        "title": "hypnotism",
+        "content": ""
+    },
+    {
+        "title": "pybind/pybind11: Seamless operability between C++11 and ...",
+        "content": "pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa, mainly to create Python bindings of existing C++ code. Its goals ..."
+    },
+    {
+        "title": "Ruby (programming language)",
+        "content": ""
+    },
+    {
+        "title": "Dictionary of Greek and Roman Biography and Mythology/Volume 3p",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Classes",
+        "content": ""
+    },
+    {
+        "title": "kerten",
+        "content": ""
+    },
+    {
+        "title": "Cython: C-Extensions for Python",
+        "content": "It makes writing C extensions for Python as easy as Python itself. Cython gives you the combined power of Python and C to let you. write Python code that calls ..."
+    },
+    {
+        "title": "Yukihiro Matsumoto",
+        "content": ""
+    },
+    {
+        "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Theodoret/Ecclesiastical History/Book IV/Chapter 18",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Intro",
+        "content": ""
+    },
+    {
+        "title": "phyton",
+        "content": ""
+    },
+    {
+        "title": "Freenove Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400 ...",
+        "content": "4 programing languages -> C, Python (compatible with 2&3), Java and Scratch. · 561-page detailed tutorials (including basic electronics knowledge) -> The ...Operating System: ‎Raspberry Pi OSItem Weight: ‎1.19 poundsComputer Memory Type: ‎DDR DRAM Rating: 4.6 · ‎2,862 reviews"
+    },
+    {
+        "title": "Lisp (programming language)",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Animal Worship",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/numpy",
+        "content": ""
+    },
+    {
+        "title": "ศรดำ",
+        "content": ""
+    },
+    {
+        "title": "Python and C - Comparisons and C - Rose-Hulman",
+        "content": "Simple Python program year = 2007 print \"Hello World!\" print \"CSSE 120 changed a ... Assignment with operators, x += 2, x += 2;, Identical in Python and C."
+    },
+    {
+        "title": "Debugging Python C extensions with GDB | Red Hat Developer",
+        "content": "Sep 8, 2021 — You can use C debuggers to debug C extensions in Python 3.9. Learn how to use the improved Python debug build with the GNU Project Debugger ..."
+    },
+    {
+        "title": "What is Cython? Python at the speed of C | InfoWorld",
+        "content": "Apr 22, 2020 — Enter Cython. The Cython language is a superset of Python that compiles to C, yielding performance boosts that can range from a few percent to ..."
+    },
+    {
+        "title": "Python Tutor - Visualize Python, Java, C, C++, JavaScript ...",
+        "content": "VISUALIZE CODE EXECUTION. Learn Python, Java, C, C++, JavaScript, and Ruby. Python Tutor helps people overcome a fundamental barrier to learning programming ..."
+    },
+    {
+        "title": "Basic Tutorial — Cython 3.0.0a9 documentation",
+        "content": "To make use of C data types in Python syntax, you need to import the special cython module in the Python module that you want to compile, e.g.."
+    },
+    {
+        "title": "Create a C++ extension for Python - Visual Studio - Microsoft ...",
+        "content": "Oct 12, 2021 — Wrapper modules: These modules expose existing C/C++ interfaces to Python code or expose a more \"pythonic\" API that's easy to use from Python."
+    },
+    {
+        "title": "hypnotic",
+        "content": ""
+    },
+    {
+        "title": "Main Page",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Intro",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 4/January 1874/Concerning Serpents",
+        "content": ""
+    },
+    {
+        "title": "MicroPython - Python for microcontrollers",
+        "content": "The MicroPython pyboard is a compact electronic circuit board that runs MicroPython on the bare metal, giving you a low-level Python operating system that can ..."
+    },
+    {
+        "title": "itarara",
+        "content": ""
+    },
+    {
+        "title": "Haskell",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Data Types",
+        "content": ""
+    },
+    {
+        "title": "The Golden Bough/The Killing of the Divine King",
+        "content": ""
+    },
+    {
+        "title": "Python ends C and Java's 20-year reign atop the TIOBE index",
+        "content": "Oct 11, 2021 — There hasn't been any other language atop the monthly index since 2001, making its topping of TIOBE just one more feather in Python's ..."
+    },
+    {
+        "title": "plumage",
+        "content": ""
+    },
+    {
+        "title": "Louis C.K.",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Input and Output",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Serpent-worship",
+        "content": ""
+    },
+    {
+        "title": "Optimize your Python code with C | Opensource.com",
+        "content": "Apr 21, 2021 — Cython creates C modules that speed up Python code execution, important for complex applications where an interpreted language isn't ..."
+    },
+    {
+        "title": "programlama dili",
+        "content": ""
+    },
+    {
+        "title": "The O.C.",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Basic Syntax",
+        "content": ""
+    },
+    {
+        "title": "Dictionary of National Biography, 1901 supplement/Leighton, Frederic",
+        "content": ""
+    },
+    {
+        "title": "Difference between C and Python - GeeksforGeeks",
+        "content": "Aug 10, 2021 — Python has some complex data structures. C is statically typed. Python is dynamically typed. ... It is easy to learn, write and read Python ..."
+    },
+    {
+        "title": "theme song",
+        "content": ""
+    },
+    {
+        "title": "Dada",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Extending with ctypes",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Chorus",
+        "content": ""
+    },
+    {
+        "title": "C vs. Python: The Key Differences - MakeUseOf",
+        "content": "1 day ago — The Key Differences Between the C and Python Programming Languages · C is a structural programming language, while Python is an object-oriented ..."
+    },
+    {
+        "title": "The hidden performance overhead of Python C extensions",
+        "content": "Apr 29, 2021 — A compiled language like Rust or C is a lot faster than Python, with some caveats. Learn about the hidden overhead you'll need to overcome."
+    },
+    {
+        "title": "Run Your Python Code as Fast as C | by Marcel Moosbrugger",
+        "content": "Apr 17, 2021 — However, Python comes with a major drawback: It is much slower than compiled languages like C or C++. So, what do we do after we tested an idea ..."
+    },
+    {
+        "title": "Calling C Functions from Python - JournalDev",
+        "content": "We can call a C function from Python program using the ctypes module. Calling C Function from Python It involves the following steps: Creating a C file."
+    },
+    {
+        "title": "Python C API",
+        "content": "description = 'Python C API Simplest Module', ext_modules = [mdl]). В терминале: $ python3 setup.py build. $ sudo python3 setup.py install ..."
+    },
+    {
+        "title": "Extending Python with C - Medium",
+        "content": "Dec 26, 2019 — Say you've finally hit a point while writing your python code where ... Let's build a dead simple python library with C to compute the kth ..."
+    },
+    {
+        "title": "Meaning of life",
+        "content": ""
+    },
+    {
+        "title": "erycine",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/The End",
+        "content": ""
+    },
+    {
+        "title": "Heart of the West/VIII",
+        "content": ""
+    },
+    {
+        "title": "Programiz: Learn to Code for Free",
+        "content": "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references."
+    },
+    {
+        "title": "Larry Wall",
+        "content": ""
+    },
+    {
+        "title": "Πυθώ",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/GUI Programming",
+        "content": ""
+    },
+    {
+        "title": "The Zoologist/4th series, vol 2 (1898)",
+        "content": ""
+    },
+    {
+        "title": "Numba: A High Performance Python Compiler",
+        "content": "You don't need to replace the Python interpreter, run a separate compilation step, or even have a C/C++ compiler installed. Just apply one of the Numba ..."
+    },
+    {
+        "title": "Meaning",
+        "content": ""
+    },
+    {
+        "title": "piece of shit",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Print version",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Mandingo",
+        "content": ""
+    },
+    {
+        "title": "Creating Basic Python C Extensions - Tutorial | TutorialEdge.net",
+        "content": "Dec 1, 2017 — In this tutorial we are going to take a look at how you can create a really simple Python module using the C programming language."
+    },
+    {
+        "title": "Dave Barry",
+        "content": ""
+    },
+    {
+        "title": "programming language",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Databases",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Laos (territory)",
+        "content": ""
+    },
+    {
+        "title": "Python Types and C-Structures — NumPy v1.21 Manual",
+        "content": "The Python type of the ndarray is PyArray_Type . In C, every ndarray is a pointer to a PyArrayObject structure. The ob_type member of this structure contains a ..."
+    },
+    {
+        "title": "Louis MacNeice",
+        "content": ""
+    },
+    {
+        "title": "anakonda",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Front matter",
+        "content": ""
+    },
+    {
+        "title": "Twentieth Century Impressions of Hongkong, Shanghai, and other Treaty Ports of China/Fauna — General",
+        "content": ""
+    },
+    {
+        "title": "Using C from Python: How to create a ctypes wrapper - Scientific",
+        "content": "This is a short tutorial on using C from Python with the help of a ctypes wrapper module. Let's say we have a small C library for calculating sums and want ..."
+    },
+    {
+        "title": "Domains - Sphinx documentation",
+        "content": "New in version 3.2: The directive option noindexentry in the Python, C, C++, and Javascript domains. An example using a Python domain directive:."
+    },
+    {
+        "title": "Coding the Methods of a Python Class in C - O'Reilly Media",
+        "content": "You have a Python class and want to recode it as a C extension for speed while keeping all client-code unchanged, so it must remain a class. Solution. One ..."
+    },
+    {
+        "title": "Python for C programmers - Purdue Engineering",
+        "content": "The basics of Python are fairly simple to learn, if you already know how another structured language (like C) works. So we will walk through these basics ..."
+    },
+    {
+        "title": "Don't Start Coding With Python — Begin With C - Better ...",
+        "content": "Apr 20, 2021 — Learning Python first is the biggest mistake aspiring developers do. Don't fall for it and start with C instead."
+    },
+    {
+        "title": "Embed Python scripting in C applications - FTP Directory Listing",
+        "content": "This tutorial shows you how to embed Python scripts in your C ... Today, I'd probably use Python embedded in a C application to perform these same."
+    }
+]

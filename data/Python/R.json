@@ -1,0 +1,674 @@
+[
+    {
+        "title": "Python vs. R: What's the Difference? | IBM",
+        "content": "In contrast, R is designed for data analysts to import data from Excel, CSV and text files. Files built in Minitab or in SPSS format can also be turned into R dataframes. While Python is more versatile for pulling data from the web, modern R packages like Rvest are designed for basic webscraping. Data exploration: In Python, you can explore ..."
+    },
+    {
+        "title": "Python regius"
+    },
+    {
+        "title": "RStudio: A Single Home for R & Python",
+        "content": "Leverage R, Python, Jupyter & VS Code, and frameworks such as R Markdown, Shiny, Plumber, Flask, Dash, Streamlit, FastAPI, and Bokeh. For a deeper view on how RStudio professional products work with Python, see Using Python with RStudio ."
+    },
+    {
+        "title": "R Vs Python: What's the Difference? - Guru99",
+        "content": "R and Python are state of the art in terms of programming language oriented towards data science. Learning both of them is, of course, the ideal solution. R and Python requires a time-investment, and such luxury is not available for everyone. Python is a general-purpose language with a readable syntax."
+    },
+    {
+        "title": "Perl",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 38/March 1891/On Vodu-Worship",
+        "content": ""
+    },
+    {
+        "title": "เหลือม",
+        "content": ""
+    },
+    {
+        "title": "R Programming/Introduction",
+        "content": ""
+    },
+    {
+        "title": "Python or R for Data Analysis: Which Should I Learn? | Coursera",
+        "content": "Python was originally designed for software development. If you have previous experience with Java or C++, you may be able to pick up Python more naturally than R. If you have a background in statistics, on the other hand, R could be a bit easier. Overall, Python's easy-to-read syntax gives it a smoother learning curve."
+    },
+    {
+        "title": "AI assited video editing. Made using Ae, python, R"
+    },
+    {
+        "title": "November 2021: Top 10 Technology and Innovation Tweets. [ AI, ML, DL, Flutter, Python, R, Women Who Code, 100 Days Of Code, Coding, Cyber Security, InfoSec, Data Science, 3D, 5G, IoT, AR, VR, 启动, 技術, Blockchain, FinTech, AV, Self Driving, Drones, Robotics, Cloud Computing, Data Mining, AAV, Linux ]"
+    },
+    {
+        "title": "\"Yeah, I'm pretty good with Python\" (/r/gis)"
+    },
+    {
+        "title": "Python vs. R for Data Science: What's the Difference?",
+        "content": "Where Python Excels Where R Excels; The majority of deep learning research is done in Python, so tools such as Keras and PyTorch have \"Python-first\" development. You can learn about these topics in Introduction to Deep Learning in Keras and Introduction to Deep Learning in PyTorch.: A lot of statistical modeling research is conducted in R, so there's a wider variety of model types to choose from."
+    },
+    {
+        "title": "Java (programming language)",
+        "content": ""
+    },
+    {
+        "title": "Tropical Diseases/Chapter 44",
+        "content": ""
+    },
+    {
+        "title": "หลาม",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Print version",
+        "content": ""
+    },
+    {
+        "title": "Conversion guide between R and Python - MIT",
+        "content": "Conversion R and Python. Main concepts. File management Chaining Exploring the data Data types. Data preprocessing. Filtering Changing columns Conditioning Date properties. Data frame transformation. Merging data frames Concatenation Wide to long, long to wide Row operations. Aggregations."
+    },
+    {
+        "title": "R vs Python for Data Analysis — An Objective Comparison",
+        "content": "R is more functional, Python is more object-oriented. As we saw from functions like lm, predict, and others, R lets functions do most of the work. Contrast this to the LinearRegression class in Python, and the sample method on Dataframes. In terms of data analysis and data science, either approach works."
+    },
+    {
+        "title": "Messiah",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Apollo",
+        "content": ""
+    },
+    {
+        "title": "ศรดำ",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Extending with R",
+        "content": ""
+    },
+    {
+        "title": "R vs Python | Top 11 Differences You Should Know",
+        "content": "Python also has libraries for visualization, but it is a bit complex than R. R has a pretty-printed library which helps in building publication-quality graphs. Deep Learning: Both r vs python languages have got their popularity with the rising popularity of data science and machine learning."
+    },
+    {
+        "title": "Sword",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Paean",
+        "content": ""
+    },
+    {
+        "title": "remarkable",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Input and Output",
+        "content": ""
+    },
+    {
+        "title": "I'm 2 months into learning analytics, and will soon get into data visualization, SQL and Excel in-depth, before moving on to Python/R. Will I need a second monitor?",
+        "content": "I've gotten into data analytics recently and have been studying it for the past 2 months. Completed courses in SQL and advanced Excel, and currently halfway through the Google Data Analytics course. Soon I'll be delving into data visualization, SQL and Excel in-depth before moving on to Python/R. As I'm watching these tutorials and learning coding/data visualization/excel analysis, etc. by trying them out myself, will I need a second monitor? Asking since I was wondering if I should take advant..."
+    },
+    {
+        "title": "Monty Python's Flying Circus",
+        "content": ""
+    },
+    {
+        "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Theodoret/Ecclesiastical History/Book IV/Chapter 18",
+        "content": ""
+    },
+    {
+        "title": "ซอด้วง",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Sequences",
+        "content": ""
+    },
+    {
+        "title": "Should I start with Julia or Python/R is better?",
+        "content": "I’m planing to become a data scientist. Now I’m learning maths part and the basics of programming. Next step is choosing the language. Should I start with Julia or is it better to start with a more common language? Should I learn something before learning the specific language?"
+    },
+    {
+        "title": "R vs Python: The Data Science language debate - Imaginary ...",
+        "content": "May 27, 2021 — R and Python are the most popular Data Science languages. They are both open-source and excel at data analysis.Data Visualization: It illustrates the results from ...Data Manipulation: Main libraries for data man...Data Modeling: R language may have to rely on ...Data Exploration: R can manage basic data an..."
+    },
+    {
+        "title": "Any Python/R experts here?",
+        "content": "Hello CFA members and candidates! I’m currently studying for the 2022 L1 exam, which has new Excel, Python and R tips in several sections. I’m currently working as a Private Equity Analyst who is willing to make it to the big investment banks and/or asset managers by the time I earn my CFA charter and I understand mastering coding languages such as Python are an everyday tool, greatly appreciated, and can be a competitive edge when applying to those prestigious names. I have questions for ..."
+    },
+    {
+        "title": "Reticulate tutorial: how to use Python in R - Ander Fernández",
+        "content": "Once you have settled your Python environment, using Python in R with reticulate in a RMarkdown file is very simple. You just need to indicate that the chunk will run Python code instead of R. To do so, instead of opening the chunk with {r}, use {python}. Example: a = \"Hello\" + \" World\" print (a) ## Hello World."
+    },
+    {
+        "title": "R vs Python - GeeksforGeeks",
+        "content": "Oct 12, 2021 — Difference between R Programming and Python Programming ... R is a language and environment for statistical programming which includes statistical ..."
+    },
+    {
+        "title": "Getting a CPA vs. Learning python/R/Power BI",
+        "content": "Hi all, I'm currently in a financial leadership development program (FLDP) at F500. I wanted to ask if my time is better spent getting a CPA or learning programs for data analytics. I don't envision myself going into an accounting role post program but a CPA still seems like a good thing to have in the finance world. I'm more interested in learning the coding languages but didn't know if I would look like a less attractive job candidate internally and externally since it wouldn't be concrete c..."
+    },
+    {
+        "title": "Working With Carriage Return (\\r) in Python - Python Pool",
+        "content": "we have applied \\r in between the string. \\r has shifted the cursor to the start, and 'solution' contains 8 letters. From the beginning, 8 letters will be erased, and in place of that solution gets printed. You can see the output for better understanding. 2. Using carriage return in Python with a newline character"
+    },
+    {
+        "title": "Starting DS from today on my own. Can someone share the syllabus(list of topics) that touches most of the things including the mathematics required. I am aware about Basic introduction to python, R, excel, SQL. Thank you.",
+        "content": "Mods: if this is actively being asked, please remove the post and share the post with best answer."
+    },
+    {
+        "title": "What does an 'r' represent before a string in python ...",
+        "content": "r means the string will be treated as raw string.. See the official Python 2 Reference about \"String literals\":. When an 'r' or 'R' prefix is present, a character following a backslash is included in the string without change, and all backslashes are left in the string.For example, the string literal r\"\\n\" consists of two characters: a backslash and a lowercase 'n'."
+    },
+    {
+        "title": "R Vs Python: Which One Should You Learn? | Flatiron School",
+        "content": "Feb 4, 2021 — Compared to R, Python is a general purpose language ... Python is a general purpose programming language. It's great for statistical analysis, but ..."
+    },
+    {
+        "title": "Is Data+ truly agnostic? Or it'll require Python/R/Tableau?",
+        "content": "I'd be interested into taking Data+ once it's available. But I'm having real trouble understanding what the exams will cover. Will it require knowledge of Data Analysis/Data Mining in Python/R? Or it'll be all more tehoretical. Does anybody have a good and \"proven\" (authority) source to study from? Thanks! Edit: My title should say: Is Data+ truly tool* agnostic?"
+    },
+    {
+        "title": "How does carriage return \"\\r\" work in python - CodeSpeedy",
+        "content": "In this Python tutorial, we will learn how does carriage return \"\\r\" work in Python. A carriage return is a special type of escaping character. Many of the Python learners have noticed that \\r\\n is used in Python. Most of them know the work function of the \\n new line in Python."
+    },
+    {
+        "title": "If I am interested in HR analytics/People Analytics what software should I learn first? (Tableau, Python, R)?",
+        "content": "or is there an online course I could take? :) thanks in advance."
+    },
+    {
+        "title": "Using Python with RStudio - RStudio :: Solutions",
+        "content": "R Markdown reports that call Python scripts; Plumber APIs that call Python scripts; Mixed content relies on the reticulate package, which you can read more about on the project's website. View the user documentation for publishing content that uses Python and R to RStudio Connect. Cheat sheet for using Python with R and reticulate. Managing ..."
+    },
+    {
+        "title": "Is it worth it to learn Python, R and SQL? and Why?",
+        "content": "Hi there! My college is offering free certifications in these programing languages (Python, R and SQL) and I am really interested in taking them, even if they are more related to Data Science than Marketing. ***Is it worth it?***"
+    },
+    {
+        "title": "When did you start learning programming (if you did), python, R...etc?",
+        "content": "Hello IEs from all over the world.. So, in my country we have a mandatory course in C++, and that's about it. However, when looking up some job descriptions related to IE (manufacturing, supply chain..etc) in big companies like Tesla. I noticed always a requirement for SQL, R, Python. I understand it can be related to many factors, like what job you're doing and at what place. I was curious if many of you have needed to start learning these after your bachelor due to jobs' requirement, or just..."
+    },
+    {
+        "title": "Python Regular Expressions | Python Education | Google ...",
+        "content": "The 'r' at the start of the pattern string designates a python \"raw\" string which passes through backslashes without change which is very handy for regular expressions (Java needs this feature badly!). I recommend that you always write pattern strings with the 'r' just as a habit. Basic Patterns"
+    },
+    {
+        "title": "Any Python/R experts here? #2",
+        "content": "Hi again CFA members and candidates! First of all, big thank you to everyone commenting and sharing their experience and insights on the previous post relating to this topic which I thought were really interesting. From what people have suggested, Python seems to be the go-to option, with R being useful as it brings its own benefits. My previous post was about developing new skills to help me make it into sectors within the investment industry I’m more interested in as I go further in my car..."
+    },
+    {
+        "title": "reticulate: R interface to Python - RStudio",
+        "content": "We are pleased to announce the reticulate package, a comprehensive set of tools for interoperability between Python and R. The package includes facilities for: Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session. Translation between R and Python objects (for example, between R and ..."
+    },
+    {
+        "title": "[#75|+7850|67] It was a python [r/memes]",
+        "content": ""
+    },
+    {
+        "title": "re — Regular expression operations — Python 3.10.0 ...",
+        "content": "So r\"\\n\" is a two-character string containing '\\' and 'n', while \"\\n\" is a one-character string containing a newline. Usually patterns will be expressed in Python code using this raw string notation. It is important to note that most regular expression operations are available as module-level functions and methods on compiled regular expressions."
+    },
+    {
+        "title": "(100%off) python,R and SQL",
+        "content": "The SQL Programming Essentials 2021 Immersive Training Learn SQL Programming step by step and know how it works. Building and Manipulating Databases Link: [https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=6314C4DAF93F83F6D812](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=6314C4DAF93F83F6D812) &#x200B; Code: 6314C4DAF93F83F6D812 The R Programming For Data Science A-Z Complete Diploma 2021 Learn ..."
+    },
+    {
+        "title": "Using Python and R together: 3 main approaches - KDnuggets",
+        "content": "As of December 2015 there are three principal ways to use BOTH Python an R. Use a Python package rpy2 to use R within Python . You can see examples here You can also use Python from within R using the rPython package. Use Jupyter with the IR Kernel - The Jupyter project is named after Julia Python and R and makes the interactivity of iPython ..."
+    },
+    {
+        "title": "How to set up a machine learning machine? (Python, R, etc)",
+        "content": "Title says it all, I want to learn machine learning, but I don't know where to get started, and what to start with. Any tips/ideas are much appreciated. If you are new to machine learning, feel free to visit my blog post about machine learning machine."
+    },
+    {
+        "title": "What is the Difference between r+ and w+ in Python | Example",
+        "content": "In previous tutorial, we have learned about Python file handling. The file can be open in reading (r), writing (w) or append (a) mode. These modes can be followed by '+' sign. Sometimes, these modes are very confusing for many of us. One such term is understanding the difference between r+ and w+ in Python."
+    },
+    {
+        "title": "Looking to create a multi-lingual (Python/R) distill-like GitHub blog",
+        "content": "Hi folks, At our company, I’m pushing for a more grass roots publication of recent findings for our group. Little tidbits we can point to for other teams to reference and learn/ask more. The easiest way I can think to do this is to host a gitblog in our internal GitHub. I’d like to include our R data scientists as authors, but not sure of the best way. I like the distill package for rendering Rmd and I know I could attempt to use reticulate within code chunks of an Rmd file or just formatted ..."
+    },
+    {
+        "title": "[Hire Me]Data analysis using Python, R, Stata, SPSS, Excel",
+        "content": "Hi guys, I am an in expert in mathematics and statistics. Are you struggling with you data analysis or machine learning project? Connect with for professional work. Discord kalipapers#1373 Email kalipaperss@gmail.com"
+    },
+    {
+        "title": "Leveraging the best of both Python and R - DataCamp",
+        "content": "Python within R. It is also possible to run Python scripts in R by using one of the alternatives below: 1. rJython. This package implements an interface to Python via Jython. It is intended for other packages to be able to embed python code along with R. 2. rPython. rPython is again a Package allowing R to Call Python."
+    },
+    {
+        "title": "Help passing a variable from HTML to Python (/r/flask)",
+        "content": ""
+    },
+    {
+        "title": "Would Accounting Firms Allow You To Use Python/R on audit engagement?",
+        "content": "I’m an accounting undergrad major who has worked in industry for about 5 years, then 2 years in BI and now doing a Masters in Data Science. I plan to get my CPA after my 150 and considering going into public accounting. I can see a lot of uses for Python during an audit: cleaning data fast, using computer vision to process scanned images of invoices or bank statements, and using ML to find potentially fraudulent transactions. However, my question is: would the big accounting firms allow an..."
+    },
+    {
+        "title": "Installing and Configuring Python with RStudio - RStudio ...",
+        "content": "Step 2) Create a Python environment in your project. It is recommended that you use one virtual environment per project, similar to how packrat is used to manage R packages within a project. Navigate into your RStudio project directory by using the following command: cd . Create a new virtual environment in a folder called my_env ..."
+    },
+    {
+        "title": "I’ll write MATLAB/C/Python/R/Mathematica code for you and work on problems in Scientific Computing/Data Analysis/Machine Learning/Engineering Simulations",
+        "content": "Hit me up!! Have 10 years of experience with this."
+    },
+    {
+        "title": "R vs Python: Which Is Best for Data? - Qvault",
+        "content": "Python vs R Compared Python. Named after the British comedy group Monty Python, Python is a high-level, procedural, general-purpose programing language designed by Dutch computer scientist Guido van Rossum. Python was released in 1991 with multiparadigm, open-source, and dynamic typed properties, and has since become a key choice for back-end ..."
+    },
+    {
+        "title": "Laptop for Python, R, Data Analysis & Business Intelligence, etc.",
+        "content": "what is the minimum requirement what do I need to study the above mentioning, I have a budget of $ 800, but I am open to suggestions if I should stretch it"
+    },
+    {
+        "title": "What does '\\\\r' do in Python? - Quora",
+        "content": "Answer (1 of 4): Give a try [code]print('\\\\r') #would print '\\r' print(r'\\\\r') #would print '\\\\r', where r'string' makes a raw string print(r'\\r ..."
+    },
+    {
+        "title": "Generic question about softwares - not here to start a soft-war, just a genuine question about Python, R and Stata",
+        "content": "I am by no definition a data scientist, just putting it out there. I did the analytics for my PhD using Stata and am fairly comfortable in it. Problem is that in the new job, which is quasi-academic, the quality of graphs and visualisation is kind of important. Graphs made on Stata doesn't cut it. The organisation suggestion was to use Tableau and I am fairly decent at that, problem is that I don't like pointing and clicking, I would rather write code and mass-produce the visualisations required..."
+    },
+    {
+        "title": "Calling Python from R • reticulate",
+        "content": "The automatic conversion of R types to Python types works well in most cases, but occasionally you will need to be more explicit on the R side to provide Python the type it expects. For example, if a Python API requires a list and you pass a single element R vector it will be converted to a Python scalar."
+    },
+    {
+        "title": "(100%OFF)PYTHON,R AND SQL COURSES",
+        "content": "The SQL Programming Essentials 2021 Immersive Training Learn SQL Programming step by step and know how it works. Building and Manipulating Databases Link: [https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=6314C4DAF93F83F6D812](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=6314C4DAF93F83F6D812) &#x200B; Code: 6314C4DAF93F83F6D812 The R Programming For Data Science A-Z Complete Diploma 2021 Learn ..."
+    },
+    {
+        "title": "UPDATE: Converting Python Data to R with RPY2 | by Remy ...",
+        "content": "Converting data from R to python is generally easier than going the other direction. To convert a data frame to pandas, you do the reverse of before: with localconverter (ro.default_converter ..."
+    },
+    {
+        "title": "[For Hire] Data Visualization Expert 5$ BTC/LTC per Hour [Excel, Tableau, Python, R, PowerBi, etc]",
+        "content": "Hello My Name is Ruben Gavidia from Venezuela. I am Data Analyst, I can plot your data using the tools that you desire: Excel, Google Sheets, Power Bi, Tableau, Matlab, SPSS, R or Python. This is an example of my work: [https://github.com/RubenGavidia/Data-Visualization\\_Portfolio\\_RubenGavidia0x](https://github.com/RubenGavidia/Data-Visualization_Portfolio_RubenGavidia0x) [https://github.com/RubenGavidia/Tableau\\_Portfolio](https://github.com/RubenGavidia/Tableau_Portfolio) If you have an..."
+    },
+    {
+        "title": "R Package rPython",
+        "content": "rPython R package. This package allows the user to call Python from R. It is a natural extension of the rJython package by the same author. What can be done with it? rPython is intended for running Python code from R. R programs and packages can:"
+    },
+    {
+        "title": "R Interface to Python - GitHub Pages",
+        "content": "Calling Python. There are a variety of ways to integrate Python code into your R projects: Python in R Markdown — A new Python language engine for R Markdown that supports bi-directional communication between R and Python (R chunks can access Python objects and vice-versa).. Importing Python modules — The import() function enables you to import any Python module and call it's functions ..."
+    },
+    {
+        "title": "Using Python with the RStudio IDE - RStudio Support",
+        "content": "After reticulate has been installed, Python scripts (with the extension .py) can be opened, and the code within executed, similarly to R. Note that RStudio uses the reticulate Python REPL to execute code, and automatically switches between R and Python as appropriate for the script being executed."
+    },
+    {
+        "title": "Cheat sheet for Python dataframe ↔ R dataframe syntax ...",
+        "content": "Photo by Mad Fish Digital on Unsplash. In this guide, for Python, all the following commands are based on the 'pandas' package. For R, the 'dplyr' and 'tidyr' package are required for certain commands."
+    },
+    {
+        "title": "Dictionary of Greek and Roman Biography and Mythology/Volume 3p",
+        "content": ""
+    },
+    {
+        "title": "Rabbits",
+        "content": ""
+    },
+    {
+        "title": "ซอด้วง",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Intro",
+        "content": ""
+    },
+    {
+        "title": "R vs Python vs Julia: Efficient code | Towards Data Science",
+        "content": "How easy is it to write efficient code? I compare R, Julia and Python (including Numba JIT compilation and NumPy) to C, programming a simple algorithm."
+    },
+    {
+        "title": "www.montypython.comMonty Python Official Site",
+        "content": "Sep 13, 2021 · The official online home for all things Monty Python. Pages of everything you’ll ever need to know about Monty Python and their movies, TV shows, books, live stage shows, apps and latest projects, as well as exclusive videos, news and a Fanwall where all your #montypython content will live."
+    },
+    {
+        "title": "Dictionary of National Biography, 1901 supplement/Leighton, Frederic",
+        "content": ""
+    },
+    {
+        "title": "C++",
+        "content": ""
+    },
+    {
+        "title": "prototype-based language",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Intro",
+        "content": ""
+    },
+    {
+        "title": "Python or R: Which Is A Better Choice For Data Science? / Habr",
+        "content": "Dec 30, 2019 — There are many programming languages used in data science including R, C++, Python. In this blog, we are going to discuss two important ..."
+    },
+    {
+        "title": "github.com › plotly › dashGitHub - plotly/dash: Analytical Web Apps for Python, R ...",
+        "content": "Dash. Dash is the most downloaded, trusted Python framework for building ML & data science web apps.. Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code."
+    },
+    {
+        "title": "The Zoologist/4th series, vol 2 (1898)",
+        "content": ""
+    },
+    {
+        "title": "Resident Evil (Video Game)",
+        "content": ""
+    },
+    {
+        "title": "ø",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Web",
+        "content": ""
+    },
+    {
+        "title": "Python - Reddit",
+        "content": "r/Python: News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use …"
+    },
+    {
+        "title": "www.python.org › downloads › releasePython Release Python 3.8.1 | Python.org",
+        "content": "Python 3.8.1. Release Date: Dec. 18, 2019. This is Python 3.8.1, the first maintenance release of Python 3.8. Note: The release you're looking at is Python 3.8.1, a bugfix release for the legacy 3.8 series. Python 3.9 is now the latest feature release series of Python 3. Get the latest release of 3.9.x here."
+    },
+    {
+        "title": "An Afternoon Miracle",
+        "content": ""
+    },
+    {
+        "title": "Dada",
+        "content": ""
+    },
+    {
+        "title": "nondimensionalization",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Files",
+        "content": ""
+    },
+    {
+        "title": "Python or R: Which to choose for your next data project",
+        "content": "Jun 29, 2021 — R is a language specifically designed for data analysis so it has a lot of useful features built in, but Python is a general-purpose language ..."
+    },
+    {
+        "title": "shiring.github.io › r_vs_python › 2017/01/22R vs Python - a One-on-One Comparison - GitHub Pages",
+        "content": "Jan 22, 2017 · However, both R and Python can also call columns in a dataframe with “[ ]” with the difference that Python per default subsets data columns df[“seqid”], while R always needs index specifications for rows and columns, separated by “,”: e.g. df[, “seqid”] would subset every row and only the column named “seqid”."
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Serpent-worship",
+        "content": ""
+    },
+    {
+        "title": "Meaning",
+        "content": ""
+    },
+    {
+        "title": "Thronesiverse",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Dealing with the imperfect",
+        "content": ""
+    },
+    {
+        "title": "re — Regular expression operations — Python 3.10.1 ...",
+        "content": "So r\"\\n\" is a two-character string containing '\\' and 'n' , while \"\\n\" is a ... Usually patterns will be expressed in Python code using this raw string ..."
+    },
+    {
+        "title": "www.datacamp.com › tracks › skillData skill learning paths | DataCamp",
+        "content": "Skill tracks guide your data science learning in Python, R, and SQL. Become an expert in programming, data manipulation, machine learning, statistics, and more."
+    },
+    {
+        "title": "Project Jupyter | Home",
+        "content": "Jupyter supports over 40 programming languages, including Python, R, Julia, and Scala. icon to represent sharing a notebook. Share notebooks. Notebooks can be ..."
+    },
+    {
+        "title": "www.python.org › downloads › releasePython Release Python 2.7.8 | Python.org",
+        "content": "Jul 02, 2014 · Python 2.7.8. Release Date: July 2, 2014 Python 2.7.8 was released on July 1, 2014. This release includes regression and security fixes over 2.7.7 including: The openssl version bundled in the Windows installer has been updated."
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Mandingo",
+        "content": ""
+    },
+    {
+        "title": "Thronesiverse",
+        "content": ""
+    },
+    {
+        "title": "Phil Vischer",
+        "content": ""
+    },
+    {
+        "title": "",
+        "content": ""
+    },
+    {
+        "title": "DataSpell Has Been Officially Released: A Brand New IDE for ...",
+        "content": "Nov 29, 2021 — DataSpell combines the interactivity of Jupyter notebooks with the intelligent Python and R coding assistance of PyCharm in one ergonomic ..."
+    },
+    {
+        "title": "Heart of the West/VIII",
+        "content": ""
+    },
+    {
+        "title": "laugh",
+        "content": ""
+    },
+    {
+        "title": "Meaning of life",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Hello, World",
+        "content": ""
+    },
+    {
+        "title": "Calling Python from R • reticulate",
+        "content": "The reticulate package provides an R interface to Python modules, classes, and functions. For example, this code imports the Python os module and calls some ..."
+    },
+    {
+        "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXV on Acts xvi. 13, 14",
+        "content": ""
+    },
+    {
+        "title": "ab initio",
+        "content": ""
+    },
+    {
+        "title": "Anonymous",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Networks",
+        "content": ""
+    },
+    {
+        "title": "Python and R for the Modern Data Scientist: The Best of Both ...",
+        "content": "That includes Python and R, two of the foundational programming languages in the field. This book guides data scientists from the Python and R communities ..."
+    },
+    {
+        "title": "Natural History, Reptiles/Ophidia",
+        "content": ""
+    },
+    {
+        "title": "olive",
+        "content": ""
+    },
+    {
+        "title": "Now",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Dictionaries",
+        "content": ""
+    },
+    {
+        "title": "R vs. Python: What's the Real Difference Between R and ...",
+        "content": "Python and R are both high-level, open-source programming languages that are among the most popular for data science and statistics. Nevertheless, R tends to be ..."
+    },
+    {
+        "title": "The Zoologist/4th series, vol 3 (1899)",
+        "content": ""
+    },
+    {
+        "title": "curtain",
+        "content": ""
+    },
+    {
+        "title": "God",
+        "content": ""
+    },
+    {
+        "title": "A Beginner's Python Tutorial/Installing Python",
+        "content": ""
+    },
+    {
+        "title": "Advent of 2021, Day 7 – Starting Spark with R and Python - R ...",
+        "content": "1 day ago — Let's look into the local use of Spark. For R language,. sparklyr. sparklyr package is availble and for Python. pyspark."
+    },
+    {
+        "title": "Use R and Python in the same notebook file - Google Cloud",
+        "content": "This page describes how to use Python's rpy2 package to run R and Python code ... The notebook file is ready for you to import rpy2 and use R and Python in ..."
+    },
+    {
+        "title": "Machine Learning & Deep Learning in Python & R | Udemy",
+        "content": "Covers Regression, Decision Trees, SVM, Neural Networks, CNN, Time Series Forecasting and more using both Python & R."
+    },
+    {
+        "title": "R or Python? - Reasons behind this Cloud War - Analytics ...",
+        "content": "May 17, 2021 — Python or R are the topmost preferred programming languages for Data Science learners. Let's learn the difference between r vs python."
+    },
+    {
+        "title": "R vs Python for Data Science: The Winner is … - KDnuggets",
+        "content": "May 26, 2015 — Both Python and R are popular programming languages for statistics. While R's functionality is developed with statisticians in mind (think of ..."
+    },
+    {
+        "title": "R is better than Python. Try telling that to banks",
+        "content": "Sep 28, 2021 — Most serious data scientists prefer R to Python, but if you want to work in data science or machine learning in an investment bank, ..."
+    },
+    {
+        "title": "Israel",
+        "content": ""
+    },
+    {
+        "title": "The Zoologist/4th series, vol 5 (1901)",
+        "content": ""
+    },
+    {
+        "title": "late",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Print version",
+        "content": ""
+    },
+    {
+        "title": "21 Reasons you should learn R, Python, and Hadoop",
+        "content": "Jul 15, 2021 — Check out the major reasons to learn R, Python, & Hadoop in this article. The reasons to learn all 3 programming languages and get started ...Jan 3, 2022 - Jan 25, 2022Big Data Hadoop ...Jan 14, 2022 - Feb 25, 2022Big Data Hadoop ..."
+    },
+    {
+        "title": "My Gym Partner's a Monkey",
+        "content": ""
+    },
+    {
+        "title": "Chambers's Twentieth Century Dictionary 1908/Purim Pyxidium",
+        "content": ""
+    },
+    {
+        "title": "idiom",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Regular Expression",
+        "content": ""
+    },
+    {
+        "title": "Calling Python from R - CRAN",
+        "content": "The reticulate package provides an R interface to Python modules, classes, and functions. For example, this code imports the Python os module and calls some ..."
+    },
+    {
+        "title": "Larry Wall",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 60/November 1901/The Omen Animals of Sarawak",
+        "content": ""
+    },
+    {
+        "title": "purse",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Metaclasses",
+        "content": ""
+    },
+    {
+        "title": "A Tour of Data Science: Learn R and Python in Parallel",
+        "content": "Book Description · Allows you to learn R and Python in parallel · Cover statistics, programming, optimization and predictive modelling, and the popular data ...$59.95 · ‎In stock"
+    },
+    {
+        "title": "Bono",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Delphi",
+        "content": ""
+    },
+    {
+        "title": "bop the bishop",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Hello, World",
+        "content": ""
+    },
+    {
+        "title": "R or Python - STATWORX",
+        "content": "Sep 4, 2019 — While Python is a general-purpose programming language, R was developed for statistical analysis. Therefore, users of these languages often have ..."
+    },
+    {
+        "title": "Epitaphs",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Artemis",
+        "content": ""
+    },
+    {
+        "title": "pine",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Revenge of the Strings",
+        "content": ""
+    },
+    {
+        "title": "Open sourcing the R and Python language extensions for SQL ...",
+        "content": "Sep 24, 2020 — Languages such as R and Python have left the realm of data scientists and are being used more frequently by data engineers supporting them."
+    },
+    {
+        "title": "What does !r mean in Python? [duplicate] - Stack Overflow",
+        "content": "Dec 8, 2019 · 1 answerBy default an f-string displays the result of calling str on the values inside the curly braces. Specifying !r displays the result of ..."
+    },
+    {
+        "title": "rstudio/reticulate: R Interface to Python - GitHub",
+        "content": "Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R ..."
+    },
+    {
+        "title": "R vs Python | Top 11 Differences You Should Know - eduCBA",
+        "content": "Statistical Correctness: Since R is developed for data statistics, it provides better support and library libraries. Python is best used for application ...R is slower than python but not much: Python is ...R codes need more maintenance: Python codes ..."
+    },
+    {
+        "title": "2.7 Code Examples: R & Python | Practical Econometrics and ...",
+        "content": "2.7 Code Examples: R & Python. Below we present some examples of equivalent code in R and Python for easier comparison. We note that the subsections ..."
+    },
+    {
+        "title": "SQL + Python + R. All in one platform | Mode",
+        "content": "Mode's Python and R notebooks are connected directly to your SQL query results, so your analysis is always up to date and in sync."
+    }
+]

@@ -1,0 +1,586 @@
+[
+    {
+        "title": "2. How to do OR queries in Django ORM? - Books by Agiliq",
+        "content": "2. How to do OR queries in Django ORM?¶ If you are using django.contrib.auth, you will have a table called auth_user.It will have fields as username, first_name, last_name and more.. A common requirement is performing OR filtering with two ore more conditions. Say you want find all users with firstname starting with 'R' and last_name starting with 'D'."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Customizing Admin U.I",
+        "content": ""
+    },
+    {
+        "title": "Django Unchained",
+        "content": ""
+    },
+    {
+        "title": "fictive",
+        "content": ""
+    },
+    {
+        "title": "A Programmable Web/Chapter 2",
+        "content": ""
+    },
+    {
+        "title": "Django · PyPI",
+        "content": "01.11.2021 · First, read docs/intro/install.txt for instructions on installing Django. Next, work through the tutorials in order ( docs/intro/tutorial01.txt , docs/intro/tutorial02.txt , etc.). If you want to set up an actual deployment server, read docs/howto/deployment/index.txt for instructions."
+    },
+    {
+        "title": "How to perform OR condition in django queryset? - Stack ...",
+        "content": "Oct 11, 2012 · 4 answersfrom django.db.models import Q User.objects.filter(Q(income__gte=5000) | Q(income__isnull=True)). via Documentation.How do I do an OR filter in a Django query? - Stack ...8 answersApr 11, 2009Django query filter combining AND and OR with Q ...4 answersJan 7, 2016OR operator in Django model queries - Stack Overflow2 answersMar 26, 2011Django \"OR\" like statement in Queryset? - Stack ...1 answerAug 8, 2020More results from stackoverflow.com"
+    },
+    {
+        "title": "Python Django or C#Net or Java Spring for Backend Development",
+        "content": "Hello I am starting my first Web Development project in company and my lead developer asked me to decide which technology we should go for to develop backend. We short listed to three (Django, .net and Spring) could some one suggest which is good for now and for future as well."
+    },
+    {
+        "title": "How do I do an OR filter in a Django query? - Stack Overflow",
+        "content": "How would I do this in Django? (preferably with a filter or queryset). django django-queryset. Share. Improve this question. Follow edited Apr 16 '19 at 6:04. daaawx. 2,548 2 2 gold badges 13 13 silver badges 15 15 bronze badges. asked Apr 11 '09 at 9:02. Mez Mez."
+    },
+    {
+        "title": "Django or Flask? Recommendation From My Experience.",
+        "content": "Django is absolutely great for building a full web application in Python. Though you can certainly do some lower-level things with Django, I think for a lot of people Django shines in the form of quick development and Django's auth/permission system that is baked into the package itself."
+    },
+    {
+        "title": "Flask vs Django in 2021: Which Framework to Choose?",
+        "content": "Django. Django is a web application framework that takes care of many of the standard functionalities to build secure and maintainable websites. As a developer, all you need is to build your business logic. Django is free and open-source and has very active and helpful community support with loads of documentation."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Creating a RapidSMS App",
+        "content": ""
+    },
+    {
+        "title": "Django (1966 film)",
+        "content": ""
+    },
+    {
+        "title": "bounty hunter",
+        "content": ""
+    },
+    {
+        "title": "Federal Reporter/Second series/Volume 776",
+        "content": ""
+    },
+    {
+        "title": "django-heroku · PyPI",
+        "content": "01.03.2018 · Usage of Django-Heroku. In settings.py, at the very bottom: # Configure Django App for Heroku. import django_heroku django_heroku.settings(locals()) This will automatically configure DATABASE_URL, ALLOWED_HOSTS, WhiteNoise (for static assets), Logging, and Heroku CI for your application.. Bonus points!"
+    },
+    {
+        "title": "Making queries | Django documentation",
+        "content": "A QuerySet represents a collection of objects from your database. It can have zero, one or many filters. Filters narrow down the query results based on the ...‎Retrieving objects · ‎Querying JSONField · ‎Complex lookups with Q objects"
+    },
+    {
+        "title": "Should I keep learning Python/Django or shift too Node/Express?",
+        "content": "Hello everyone, a little bit of context. I'm a CS student about to graduate in a year. I've been working on Python Web Frameworks like Django/Flask and did a intership too. But the thing is that the demand of Django is way less than Node in my area. If I search on LinkedIn the results are like:- Python/Django - 3.5k NodeJS - 56k You see the difference. Now I don't understand, should I keep improving my Django Flask skills and build complex projects and get in depth or should I shift to Node Expr..."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Code Structure",
+        "content": ""
+    },
+    {
+        "title": "Django Wexler",
+        "content": ""
+    },
+    {
+        "title": "batteries-included",
+        "content": ""
+    },
+    {
+        "title": "Good enough software architecture for web backends like Django or Node.js",
+        "content": ""
+    },
+    {
+        "title": "Django vs Laravel: Which Is the Better Framework in 2021?",
+        "content": "Django is a more secure web framework that leverages an authentication system to verify and manages user passwords, IDs, and accounts. Cybersecurity issues such as cross-site requests, XSS, clickjacking, forgery, etc., are likely to reduce."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Internationalization",
+        "content": ""
+    },
+    {
+        "title": "The Men Who Stare at Goats (film)",
+        "content": ""
+    },
+    {
+        "title": "dangerously",
+        "content": ""
+    },
+    {
+        "title": "Filtering - Django REST framework",
+        "content": "Django, API, REST, Filtering. ... Django REST framework filters package; Django REST framework full word search filter; Django URL Filter; drf-url-filters ..."
+    },
+    {
+        "title": "How difficult is deployment with Django or FastAPI?",
+        "content": "Even though I mostly develop with Python and I know Django pretty well, I've been using PHP because it's so cheap and easy to deploy. I just upload my stuff to a managed server ($10/mo for unlimited domains, super easy to upgrade if necessary), and it runs. If it doesn't run, I contact support, and they help get it running, usually in under an hour. I've left sites running for years and never had issues - deployment takes practically zero money and less than an hour at start-up, and that's it..."
+    },
+    {
+        "title": "The web framework for perfectionists with deadlines | Django",
+        "content": "Meet Django. Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Web Views & Templates",
+        "content": ""
+    },
+    {
+        "title": "Quentin Tarantino",
+        "content": ""
+    },
+    {
+        "title": "enlightenment",
+        "content": ""
+    },
+    {
+        "title": "Somewhat off topic - if you were to build a website and you're only medium good at python where would you start? Django or something else?",
+        "content": "I'm asking this here because it's been a great community over the years and I feel like I get straight answers vs other subs where some bonehead is like \"you need to go back to school....\". Anyway, I want to build a basic social networking site where you can meet up with people. This may be way too difficult but figured I'd see if there was anything along the lines of Python Crash Course but for web design that anyone could recommend. Thank you!"
+    },
+    {
+        "title": "Conditional Expressions | Django documentation | Django",
+        "content": "Django 3.2 documentation. API Reference. Models. Conditional Expressions; Getting help FAQ Try the FAQ — it's got answers to many common questions. Index, Module Index, or Table of Contents Handy when looking for specific information. django-users mailing list Search for information in the archives of the django-users mailing list, or post a ..."
+    },
+    {
+        "title": "How To Build a To-Do application Using Django and React",
+        "content": "First, open a new terminal window and navigate to the django-todo-react project directory. To set up the frontend, this tutorial will rely upon Create React App ..."
+    },
+    {
+        "title": "Flask or Django or both?",
+        "content": "Just picked up code academy for a year cause of the 40% discount. &#x200B; What does it matter between djang or flask? Can you learn 1 and easily transition into the other? What's the more relevant market related skills outside of pandas and numpy? &#x200B; Been working on automating stuff through REST APIs so want to level up a bit."
+    },
+    {
+        "title": "QuerySet API reference | Django documentation | Django",
+        "content": "Django doesn't support that mode of access (slicing from the end), because it's not possible to do it efficiently in SQL. Also, note that reverse() should generally only be called on a QuerySet which has a defined ordering (e.g., when querying against a model which defines a default ordering, or when using order_by())."
+    },
+    {
+        "title": "Django or Flask for my web application?",
+        "content": "I'm learning python so I can create a web application that essentially takes in stock data and given my buy/sell algorithm recommends stocks to purchase. I want to include basic charting and information that is automatically generated based on certain parameters I enter like stock ticker, average seasonal return history, trailing stop %, etc... I've already built this project using VBA for excel but I'd like to rebuild it onto a web application using Python. I'm still learning Python but I'm pr..."
+    },
+    {
+        "title": "Which framework should I learn: Django or Node.js? Why ...",
+        "content": "Answer (1 of 34): First of all Node.js is not a framework. Node.js is a platform built on Chrome's JavaScript runtime. Django is a framework. I would suggest that you learn Django. The reason being that Django is more structured and you learn good development principles. It gives you a very good..."
+    },
+    {
+        "title": "Django vs Ruby on Rails Comparison. Which Framework is ...",
+        "content": "Nov 3, 2021 — Can't decide on a web development framework for your next project? Read our comprehensive guide to Django and Ruby on Rails to see which one ..."
+    },
+    {
+        "title": "Which one is easier Python Django or Angular TypeScript?",
+        "content": "I’m starting a new small web project and just wondering which language and framework is easier for newbie?."
+    },
+    {
+        "title": "Django or Node.js?",
+        "content": "I am learning django from few months. Recently one of my friend told me, for web development node js is best, because javascript is mother language of web. Now i am confused? Do I leave django or continue it?"
+    },
+    {
+        "title": "Django or DRF? : django",
+        "content": "level 1. [deleted] · 2y. actually you have to use both, because DRF is a django extension. but, from my personal experience, if you don't plan on investing some time to really learn DRF, it's much simpler to learn the necessary Django parts to make it friendly for REST apis instead of using DRF."
+    },
+    {
+        "title": "Django or Strapi as a headless CMS?",
+        "content": "What are the pros and cons for each framework?"
+    },
+    {
+        "title": "For job opportunities, should I learn Django or Node.js ...",
+        "content": "Node has more jobs overall. Python is a better language but django is less used. IMO, JS is a stupid as fuck language that infected all aspects of tech, but everyone uses it. 7. level 1. 0rsinium. · 2y. You should learn what makes you happy, and you will be paid for it. 5."
+    },
+    {
+        "title": "I will learn (Python, deep-learning, Django) or ( Javascript, Node, React), when I do learn. I like to remote work for cheap (like 300 dollars/month) to gain experience. I live in Turkey, what companies can I use as middlemen (like revature.com) to find jobs?",
+        "content": "hello, I am going to learn either (Python, deep-learning, Django) or ( Javascript, Node, React), when I do learn. I like to remote work for cheap (like 300 dollars/month) to gain experience. I live in Turkey, what companies can I use as middlemen (like [revature.com](https://revature.com)) to find jobs? also, I am having trouble making a decision my heart says learn python but my mind says learn Javascript, Node, React, I have no idea what jobs I can find with python but I learned that I am mo..."
+    },
+    {
+        "title": "Cant decide between Django or Flask",
+        "content": "Hey I read quite a few posts about this and I know there isn't really a 'right' answer but I struggle deciding what technology to use for a project that I am working on and I would really appreciate some advice **Project** Basic idea: Multiple users (inside a company, so relatively fixed number) should be able to access a service via website and app where they can log in. Depending on their user type they can access certain areas and upload different things into those area(s) - either in tex..."
+    },
+    {
+        "title": "Django Unchained - Wikipedia",
+        "content": "Django Unchained (/ ˈ dʒ æ ŋ ɡ oʊ /) is a 2012 American Revisionist Western film written and directed by Quentin Tarantino, starring Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, and Samuel L. Jackson, with Walton Goggins, Dennis Christopher, James Remar, Michael Parks, and Don Johnson in supporting roles. Set in the Old West and Antebellum South, it is a highly ..."
+    },
+    {
+        "title": "Django or Laravel - which one for my career in Japan?",
+        "content": "I've been working as a software engineer for 9 months in japan as a foreigner. I've worked on 3 months in django, 3 months in laravel and 3 months on other technologies. I enjoyed both. The sad part is, I am yet to find a fixed tech stack for my career. Mostly because the stack situation in my office was, is and will remain volatile. I like japan and want to work here for a long time. But I think it is necessary to establish a tech stack which will be reliable for my career in japan. Right now I..."
+    },
+    {
+        "title": "Getting started with Django | Django",
+        "content": "Django's template language is designed to strike a balance between power and ease. It's designed to feel comfortable and easy-to-learn to those used to working with HTML, like designers and front-end developers. But it is also flexible and highly extensible, allowing developers to augment the template language as needed. Read more."
+    },
+    {
+        "title": "Learn Django or Flask for an intermediate/early advanced Python developer?",
+        "content": "Hi everyone, I want to start learning how to create fully functional websites, but I'm unsure if I should learn Django or Flask. I've taken most of my CS courses in Python, including algorithms and data structures, so I'd say I'm around the intermediate-advanced level. I've also taken my school's web development course, which admittedly is a bit outdated, but still covered the basics of HTML, CSS, Node, Express, GET/POST requests. I've searched and found a few threads asking this question, a..."
+    },
+    {
+        "title": "Boolean Operators - Django Template Tags - GeeksforGeeks",
+        "content": "A Django template is a text document or a Python string marked-up using the Django template language. Django being a powerful Batteries included framework provides convenience to rendering data in a template. Django templates not only allow passing data from view to template, but also provides some ..."
+    },
+    {
+        "title": "would it work if I use Electron with Django, or is that a bad idea in your experience?",
+        "content": ""
+    },
+    {
+        "title": "Django introduction - Learn web development | MDN",
+        "content": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel."
+    },
+    {
+        "title": "Django or Node?",
+        "content": "Python has become my favorite language, but one of my first languages was JavaScript. I would say I use Python more and know it slightly better now. I’m debating between whether I should learn Django or Node for finding jobs within Southern California. I know both can be used for web development so that’s why I’m caught between which is more desirable/useful. I don’t know about the nuances between them and which is better for what. Right now I’m working through courses to prepare for an online..."
+    },
+    {
+        "title": "Django vs. Flask in 2021: Which Framework to Choose ...",
+        "content": "Django and Flask are both free, open-source, Python-based web frameworks designed for building web applications. When compared to Flask, Django embraces stability as well as a \"batteries included\" approach where a number of batteries (e.g., tools, patterns, features, and functionality) are provided out-of-the-box."
+    },
+    {
+        "title": "Stay in django or switch back to flask",
+        "content": "Hi folks, I have a dilemma, and been wasting so much time deciding between these 2 frameworks. My expertise in flask (5 years, many small/big projects as solo dev) so I already have a base boilerplate (auth/authorization/etc taken care of) to create a new product. However, for the current project I'm working on (online learning site), I think I will soon hire devs to outsource work, and in Vietnam there are just way more django devs. So to weigh in experience vs ease of hiring, I chose to run ..."
+    },
+    {
+        "title": "python - How do I use AND in a Django filter? - Stack Overflow",
+        "content": "from django.db.models import Q criterion1 = Q(question__contains=\"software\") criterion2 = Q(question__contains=\"java\") q = Question.objects.filter(criterion1 & criterion2) Note the other answers here are simpler and better adapted for your use case, but if anyone with a similar but slightly more complex problem (such as needing \"not\" or \"or ..."
+    },
+    {
+        "title": "Building my first app from scratch (not from a tutorial). I want to create an event calendar in my web app. Should I create it with Django or is it better to do it on the front end with something like React?",
+        "content": ""
+    },
+    {
+        "title": "Working with forms | Django documentation | Django",
+        "content": "Django's role in forms¶. Handling forms is a complex business. Consider Django's admin, where numerous items of data of several different types may need to be prepared for display in a form, rendered as HTML, edited using a convenient interface, returned to the server, validated and cleaned up, and then saved or passed on for further processing."
+    },
+    {
+        "title": "Django or Node.js",
+        "content": "I'm puzzled either begin learning python then django or learning javascript then Node.js ,which is better now?"
+    },
+    {
+        "title": "Django or Drupal for Content Management: Which Fits your ...",
+        "content": "Django is used by complex, high-profile websites, including Instagram, Pinterest, and Eventbrite. It's written in the powerful, open-source Python programming language, which was created specifically to speed up the process of web development. It's fast, secure, scalable, and intended for use with database-driven web applications."
+    },
+    {
+        "title": "Hosting a web application on AWS (or any other cost effective cloud provider) - Django OR Node and Express at backend (cost effective)",
+        "content": "Hi Guys, a complete noob here, so my apologies in advance if I'm saying or asking anything incorrect here. I am completely confused in making this one decision, so need your help. **Background:** I have basic experience in creating backend with Django and Node-Express both, and basic experience in creating the front end in React. In both these cases, the frontend and backend are connected via REST API. **Issue:** The thing is, it's now time for me to to deploy these to the cloud. The main issu..."
+    },
+    {
+        "title": "Django (web framework) - Wikipedia",
+        "content": "Django (/ ˈ dʒ æ ŋ ɡ oʊ / JANG-goh; sometimes stylized as django) is a Python-based free and open-source web framework that follows the model-template-views (MTV) architectural pattern. It is maintained by the Django Software Foundation (DSF), an independent organization established in the US as a 501(c)(3) non-profit.. Django's primary goal is to ease the creation of complex ..."
+    },
+    {
+        "title": "Hosting a web application on AWS (or any other cost effective cloud provider) - Django OR Node and Express at backend (cost effective)",
+        "content": "Hi Guys, a complete noob here, so my apologies in advance if I'm saying or asking anything incorrect here. I am completely confused in making this one decision, so need your help. **Background:** I have basic experience in creating backend with Django and Node-Express both, and basic experience in creating the front end in React. In both these cases, the frontend and backend are connected via REST API. **Issue:** The thing is, it's now time for me to to deploy these to the cloud. The main issu..."
+    },
+    {
+        "title": "Download Django | Django",
+        "content": "The latest and greatest Django version is the one that's in our Git repository (our revision-control system). This is only for experienced users who want to try incoming changes and help identify bugs before an official release. Get it using this shell command, which requires Git:"
+    },
+    {
+        "title": "Hosting a web application on AWS (or any other cost effective cloud provider) - Django OR Node and Express at backend (cost effective)",
+        "content": "Hi Guys, a complete noob here, so my apologies in advance if I'm saying or asking anything incorrect here. I am completely confused in making this one decision, so need your help. **Background:** I have basic experience in creating backend with Django and Node-Express both, and basic experience in creating the front end in React. In both these cases, the frontend and backend are connected via REST API. **Issue:** The thing is, it's now time for me to to deploy these to the cloud. The main issu..."
+    },
+    {
+        "title": "Goat for adoption - Django, a Goat in Jacksonville, OR ...",
+        "content": "Django lived the first three years of his life on a heavy chain, treated like a lawnmower and nothing else. Now he has lots of friends and space to roam where he has learned what it means to be a happy, free goat. Django is the leader of the herd and will try to be your leader as well when he first meets you."
+    },
+    {
+        "title": "Hosting a web application on AWS (or any other cost effective cloud provider) - Django OR Node and Express at backend (cost effective)",
+        "content": "Hi Guys, a complete noob here, so my apologies in advance if I'm saying or asking anything incorrect here. I am completely confused in making this one decision, so need your help. **Background:** I have basic experience in creating backend with Django and Node-Express both, and basic experience in creating the front end in React. In both these cases, the frontend and backend are connected via REST API. **Issue:** The thing is, it's now time for me to to deploy these to the cloud. The main issu..."
+    },
+    {
+        "title": "Django documentation | Django documentation | Django",
+        "content": "Django has a lot of documentation. A high-level overview of how it's organized will help you know where to look for certain things: Tutorials take you by the hand through a series of steps to create a Web application. Start here if you're new to Django or Web application development. Also look at the \" First steps \"."
+    },
+    {
+        "title": "What's the functionality of frameworks like Django or Flask?",
+        "content": "From what I understand they are used for web development but I've tried looking into them and can't find a actual real use. It can't be for front-end development since browsers can only run Javascript and to my knowledge Python can't interact with the DOM. I belive it is used for server side programming but PHP already exists and I find it way more convenient and easy to implement. Then in what scenarios does Django and Flask stand out?"
+    },
+    {
+        "title": "Django Tutorial - javatpoint",
+        "content": "Django Tutorial. Django Tutorial provides basic and advanced concepts of Django. Our Django Tutorial is designed for beginners and professionals both. Django is a Web Application Framework which is used to develop web applications. Our Django Tutorial includes all topics of Django such as introduction, features, installation, environment setup ..."
+    },
+    {
+        "title": "Hosting a web application on AWS (or any other cost effective cloud provider) - Django OR Node and Express at backend (cost effective)",
+        "content": "Hi Guys, a complete noob here, so my apologies in advance if I'm saying or asking anything incorrect here. I am completely confused in making this one decision, so need your help. **Background:** I have basic experience in creating backend with Django and Node-Express both, and basic experience in creating the front end in React. In both these cases, the frontend and backend are connected via REST API. **Issue:** The thing is, it's now time for me to to deploy these to the cloud. The main issu..."
+    },
+    {
+        "title": "What is Django | IBM",
+        "content": "Django—pronounced \"Jango,\" named after the famous jazz guitarist Django Reinhardt—is a free, open source framework that was first publicly released in 2005. Django facilitates \"rapid development and clean, pragmatic design.\". The Django web framework, deployed on a web server, can help developers quickly produce a web frontend that ..."
+    },
+    {
+        "title": "Built-in template tags and filters | Django documentation ...",
+        "content": "Built-in template tags and filters¶. This document describes Django's built-in template tags and filters. It is recommended that you use the automatic documentation, if available, as this will also include documentation for any custom tags or filters installed."
+    },
+    {
+        "title": "Django Tutorial Part 10: Testing a Django web application ...",
+        "content": "Django provides a test framework with a small hierarchy of classes that build on the Python standard unittest library. Despite the name, this test framework is suitable for both unit and integration tests. The Django framework adds API methods and tools to help test web and Django-specific behavior."
+    },
+    {
+        "title": "get_object_or_404 method in Django Models - GeeksforGeeks",
+        "content": "Using get_object_or_404 () with QuerySet: QuerySet instance is used to filter data while fetching from the database. For example, we want to fetch only shoes then we can write: queryset = Products.objects.filter (type='shoes') get_object_or_404 (queryset)"
+    },
+    {
+        "title": "RapidSMS Developers Guide",
+        "content": ""
+    },
+    {
+        "title": "Kantian",
+        "content": ""
+    },
+    {
+        "title": "El Tigre: The Adventures of Manny Rivera",
+        "content": ""
+    },
+    {
+        "title": "The Back-end battle in 2021— Ruby on Rails v/s Django",
+        "content": "May 7, 2021 — Django vs Ruby on Rails (RoR): Find out which framework is best in 2021 based on key statistics, companies using RoR and Django, relevancy, ..."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Installation",
+        "content": ""
+    },
+    {
+        "title": "dentist",
+        "content": ""
+    },
+    {
+        "title": "Ratatouille",
+        "content": ""
+    },
+    {
+        "title": "Integrate OAuth 2 Into Your Django/DRF Back-end | Toptal",
+        "content": "So you've implemented user authentication. Now, you want to allow your users to log in with Twitter, Facebook, or Google. No problem."
+    },
+    {
+        "title": "RapidSMS Developers Guide/External links",
+        "content": ""
+    },
+    {
+        "title": "slavery",
+        "content": ""
+    },
+    {
+        "title": "Merle Haggard",
+        "content": ""
+    },
+    {
+        "title": "Flask vs Django: Pirates use Flask, The Navy uses Django",
+        "content": "Apr 29, 2021 — Which is better: Flask or Django? Conclusion. Flask vs Django. Flask and Django are both popular frameworks. A framework is a code library used ..."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Personal Repository",
+        "content": ""
+    },
+    {
+        "title": "netlag",
+        "content": ""
+    },
+    {
+        "title": "The Great Silence",
+        "content": ""
+    },
+    {
+        "title": "Flask vs. Django: Which Python Framework Is Better for Your ...",
+        "content": "Django and Flask are the 2 most popular Python web frameworks. Read our comparison and learn how to choose the right one for your web development project."
+    },
+    {
+        "title": "Mega Man Battle Network/BattleChips/Battle Network 5 chips",
+        "content": ""
+    },
+    {
+        "title": "what's not to like",
+        "content": ""
+    },
+    {
+        "title": "Hop (film)",
+        "content": ""
+    },
+    {
+        "title": "Flask vs Django: choosing Python Framework - Merixstudio",
+        "content": "Nov 24, 2021 — Which Python framework should you use to build your web application – Django or Flask?"
+    },
+    {
+        "title": "4 step django CMS tutorial for new developers - Blog",
+        "content": "Jul 7, 2020 — The django CMS is an easy to use, open-source content management build using Django/Python. It is a great option for new developers who wish ..."
+    },
+    {
+        "title": "Django Tutorial Part 10: Testing a Django web application",
+        "content": "Oct 8, 2021 — Writing test code is neither fun nor glamorous, and is consequently often left to last (or not at all) when creating a website."
+    },
+    {
+        "title": "Django vs Flask: Picking the Right Python Web Framework",
+        "content": "Apr 12, 2021 — Django is a mature python web framework, with its first release back in 2005. It's designed to be ridiculously fast, reassuringly secure, and ..."
+    },
+    {
+        "title": "Django documentation — Django 4.0 documentation",
+        "content": "Django provides a rich framework to facilitate the creation of forms and the manipulation of form data. The basics: Overview | Form API | Built-in fields | ..."
+    },
+    {
+        "title": "RapidSMS Developers Guide/Running RapidSMS",
+        "content": ""
+    },
+    {
+        "title": "fusioneer",
+        "content": ""
+    },
+    {
+        "title": "Fictional last words in films",
+        "content": ""
+    },
+    {
+        "title": "Bootstrap vs Django | What are the differences? - StackShare",
+        "content": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Django Stats. Hacker News Points. -. 2.5K."
+    },
+    {
+        "title": "Lino Developer's Guide",
+        "content": ""
+    },
+    {
+        "title": "commissioning editor",
+        "content": ""
+    },
+    {
+        "title": "Joanna MacGregor",
+        "content": ""
+    },
+    {
+        "title": "Choosing between Django, Flask, and FastAPI - Section.io",
+        "content": "Jan 4, 2021 — This article will highlight some features that will enable a beginner to make an informed decision between Django, Flask, or Fast API."
+    },
+    {
+        "title": "Python Beginner to Expert",
+        "content": ""
+    },
+    {
+        "title": "allohistorical",
+        "content": ""
+    },
+    {
+        "title": "Luke Cage (TV series)",
+        "content": ""
+    },
+    {
+        "title": "Django vs. Flask in 2021: Which Framework to Choose",
+        "content": "Apr 9, 2021 — Django and Flask are both free, open-source, Python-based web frameworks designed for building web applications. When compared to Flask, Django ..."
+    },
+    {
+        "title": "Rails 3/Ruby on Rails framework",
+        "content": ""
+    },
+    {
+        "title": "spaghetti western",
+        "content": ""
+    },
+    {
+        "title": "Last lines in animated films",
+        "content": ""
+    },
+    {
+        "title": "Django vs Laravel: Which Is the Better Framework in 2021?",
+        "content": "Oct 14, 2021 — Django is an open-source and free Python-based web framework. Released in 2005, it's developed and maintained by the Django Software Foundation.Performance: As Django is based on Python, it’s ...Ease of learning: Django is developer-friendly ...Type of web framework: Django is based on P...Security: Django is a more secure web framew..."
+    },
+    {
+        "title": "Mega Man Battle Network/Guide for Cheaters/Patch Codes/Mega Man Battle Network 5",
+        "content": ""
+    },
+    {
+        "title": "Gormenghastian",
+        "content": ""
+    },
+    {
+        "title": "Lupin III",
+        "content": ""
+    },
+    {
+        "title": "[Solved] Django: OR queries with dynamic field names - Code ...",
+        "content": "I have a value and want to get all instances having the value in one or more column. And to make this a bit more complex, the field list is dynamic."
+    },
+    {
+        "title": "Which framework should I learn: Django or Node.js? Why?",
+        "content": "34 answersFirst of all Node.js is not a framework. Node.js is a platform built on Chrome's JavaScript runtime. Django is a framework. I would suggest that you learn ..."
+    },
+    {
+        "title": "Django vs Node JS: An Easy Guide In 4 Points - Jigsaw ...",
+        "content": "Django vs Node JS both are creating technologies and should be utilized according to the particular prerequisites of the developer."
+    },
+    {
+        "title": "Django vs Node.js: Which One is Better For Web Development?",
+        "content": "Sep 24, 2021 — This blog covers the major differences between two frameworks- Django vs Node.js to help you decide which is best for backend web ..."
+    },
+    {
+        "title": "Django Integration with MongoDB Tutorial",
+        "content": "Learn how Django and MongoDB work together to build powerful and reliable web applications that can be easily scaled through MongoDB Atlas.From django.db import models: from mongoen...Model: DocumentDjango’s ORM: MongoEngineModels.CharField: fields.StringField()"
+    },
+    {
+        "title": "Django ORM (Querysets) · HonKit",
+        "content": "Django shell. Open up your local console (not on PythonAnywhere) and type this command: command-line. (myvenv) ~/djangogirls ..."
+    },
+    {
+        "title": "Mega Man Battle Network/Walkthroughs/Mega Man Battle Network 5/Shop list",
+        "content": ""
+    },
+    {
+        "title": "Gormenghastian",
+        "content": ""
+    },
+    {
+        "title": "Django or Drupal for Content Management: Which Fits your ...",
+        "content": "Sep 28, 2018 — If you're building or updating a website, you're probably wondering about which content management system (CMS) to use."
+    },
+    {
+        "title": "Mega Man Battle Network/Walkthroughs/Mega Man Battle Network 5/Extras",
+        "content": ""
+    },
+    {
+        "title": "pickle",
+        "content": ""
+    },
+    {
+        "title": "Filtering for Empty or Null Values in a Django QuerySet - Chartio",
+        "content": "Understanding Django Field Lookup Syntax. Before we get into the specific code examples to properly filter QuerySets, it's important to understand how Django ..."
+    },
+    {
+        "title": "Common Lisp/External libraries",
+        "content": ""
+    },
+    {
+        "title": "comer",
+        "content": ""
+    },
+    {
+        "title": "Django vs Node.js: When to Choose Which Framework",
+        "content": "Oct 5, 2021 — Django is a powerful full-stack Python web framework that comes fully loaded with features that take care of all common web development issues."
+    },
+    {
+        "title": "Guitar/Jazz",
+        "content": ""
+    },
+    {
+        "title": "tinker's damn",
+        "content": ""
+    },
+    {
+        "title": "When To Use Django (And When Not To) - Crowdbotics",
+        "content": "Aug 29, 2018 — Helping developers evaluate whether Django is the right framework for their next project. Chances are, it is."
+    },
+    {
+        "title": "Mega Man Battle Network/BattleChips",
+        "content": ""
+    },
+    {
+        "title": "Pythonist",
+        "content": ""
+    },
+    {
+        "title": "Graphene-Django",
+        "content": "Graphene-Django provides some additional abstractions that make it easy to add GraphQL functionality to your Django project. First time? We recommend you start ..."
+    },
+    {
+        "title": "Django vs Flask in 2021: Battle of Backend Web Development",
+        "content": "Nov 22, 2021 — Django is a Python-based full-stack web framework that includes a high range of integrated and ready-to-use solutions. On the contrary, Flask is ..."
+    },
+    {
+        "title": "Pro-Tip: Django ORM vs SQLAlchemy in 2021 | EBS Integrator",
+        "content": "Mar 8, 2021 — Django ORM is a part of a bigger python framework called, you guessed it, Django. Built by experienced professionals, and designed for rapid ..."
+    },
+    {
+        "title": "Django or Flask: Which Is The Best Python Web Framework?",
+        "content": "Sep 22, 2020 — Not sure whether to learn Django or Flask frameworks for Python web development? Here's how to choose."
+    },
+    {
+        "title": "Django (web framework) - Wikipedia",
+        "content": "Django (/ˈdʒæŋɡoʊ/ JANG-goh; sometimes stylized as django) is a Python-based free and open-source web framework that follows the model–template–views (MTV) ...Stable release: 3.2.7 / 1 September 2021; 3 m...Written in: PythonInitial release: 21 July 2005; 16 years agoOriginal author(s): Adrian Holovaty, ‎Simon Will...‎"
+    },
+    {
+        "title": "Which framework is better, Django or Flask? - Medium",
+        "content": "If you decide to develop an application based on Python programming language you would probably want a web-framework. Few examples of web frameworks based on ..."
+    }
+]

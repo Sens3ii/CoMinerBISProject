@@ -1,0 +1,660 @@
+[
+    {
+        "title": "Python vs Go: What's The Difference? – BMC Software | Blogs",
+        "content": "Python vs Go: At a glance. Python and Go are different, generally serving different purposes. Python is the primary language among data scientists, where Go is the language for server-side commands. Go is the language to use to run software. It is the faster language, performing at Java and C++ speeds."
+    },
+    {
+        "title": "Python vs Go: What's the Difference? - Guru99",
+        "content": "Go is a Procedural, functional and concurrent language while Python is an object-oriented, imperative, functional, and procedural language. Go supports concurrency, on the other hand Python, doesn't have any in-built concurrency mechanism."
+    },
+    {
+        "title": "Part II - Extending Python With Go - Ardan Labs",
+        "content": "Figure 1 shows the flow of data from the Python function to the Go function and back. Here are the steps we're going to follow for the rest of the post: Write Go code ( CheckSignature ), Exporting to the shared library ( verify) Use ctypes in the Python interactive prompt to call the Go code. Write and package the Python code ( check ..."
+    },
+    {
+        "title": "Why We Switched from Python to Go - Software Engineering ...",
+        "content": "Reason 1 - Performance. Go is fast! Go is extremely fast. The performance is similar to that of Java or C++. For our use case, Go is typically 40 times faster than Python. Here's a small benchmark game comparing Go vs Python."
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Intro",
+        "content": ""
+    },
+    {
+        "title": "Just So Stories/The Elephant's Child",
+        "content": ""
+    },
+    {
+        "title": "kanigget",
+        "content": ""
+    },
+    {
+        "title": "GO vs Python: Complete Comparison Tutorial on Python vs GO",
+        "content": "Introducing the Go language. In the Go vs. Python discussion, Go (or Golang) is a statically-typed programming language designed by Google in 2009. The syntax of this language resembles C but Go is a more secure and beginner-friendly option."
+    },
+    {
+        "title": "One line python go brrrrrrr"
+    },
+    {
+        "title": "Python go brrrrrrrr"
+    },
+    {
+        "title": "Monty Python's Life of Brian",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Intro",
+        "content": ""
+    },
+    {
+        "title": "Tom Swift and His Electric Rifle/Chapter 12",
+        "content": ""
+    },
+    {
+        "title": "ಠ ಠ",
+        "content": ""
+    },
+    {
+        "title": "From Python to Go - Towards Data Science",
+        "content": "With almost C-like speeds, Go blows Python out of the water on this parameter. That is partly because Go is a statically typed language with an optimized, extremely fast compiler which makes Go both fast to develop in and fast at execution. Developer-friendly. Despite the swiftness of Go, it is surprisingly fast to write in."
+    },
+    {
+        "title": "Monty Python's The Meaning of Life",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 2.6",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 38/March 1891/On Vodu-Worship",
+        "content": ""
+    },
+    {
+        "title": "enter into",
+        "content": ""
+    },
+    {
+        "title": "Python GO implementation [board game 'GO'",
+        "content": "board = [ [\"-\", \"-\", \"-\", \"-\", \"-\"], [\"-\", \"-\", \"-\", \"-\", \"-\"], [\"-\", \"-\", \"-\", \"-\", \"-\"], [\"-\", \"-\", \"-\", \"-\", \"-\"], [\"-\", \"-\", \"-\", \"-\", \"-\"] ] print(\"Player 1 start with the black stone please!\") x = 20 #test 20 moves i = 1 #move COUNT player = 'B' while x > 1: action = (input()) if action == \"PASS\": player = 'W' if player == 'B' else 'B' i += 1 print(i) e..."
+    },
+    {
+        "title": "Go vs Python 3 - Which programs are fastest? - Debian",
+        "content": "Go versus Python 3 fastest programs. vs C# .NET · vs C++ · vs Java; vs Python; vs Rust. Always look at the source code. These are only the fastest programs."
+    },
+    {
+        "title": "Michael Palin",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Who Goes There?",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 33/August 1888/Something About Snakes",
+        "content": ""
+    },
+    {
+        "title": "蟒",
+        "content": ""
+    },
+    {
+        "title": "Интеграция python в go Часть 2",
+        "content": "With using go-python , I presumed it could be easy to run the python code at first, ... package main import ( \"fmt\" \"github.com/op/go-logging\" ..."
+    },
+    {
+        "title": "Python GO board game implementation update",
+        "content": "Hi, I've updated my previous post into a more **simpler version** of GO board game, still some problems arise def create_board(): self.board = board white, black, empty = 2, 1, 0 n = 5 m = 5 board = [] for i in range(n): board.append([empty] * m) return board def make_move(board, player, action): stones = [1, 2] stone = stones[player] if action == \"PASS\": counter = 1 - counter el..."
+    },
+    {
+        "title": "Python vs Go | Best 6 Useful Comaprisons To Learn",
+        "content": "Differences Between Python vs Go. Python is an object-oriented programming language, and Go, or Golang, is programming derived from the C language. Go is mainly used for system applications and programming, while python is used for web-based applications and database applications involving data analytics & data science. Both python and go follow functional & procedural programming methods ..."
+    },
+    {
+        "title": "Monty Python's Flying Circus",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3",
+        "content": ""
+    },
+    {
+        "title": "The Age of Fable/Chapter III",
+        "content": ""
+    },
+    {
+        "title": "deceased",
+        "content": ""
+    },
+    {
+        "title": "sbinet/go-python: naive go bindings to the CPython2 C-API",
+        "content": "naive go bindings to the CPython2 C-API. Contribute to sbinet/go-python development by creating an account on GitHub."
+    },
+    {
+        "title": "Do Children's pythons go off food?",
+        "content": "My 1 year old Children's python has been off food for about a month right now. I wouldn't worry if he was a ball python, but interestingly my ball python is crushing food as good as ever. I haven't heard much about this with Children's, but am I right to not be too worried yet? I weigh my snakes monthly, and he lost 1 gram this past month, so basically nothing."
+    },
+    {
+        "title": "Everything you Need to Know about Goto Statement in Python ...",
+        "content": "The syntax for the goto statement in Python is as given below. #Syntax-1 goto label; . . . label: #Syntax-2 label: . . . goto label; In the above example, the label can be replaced with any text that you require, except the keyword Go and it can be set anywhere in the program, either below or above the go statement as well."
+    },
+    {
+        "title": "Go vs. Python - main differences overview - CodiLime",
+        "content": "Oct 4, 2021 — The main reason why the difference is so glaring is the fact that Go is a compiled language in contrast to the interpreted Python. The Go ..."
+    },
+    {
+        "title": "php/js/python/go what's the difference and use case to web development?",
+        "content": "as someone who is trying to learn web-development what's the difference in use case of using this languages. how and when to use it? what are the perks/cons when using this language?"
+    },
+    {
+        "title": "Mixing Python and Go - Stack Overflow",
+        "content": "The simplest solution is to spawn a Go process from Python and make them communicate via the Go's process standard streams ( os.Stdin and os.Stdout ). You have to invent a protocol both sides agree on (looks like you've settled on JSON already) and not to forget to flush the stream after streaming a logically atomic request, from both ends."
+    },
+    {
+        "title": "Golang vs. Python: Which One to Choose? - DZone",
+        "content": "Now, let's compare how Go code and Python code is executed. So first of all, Python is a dynamically typed language and Golang is a ...Jul 19, 2021 · Uploaded by edureka!"
+    },
+    {
+        "title": "[Hiring] Senior Software Engineer - Python/Go - Careers at Apple (Apple)",
+        "content": "To learn more and apply for the job, please see [Senior Software Engineer - Python/Go - Careers at Apple](https://www.jobsort.com/share/?data=4a8fde085f799475a0f51a2af65ad41bbf315776e3819fa5bcd9fb92116621bc0bea344327e7c7140447cd4c4fab33f603c93a56dc41d91801cb1c8c9979f379dd40807ba64f2830af07adc92f5052fc8f239ea689ea614107b532846936f0d40633bb9af9c3aef56b19b82a4096e830&nonce=f976ffc0a222779f1f27103c087f6878&version=1)"
+    },
+    {
+        "title": "GitHub - DataDog/go-python3: Go bindings to the CPython-3 API",
+        "content": "Go bindings to the CPython-3 API. Contribute to DataDog/go-python3 development by creating an account on GitHub."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "Welcome to Python.org",
+        "content": "Our relaunched community-run job board is the place to go. jobs.python.org. Latest News. More. 2021-11-24 Loren Crary has joined the PSF as its Director of Resource Development; 2021-11-16 Python Software Foundation - November 2021 Newsletter; 2021-11-15 Python 3.9.9 hotfix release is now available;"
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "The equivalent of a GOTO in python - Stack Overflow",
+        "content": "Python (like almost every programming language today) supports structured programming which controls flow using if/then/else, loop and subroutines. The key to thinking in a structured way is to understand how and why you are branching on code. For example, lets pretend Python had a goto and corresponding label statement shudder. Look at the ..."
+    },
+    {
+        "title": "How long can ball pythons go in room temperatures",
+        "content": "I wanna take my new BP to see my family but won’t have any heating for him, if I bring him to their house for a couple hours in the winter time in utah will he be fine"
+    },
+    {
+        "title": "Online Python - IDE, Editor, Compiler, Interpreter",
+        "content": "Python is a very popular general-purpose programming language which was created by Guido van Rossum, and released in 1991. It is open-source and you can freely use & distribute Python, even for commercial use. It is very popular for web development and you can build almost anything like mobile apps, web apps, tools, data analytics, machine ..."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "Extending Python 3 in Go | Hacker Noon",
+        "content": "go-python looked like a good candidate but was written for the Python 2 bindings. py looked very incomplete, only covering some of the basic Python API. Other examples I found used the cffi package, so consumption of the code doesn't feel like a module, it's just a way to call Go compiled methods. Neither does it have native bindings."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "[Hiring] Senior Software Engineer - Python/Go - Careers at Apple (Apple)",
+        "content": "To learn more and apply for the job, please see [Senior Software Engineer - Python/Go - Careers at Apple](https://www.jobsort.com/share/?data=e2e30e63e31b40f00fbc989d6a390d3417616e57d327bb04933873782a937b52cb292dc6d9e86c497515a56ec7379c6f641b4cf16734fba382621e8d29bb7201a4067077b85460d3ab593b6c5af25655ab9db5b0ea8d363efea18a190853c6efd148392c24de707ffeefe66db42547e7&nonce=f82b5997b5ab69fba909fa5b05d64e07&version=1)"
+    },
+    {
+        "title": "Python GO | Online výuková programovací hra v Pythonu ...",
+        "content": "Python GO Vzdělání budoucnosti, z.s. Spisová značka: L 72272/MSPH Městský soud v Praze Sídlo: Donská 245/14, Vršovice, 101 00 Praha, Česká republika IČO: 08334463 Python GO"
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "GitHub - go-python/gpython: gpython is a python ...",
+        "content": "You can chat with the go-python community (or which gpython is part) at go-python@googlegroups.com or on the Gophers Slack in the #go-python channel. License This is licensed under the MIT licence, however it contains code which was ported fairly directly directly from the cpython source code under the PSF LICENSE ."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet"
+    },
+    {
+        "title": "Download Python | Python.org",
+        "content": "Information on tools for unpacking archive files provided on python.org is available. Tip : even if you download a ready-made binary for your platform, it makes sense to also download the source . This lets you browse the standard library (the subdirectory Lib ) and the standard collections of demos ( Demo ) and tools ( Tools ) that come with it."
+    },
+    {
+        "title": "[Hiring] Senior Software Engineer - Python/Go - Careers at Apple (Apple)",
+        "content": "To learn more and apply for the job, please see [Senior Software Engineer - Python/Go - Careers at Apple](https://www.jobsort.com/share/?data=79ec8f7b9a7bfde874ce79d251819036275b3ccd65d8de1f55968c0d030265cc6b369d21eec0e5e7f72cf85e49ad82e212d1569dd170bcee8f242265d4158ceb3457e35ecaaff9995e549f2cc17559844e3ac9cf5deac71c9194dab55f5840b9aba9b7a5383577f289a8e62a1bd8a0a1&nonce=00bd06dde269918379291b23957bc350&version=1)"
+    },
+    {
+        "title": "[FOR HIRE] React, TypeScript, GraphQL, Python, Go",
+        "content": "Hello! My name is Trevor Brown. I'm a Jr. Software Engineering and graphic designer. I need projects under my belt to build a portfolio. I'll work for very cheap or free! You can see my portfolio site [here](https://trevorbrown.dev) Please feel free to contact me here, on my website, or at trevorbrown.dev@gmail.com !"
+    },
+    {
+        "title": "My journey from Python to Go. I love Python. It has been ...",
+        "content": "Go is a statically typed language, which can make you feel uncomfortable at first because of your habits from a dynamically typed languages like Python or Ruby."
+    },
+    {
+        "title": "[Hiring] Senior Software Engineer - Python/Go - Careers at Apple (Apple)",
+        "content": "To learn more and apply for the job, please see [Senior Software Engineer - Python/Go - Careers at Apple](https://www.jobsort.com/share/?data=3379b272aa5c629de808b17dcd9f24a69ab37c81c5c35dd972ea5b919c58746b1c75e26a1b02cff8ce7f61f25b4e572b4f2551c7e78536a1001783f3ea6402d6e5195d73cb20c416e178bae5bccfca9795043dbe626d2365d9d9e731fde5e31e23ad9fc3b53173f098eb26a6b03b8e25&nonce=ebae3b26c8e49b2f4ce9d143fcd2e4b7&version=1)"
+    },
+    {
+        "title": "Extending Python with Go - DEV Community",
+        "content": "Another way to extend Python with Go is moving all the Python stuff into C and just call the Go function inside C. To do that, define sum function as a normal Go function using export sum preamble. package main import \"C\" //export sum func sum(a, b int) int { return (a + b) } func main() {} Enter fullscreen mode."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "Python break, continue and pass Statements",
+        "content": "Python break, continue and pass Statements, You might face a situation in which you need to exit a loop completely when an external condition is triggered or there may also be a situation when you want to. ... The pass is also useful in places where your code will eventually go, but has not been written yet (e.g., in stubs for example):"
+    },
+    {
+        "title": "Looking for russian guys who knows JS, Python, Go languages.",
+        "content": "Hello everyone, im looking for russian speaking guys who knows one of these languages JS, Python, Go, solidity. I need help with pretty interesting project."
+    },
+    {
+        "title": "Go vs Python | Which One is Best And Why? - TechBiason",
+        "content": "Python vs Go is a crucial comparison for the students who want to choose the best programming language between these programming languages. Python is one of the oldest programming languages globally, but it is still popular and widely used by programmers. On the other hand, Go is a modern programming language."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "Python and Go : Part I - gRPC",
+        "content": "protoc is the protocol buffer compiler. --go-out=plugins=grpc:pb tells protoc to use the gRPC plugin and place the files in the pb directory. --go_opt=source_relative tells protoc to generate the code in the pb directory relative to the current directory. outliers.proto is the name of the protocol buffers + gRPC definitions file."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "5 Reasons Why We switched from Python To Go | Hacker Noon",
+        "content": "Python is awesome! Especially Python 3 with async functionality. But really Go is not giving any chances to survive in enterprise world… If you got the idea of this quote, then you probably tried or just looked around Go programming language.Which is I think easiest programming language that can fit in any kind of application development."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "goatools - PyPI · The Python Package Index",
+        "content": "Description. This package contains a Python library to. Process over- and under-representation of certain GO terms, based on Fisher's exact test. With numerous multiple correction routines including locally implemented routines for Bonferroni, Sidak, Holm, and false discovery rate."
+    },
+    {
+        "title": "The new revolutionary blockchain with multi language support: C++, Typescript, Python, Go and more!",
+        "content": "The Koinos blockchain will be the benchmark for future Blockchains thanks to its revolutionary infinity potentials. - Everything is developer and business focussed. - Free accounts - Free Smart Contracts - Free Transfers - Multi-language Smart Contracts: Write in your own script language! - Its Fee-less, zero fees! - Vertical Scalability - Modular Upgradeability - Microservices architecture - Decentralized - No more Hardfork - No ICO - No Pre-mine - Testnet=Live / Q4 Mainnet Also check the red..."
+    },
+    {
+        "title": "[Hiring] Senior Software Engineer - Python/Go - Careers at Apple (Apple)",
+        "content": "To learn more and apply for the job, please see [Senior Software Engineer - Python/Go - Careers at Apple](https://www.jobsort.com/share/?data=d6cd4f8c501987f7d7479b453760130376bd9f00ace0df28448b545c639b1fa4904355b91d09c15c159411636da7db2af498459f7248592cbe63ff29c512f04af4dd1e94d034fe3f6dd19d08bedfbfb306f9a9412bce824ce666a6aefc001de780297b9dffa70d59188ef575523fe7e7&nonce=35ba4214961b38f5f7a3eabdebc1a90d&version=1)"
+    },
+    {
+        "title": "Python vs Go - Which Language You Should Choose - Finxter",
+        "content": "Golang is an excellent language, although not so one-sidedly better than Python that Python will go away any time soon. Python, released back in 1991, still is the dominant 800-pound gorilla in the space with many advantages over the younger Go."
+    },
+    {
+        "title": "Faster Python with Go shared objects (the easy way)",
+        "content": "go build -buildmode=c-shared -o hello.so . This instructs the compiler to build a shared object and relevant header file. -buildmode=c-shared Build the listed main package, plus all packages it imports, into a C shared library. The only callable symbols will be those functions exported using a cgo //export comment."
+    },
+    {
+        "title": "Performance comparison: counting words in Python, Go, C++ ...",
+        "content": "The simple Go version is significantly faster than the simple Python version, but only a little bit faster than the optimized Python version (and almost double the number of lines of code - there's definitely more boilerplate and low-level concerns)."
+    },
+    {
+        "title": "Python Bootcamps: Learn Python Programming and Code ...",
+        "content": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games Rating: 4.6 out of 5 4.6 (391,454 ratings) 1,421,904 students"
+    },
+    {
+        "title": "Messiah",
+        "content": ""
+    },
+    {
+        "title": "shove off",
+        "content": ""
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Anaconda",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Who Goes There?",
+        "content": ""
+    },
+    {
+        "title": "Part II - Extending Python With Go - Ardan Labs",
+        "content": "Jul 6, 2020 — In this post, we're going to reduce the complexity of using gRPC by writing a shared library in Go that a Python program can consume directly."
+    },
+    {
+        "title": "Holy Grail",
+        "content": ""
+    },
+    {
+        "title": "meet one's maker",
+        "content": ""
+    },
+    {
+        "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Theodoret/Ecclesiastical History/Book IV/Chapter 18",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Creating Python Programs",
+        "content": ""
+    },
+    {
+        "title": "Introduction to the Go Programming Language - Python ...",
+        "content": "Go was developed by Google to solve challenges that they were facing, purpose built from the ground up. A language like Python is great for rapid development ...Oct 22, 2017 · Uploaded by sentdex"
+    },
+    {
+        "title": "King Arthur",
+        "content": ""
+    },
+    {
+        "title": "pickle",
+        "content": ""
+    },
+    {
+        "title": "The Poetical Works of Thomas Parnell/Poem 18",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Getting Python",
+        "content": ""
+    },
+    {
+        "title": "Golang vs Python: 6 Questions to Decide Which Programming ...",
+        "content": "Apr 29, 2021 — Go is known for its speed, while Python is known to be a slower language. Python is versatile, while Go is stricter in syntax and formatting."
+    },
+    {
+        "title": "Sword",
+        "content": ""
+    },
+    {
+        "title": "dragan",
+        "content": ""
+    },
+    {
+        "title": "An Afternoon Miracle",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Print version",
+        "content": ""
+    },
+    {
+        "title": "Go vs Python - Bitfield Consulting",
+        "content": "Oct 5, 2020 — First, it's really important to say that both Go and Python are absolutely excellent programming languages. They're well-designed, powerful, ..."
+    },
+    {
+        "title": "Java (programming language)",
+        "content": ""
+    },
+    {
+        "title": "handbags at dawn",
+        "content": ""
+    },
+    {
+        "title": "The Garden of Years and Other Poems/Phœbus Apollo",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Classes",
+        "content": ""
+    },
+    {
+        "title": "GraphQL Code Libraries, Tools and Services",
+        "content": "A GraphQL Go client with Mutation, Query and Subscription support. ... Strawberry is a Python library for implementing code first GraphQL servers using ..."
+    },
+    {
+        "title": "pathlib — Object-oriented filesystem paths — Python 3.10.1 ...",
+        "content": "You cannot go past an anchor, or empty path: >>> >>> p = PurePosixPath('/') >>> p.parent PurePosixPath('/') >>> p = PurePosixPath('."
+    },
+    {
+        "title": "Bar Charts - Plotly",
+        "content": "How to make Bar Charts in Python with Plotly. ... import plotly.graph_objects as go animals=['giraffes', 'orangutans', 'monkeys'] fig = go.Figure([go."
+    },
+    {
+        "title": "Code Navigation in Visual Studio Code",
+        "content": "It will select that last element and open a dropdown that allows you to navigate to a sibling file or symbol. Use the Left and Right keyboard shortcuts to go to ..."
+    },
+    {
+        "title": "All Pythonistas should switch to Go… or okay, maybe just half",
+        "content": "Oct 9, 2021 — Your average software engineer is still in love with Python. Married, even. But not those at Google, Uber, Dropbox, Soundcloud, Slack, ..."
+    },
+    {
+        "title": "British Columbia",
+        "content": ""
+    },
+    {
+        "title": "ロード",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot",
+        "content": ""
+    },
+    {
+        "title": "The Hour of the Dragon/Chapter 1",
+        "content": ""
+    },
+    {
+        "title": "Graph Objects - Plotly",
+        "content": "Python classes that represent parts of a figure. ... The plotly.graph_objects module (typically imported as go ) contains an automatically-generated ..."
+    },
+    {
+        "title": "Terry Gilliam",
+        "content": ""
+    },
+    {
+        "title": "no more",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Print version",
+        "content": ""
+    },
+    {
+        "title": "The Marriage of Meldrum Strange/Chapter 14",
+        "content": ""
+    },
+    {
+        "title": "GraphQL Code Libraries, Tools and Services",
+        "content": "A GraphQL Go client with Mutation, Query and Subscription support. ... Strawberry is a Python library for implementing code first GraphQL servers using ..."
+    },
+    {
+        "title": "And Now For Something Completely Different",
+        "content": ""
+    },
+    {
+        "title": "stiff",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Setting it up",
+        "content": ""
+    },
+    {
+        "title": "Snakes of Europe/Habits",
+        "content": ""
+    },
+    {
+        "title": "Complete Comparison Tutorial on Python vs GO - BitDegree",
+        "content": "Sep 23, 2020 — Web development is an option as well. While Go web programming requires more code than Python, it follows very simple syntax rules to produce ..."
+    },
+    {
+        "title": "Main Page",
+        "content": ""
+    },
+    {
+        "title": "Typhonic",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Front matter",
+        "content": ""
+    },
+    {
+        "title": "The Jungle Book (Century edition)/Kaa's Hunting",
+        "content": ""
+    },
+    {
+        "title": "Difference Between Go and Python Programming Language",
+        "content": "Aug 13, 2019 — It is a procedural programming language based on concurrent programming. Python support exceptions. Go does not support exceptions. Instead of ..."
+    },
+    {
+        "title": "Lisp (programming language)",
+        "content": ""
+    },
+    {
+        "title": "roll over",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Using Modules",
+        "content": ""
+    },
+    {
+        "title": "Heart of the West/VIII",
+        "content": ""
+    },
+    {
+        "title": "Code Navigation in Visual Studio Code",
+        "content": "It will select that last element and open a dropdown that allows you to navigate to a sibling file or symbol. Use the Left and Right keyboard shortcuts to go to ..."
+    },
+    {
+        "title": "Python® and Go Direct® Sensors - Vernier",
+        "content": "Integrate sensor technology into your Python projects with Go Direct sensors*. Sensor data helps students learn to plot graphs, create lists, share data, ..."
+    },
+    {
+        "title": "Half a million lines of Go | Khan Academy Blog",
+        "content": "May 13, 2021 — By Kevin Dangoor. Back in December 2019, I first wrote about Goliath, Khan Academy's project to migrate our backend from a Python 2 monolith ..."
+    },
+    {
+        "title": "Go Go Python Rangers! Comparing Python and Golang",
+        "content": "There are some similarities between Go and Python. You can find some resemblance between high-level types—slices and maps are like lists and dicts ..."
+    },
+    {
+        "title": "Programming languages: From Python to 500,000 lines of Go ...",
+        "content": "May 18, 2021 — Go's performance compared to Python made it the winning programming language for a rewrite of the Khan Academy's backend server."
+    },
+    {
+        "title": "Spamalot",
+        "content": ""
+    },
+    {
+        "title": "Once a Week (magazine)/Series 1/Volume 8/Terrific combat between a gorilla and a lion",
+        "content": ""
+    },
+    {
+        "title": "alternately",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Input and Output",
+        "content": ""
+    },
+    {
+        "title": "Go for Python Programmers - Read the Docs",
+        "content": "Go for Python Programmers¶. This book is intended to provide a solid introduction to the Go language for experienced Python programmers. Contents."
+    },
+    {
+        "title": "C++",
+        "content": ""
+    },
+    {
+        "title": "More Translations from the Chinese/The Great Summons",
+        "content": ""
+    },
+    {
+        "title": "beggable",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Hello, World",
+        "content": ""
+    },
+    {
+        "title": "Faster Python with Go shared objects (the easy way) - Kevin ...",
+        "content": "Apr 13, 2021 — It's this functionality that many libraries leverage to make certain parts of \"Python\" code go faster. The difference from the norm here is ..."
+    },
+    {
+        "title": "C (programming language)",
+        "content": ""
+    },
+    {
+        "title": "Folk-Lore/Volume 31/Some Experiments on the Reproduction of Folk-Stories",
+        "content": ""
+    },
+    {
+        "title": "laugh",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Editing and Running Python Code",
+        "content": ""
+    },
+    {
+        "title": "Why is the Go language better than Python? - Quora",
+        "content": "Go is a compiled language, Python is interpreted. This means Go is faster most of the time, because it doesn't have to figure out anything at run time · Go is ...23 answers · 47 votes: When I need to work on many CPU cores at the same time, Go is my go to language. But Go is ..."
+    },
+    {
+        "title": "Rabbits",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 4/January 1874/Concerning Serpents",
+        "content": ""
+    },
+    {
+        "title": "review",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Variables and Strings",
+        "content": ""
+    },
+    {
+        "title": "Examples using the Docker Engine SDKs and Docker API",
+        "content": "Examples on how to perform a given Docker operation using the Go and Python SDKs and the HTTP API using curl."
+    },
+    {
+        "title": "Dave Barry",
+        "content": ""
+    },
+    {
+        "title": "Free as in Freedom (2002)/Chapter 11",
+        "content": ""
+    },
+    {
+        "title": "curtain",
+        "content": ""
+    },
+    {
+        "title": "A Beginner's Python Tutorial/Installing Python",
+        "content": ""
+    },
+    {
+        "title": "Python programming: The Easiest Python Crash Course to Go ...",
+        "content": "Python programming: The Easiest Python Crash Course to Go Deep Through The Main Applications As Web Development, Data Analysis, And Data Science Including ..."
+    },
+    {
+        "title": "Learning Go by porting a medium-sized web backend from ...",
+        "content": "It was originally about 1300 lines of Python code, using Flask, WTForms, Peewee, SQLite, and a few other libraries for S3, image resizing, etc. For the Go port, ..."
+    },
+    {
+        "title": "Go (programming language) - Wikipedia",
+        "content": "Go is a statically typed, compiled programming language designed at Google by Robert ... readability and usability (like Python or JavaScript), ...Stable release: 1.17.4 / 2 December 2021; 6 d...Developer: The Go AuthorsParadigm: Multi-paradigm: concurrent imperati...‎First appeared: November 10, 2009; 12 years ..."
+    },
+    {
+        "title": "Golang vs Python for Web Development",
+        "content": "Dec 28, 2020 — Go vs Python. At some point, almost all development teams have to choose the best language to use for their software."
+    },
+    {
+        "title": "Python Mega Course : Go Beginner to Expert in Python3",
+        "content": "Welcome to the learn Udemy Python Bootcamp: Go Beginner to Expert in Python3! This is the most comprehensive, straight-forward, course for the Python ..."
+    }
+]

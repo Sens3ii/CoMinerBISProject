@@ -1,0 +1,490 @@
+[
+    {
+        "title": "Python vs PHP in 2021 - Comparison, Features & Applications",
+        "content": "27.08.2021 · Python and PHP are both completely free and open source. Both win here as well. In fact, both Python and PHP here win significantly over other paid web frameworks. Library Support. Now, this is one point where Python significantly beats PHP. Python has exceptionally well-developed library support for almost all types of applications."
+    },
+    {
+        "title": "Running a Python script from PHP - Stack Overflow",
+        "content": "Also Python file must have correct privileges (execution for user www-data / apache if PHP script runs in browser or curl) and/or must be \"executable\". Also all commands into .py file must have correct privileges."
+    },
+    {
+        "title": "What's the Difference Between Python and PHP? - Guru99",
+        "content": "Python is a high-level object-oriented programming language used for rapid application development, whereas PHP stands for Hypertext pre-processor used to develop a dynamic website or web application. Python is widely used in AI, data science, and the scientific community, whereas PHP is the language of choice for web development."
+    },
+    {
+        "title": "Python vs PHP - GeeksforGeeks",
+        "content": "Both PHP and Python without any doubt are most preferred programming languages for backend web development, but their own distinguishing points. PHP is based on object-oriented programming whereas Python is both object-oriented and procedure-oriented programming. Python is a general-purpose programming language used for backend web development."
+    },
+    {
+        "title": "www.w3schools.com › pythonPython Tutorial - W3Schools",
+        "content": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more."
+    },
+    {
+        "title": "Perl",
+        "content": ""
+    },
+    {
+        "title": "A Programmable Web/Chapter 2",
+        "content": ""
+    },
+    {
+        "title": "PHP Programming/Nuts and Bolts",
+        "content": ""
+    },
+    {
+        "title": "PDO",
+        "content": ""
+    },
+    {
+        "title": "Crea API REST fácilmente con Python, PHP, Laravel o NodeJS"
+    },
+    {
+        "title": "Crea API REST fácilmente con Python, PHP, Laravel o NodeJS"
+    },
+    {
+        "title": "Crea API REST fácilmente con Python, PHP, Laravel o NodeJS"
+    },
+    {
+        "title": "Read the new review http://summonthejson.com #javascript #python #php #react #java #csharp"
+    },
+    {
+        "title": "Calling Python in PHP - Stack Overflow",
+        "content": "Python in PHP looks like best NoShell solution as other (non-plugin) would always have some kind of shell around your python. - Sampo Sarrala - codidact.org. Dec 16 '14 at 21:58. Add a comment | 27 The backquote operator will also allow you to run python scripts using similar syntax to above."
+    },
+    {
+        "title": "PHP vs Python: A Detailed Comparison Between the Two ...",
+        "content": "Hence, its community is also strong like those of PHP. Python became more famous when Google used it to develop YouTube and other products. Besides, other notable companies using Python are Pinterest, Reddit, and even Instagram. Hence, the competition's neck-and-neck for PHP vs Python in terms of developer community and support."
+    },
+    {
+        "title": "PHP vs Python: Is There a Clear Choice in 2020? - Stackify",
+        "content": "Python scores another point. Score: PHP 1, Python 2 Easy to Learn. Python and PHP are very similar. Both are object-oriented interpreted languages that run on a variety of operating systems. They're both dynamically typed and have terrific IDE support. Lastly, Python and PHP both stand out in the world of syntax."
+    },
+    {
+        "title": "Haskell",
+        "content": ""
+    },
+    {
+        "title": "Free as in Freedom (2002)/Chapter 11",
+        "content": ""
+    },
+    {
+        "title": "PHP Programming/Setup and Installation",
+        "content": ""
+    },
+    {
+        "title": "programming language",
+        "content": ""
+    },
+    {
+        "title": "Moving to Python From PHP. I have been a PHP developer(and ...",
+        "content": "I have been a PHP developer(and fan) for a decade. It formed my perspective on what a programming language should be. Now I'm joining the Python camp and here are my reasons."
+    },
+    {
+        "title": "Python VS PHP: What is Best For Web Development in 2021",
+        "content": "Python on the other hand is used in various domains, ranging from game development, machine learning applications, data analytics tools and of course, web app development. In usage, Python VS PHP has a clear winner- Python. With its multi-purpose usage, Python language can assist you with all software development needs."
+    },
+    {
+        "title": "PHP vs Python: Which Language Is Better for Web ... - SCAND",
+        "content": "Web Development in Python and PHP. Despite the fact that Python was created as a general-purpose language, while PHP was developed as a language for the web, they are both suitable for web app development. The choice of a language should depend on the needs of a particular project. For example, if a company wants to develop a small- or medium ..."
+    },
+    {
+        "title": "Larry Wall",
+        "content": ""
+    },
+    {
+        "title": "Federal Reporter/Third series/Volume 16",
+        "content": ""
+    },
+    {
+        "title": "PHP Programming/Editors",
+        "content": ""
+    },
+    {
+        "title": "lolspeak",
+        "content": ""
+    },
+    {
+        "title": "Python Bytes, Bytearray - w3resource",
+        "content": "28.02.2020 · Python Bytes, Bytearray: Learn Bytes literals, bytes() and bytearray() functions, create a bytes object in Python, convert bytes to string, convert hex string to bytes, numeric code representing a character of a bytes object in Python, define a mapping table characters for use with a bytes object in Python, convert bytes to hex in Python, how to get the character from …"
+    },
+    {
+        "title": "beau-beauchamp.medium.com › php-is-killing-pythonPHP Is Killing Python. Why PHP Is More Popular and More Hated ...",
+        "content": "Nov 06, 2021 · I do think Python could have overtaken PHP by now with the many updates it’s had in the past 15 years or so—were it not for two things: First, it was a decade too late in making those updates. Python 3 released in 2008 actually broke backward compatibility. Python 2 code does not run with Python 3 unless you modify it."
+    },
+    {
+        "title": "Web Programming/PHP",
+        "content": ""
+    },
+    {
+        "title": "Introduction to SciPy - W3Schools",
+        "content": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML."
+    },
+    {
+        "title": "www.tutorialspoint.com › execute_python3_onlineOnline Python3 Compiler - Online Python3 Editor - Online ...",
+        "content": "Online Python3 Compiler, Online Python3 Editor, Online Python3 IDE, Python3 Coding Online, Practice Python3 Online, Execute Python3 Online, Compile Python3 Online, Run Python3 Online, Online Python3 Interpreter, Execute Python-3 Online (Python v3.6.2)"
+    },
+    {
+        "title": "Run a Python program from PHP - Tutorialspoint",
+        "content": "PHP Server Side Programming Programming Python In PHP, the 'shell_exec' function can be used. It can be executed via the shell and the result can be returned as a string."
+    },
+    {
+        "title": "Python Programming/Print version",
+        "content": ""
+    },
+    {
+        "title": "JavaScript And PHP And Python Programming Complete Course",
+        "content": "PHP CSPRNG; PHP scalar declaration; and more.. Section 3- python programming language. This course section provides an introduction to programming and the python language. students are introduced to core python programming concepts like conditionals, loops, variables, and functions. this section includes an overview of the various python aspects."
+    },
+    {
+        "title": "www.w3resource.com › python › python-formatPython String Formatting - w3resource",
+        "content": "Feb 28, 2020 · home Front End HTML CSS JavaScript HTML5 Schema.org php.js Twitter Bootstrap Responsive Web Design tutorial Zurb Foundation 3 tutorials Pure CSS HTML5 Canvas JavaScript Course Icon Angular Vue Jest Mocha NPM Yarn Back End PHP Python Java Node.js Ruby C programming PHP Composer Laravel PHPUnit Database SQL(2003 standard of ANSI) MySQL PostgreSQL ..."
+    },
+    {
+        "title": "Python: Convert height (in feet and inches) to centimeters ...",
+        "content": "10.06.2021 · home Front End HTML CSS JavaScript HTML5 Schema.org php.js Twitter Bootstrap Responsive Web Design tutorial Zurb Foundation 3 tutorials Pure CSS HTML5 Canvas JavaScript Course Icon Angular Vue Jest Mocha NPM Yarn Back End PHP Python Java Node.js Ruby C programming PHP Composer Laravel PHPUnit Database SQL(2003 standard of ANSI) MySQL …"
+    },
+    {
+        "title": "www.w3resource.com › python-exercises › pythonPython Exercise: Get Fizz, Buzz and FizzBuzz - w3resource",
+        "content": "Apr 27, 2021 · Python Exercises, Practice and Solution: Write a Python program which iterates the integers from 1 to 50. For multiples of three print 'Fizz' instead of the number and for the multiples of five print 'Buzz'. For numbers which are multiples of both three and five print 'FizzBuzz'."
+    },
+    {
+        "title": "PHP Vs Python: Which Is Best For Web Applications In 2021?",
+        "content": "Jun 3, 2021 — Both languages are object-oriented, which are compatible with operating systems. But when it comes to ease of use, Python beats PHP. PHP comes ..."
+    },
+    {
+        "title": "Python and PHP: Which is better for web development in 2021?",
+        "content": "Python is a fantastic choice if you wish to use machine learning codes or need Unicode support. On the other hand, PHP is the way to go if you're looking to do web development and server-side scripting. Find out more about our software development services, including Python and PHP programming. Contact ISHIR experts."
+    },
+    {
+        "title": "Python, PHP, HTML. Trying to get a python code to be execute like a php file but cant figure out the referencing for the html file. Any tips?"
+    },
+    {
+        "title": "Crea API REST fácilmente con Python, PHP, Laravel o NodeJS ($19.99 to FREE)"
+    },
+    {
+        "title": "Crea API REST fácilmente con Python, PHP, Laravel o NodeJS"
+    },
+    {
+        "title": "100% OFF | Crea API REST fácilmente con Python, PHP, Laravel o NodeJS - CourseSplash.co"
+    },
+    {
+        "title": "Releases | Python.org",
+        "content": "Python releases are now listed on the downloads page. This page only provides links to older releases which are not listed in the release database. Python 1.6.1 (September 2000) Python 1.5.2 (April 1999) Older source releases (1.0.1 - 1.6) Ancient source releases (pre 1.0) Python 1.5 binaries; Python 1.4 binaries; Python 1.3 binaries; Python 1 ..."
+    },
+    {
+        "title": "www.pythonexcel.com › python-excel-writerPython Excel Writer - Python Excel",
+        "content": "Python Excel Writer: Create, Write(Text, Number, Formula), Modify, Save, Apply settings, Merge- unmerge cells and more With the help of openpyxl module we can also write to excel file in python. The process is somewhat similar to reading an excel spreadsheet in python."
+    },
+    {
+        "title": "php · PyPI - The Python Package Index",
+        "content": "Php.http_build_query() This was ripped shamelessly from a PHP forum and ported to Python:. Essentially, it's a (hopefully perfect) replica of PHP's http_build_query() that allows you to pass multi-dimensional arrays to a PHP-managed URL via POST or GET."
+    },
+    {
+        "title": "PHP vs Python: Features & Comparison in 2021 | Net Solutions",
+        "content": "While PHP is being used for web development for a long time, Python is taking over very rapidly. Python is a secure, versatile, and flexible technology and is ..."
+    },
+    {
+        "title": "This is why we ignore bottomfeeder languages like Python, PHP, JavaScript and go straight to Rust.",
+        "content": ""
+    },
+    {
+        "title": "[For Hire] Programmer/Web Developer/IT Consultant (Python, PHP, others as needed)",
+        "content": "To get in contact, please **message** me, I **don't** use the chat thing. Then we can switch to email/discord/telegram or whatever else. Apologies for starting with this, but many missed it when it was lower. I'm a programmer/web developer with 11 years of professional experience. I am available for all sorts of programming and web development tasks. I also offer consulting services. If you need something done, but don't know how exactly, I can help. I'm an excellent researcher and I communica..."
+    },
+    {
+        "title": "[For Hire] Programmer/Web Developer/IT Consultant (Python, PHP, others as needed)",
+        "content": "To get in contact, please **message** me, I **don't** use the chat thing. Then we can switch to email/discord/telegram or whatever else. Apologies for starting with this, but many missed it when it was lower. I'm a programmer/web developer with 11 years of professional experience. I am available for all sorts of programming and web development tasks. I also offer consulting services. If you need something done, but don't know how exactly, I can help. I'm an excellent researcher and I communica..."
+    },
+    {
+        "title": "Send PHP data to Python and back - Cyberwarzone",
+        "content": "Python application. This simple Python application, will get the values send from the PHP form, and will start working on the values. #!/usr/bin/env python import sys workvalue = sys.argv [1] workvalue = workvalue + '\\t' + \"Hello World, send from Cyberwarzone.py\" print (workvalue) Copy and save the Python file at your desired location, and make ..."
+    },
+    {
+        "title": "[For Hire] Web and software developer based in the US. Experienced with React, Python, PHP, and lots more.",
+        "content": "Hi! I have worked professionally as a software engineer for nearly 15 years. In that time I've worked on a wide range of things that might be helpful to you and your project. As you can understand, this many years in the game one picks up a lot of different skills and competencies including plenty in technologies that aren't even used any more. Some highlights: * Experience with funded and profitable startups. Building MVPs, updating pre-existing tech stacks, and contributing to existing proje..."
+    },
+    {
+        "title": "Difference between Python and PHP.",
+        "content": "3. Key Feature. Python follows less line more functionality approach and rapid development. PHP development is verbose and uses large range of naming conventions. 4. Type. Python is general purpose, programming language. PHP is web development based server side scripting language. 5."
+    },
+    {
+        "title": "[For Hire] Programmer/Web Developer/IT Consultant (Python, PHP, others as needed)",
+        "content": "To get in contact, please **message** me, I **don't** use the chat thing. Then we can switch to email/discord/telegram or whatever else. Apologies for starting with this, but many missed it when it was lower. I'm a programmer/web developer with 11 years of professional experience. I am available for all sorts of programming and web development tasks. I also offer consulting services. If you need something done, but don't know how exactly, I can help. I'm an excellent researcher and I communica..."
+    },
+    {
+        "title": "Python vs PHP: Which Technology Will Dominate In The Future?",
+        "content": "Python has PyPi, which allows you to control packages. This tool is one of the most crucial ones and a must-have for all Python programmers. As for PHP, its libraries are not as powerful as Python's ones. PHP 7 offers Composer, which is a great library. Even so, it is young and has its disadvantages for the moment."
+    },
+    {
+        "title": "Crea API REST fácilmente con Python, PHP, Laravel o NodeJS",
+        "content": ""
+    },
+    {
+        "title": "[For Hire] Programmer/Web Developer/IT Consultant (Python, PHP, others as needed)",
+        "content": "I'm a programmer/web developer with 11 years of professional experience. I am available for all sorts of programming and web development tasks. I also offer consulting services. If you need something done, but don't know how exactly, I can help. I'm an excellent researcher and I communicate well. I will work with you to find the best solution for your problem. My services include, but are not limited to: * websites * desktop applications * integration with APIs and other webservices * all ..."
+    },
+    {
+        "title": "PHP vs Python: Which One is The Best for Web Development?",
+        "content": "The two most famous Python-based web frameworks are Flask and Django. These are highly scalable, fast, easy to use, and secure. Developers usually prefer Django over PHP-based frameworks to enjoy an easy setup and shorter development period. 6. Library Management. Python employs Pip for dealing with packages."
+    },
+    {
+        "title": "Best cli tools (python, php, etc) to manually create and sign offline txs (support SegWit+Bech32)",
+        "content": "Hi I'm looking for tools that can help me create SegWit transactions from manually supplied output of privkey, txno:vout and their scripts. If I didn't need segwit I could use: libbitcoin's BX tool or https://github.com/sr-gi/bitcoin\\_tools or https://github.com/ofek/bit But all of them either don't support SegWit yet or Bech32. So are there any simple, yet working alternatives? I want to supply tx info to them from my local blockchain explorer."
+    },
+    {
+        "title": "PHP vs Python: A Comprehensive Comparison - Geekflare",
+        "content": "PHP 7.0 beats Python because of its powerful Zend Engine 3.0: Fast and powerful: Security: Although the security features are much better in PHP now, it still poses a lot of vulnerabilities and needs improvement. Used by government agencies and businesses alike because of robust security features."
+    },
+    {
+        "title": "[For Hire] Programmer/Web Developer/IT Consultant (Python, PHP, others as needed)",
+        "content": "I'm a programmer/web developer with 11 years of professional experience. I am available for all sorts of programming and web development tasks. I also offer consulting services. If you need something done, but don't know how exactly, I can help. I'm an excellent researcher and I communicate well. I will work with you to find the best solution for your problem. My services include, but are not limited to: * websites * desktop applications * integration with APIs and other webservices * all ..."
+    },
+    {
+        "title": "PythonVsPhp - Python Wiki",
+        "content": "Using Python and PHP together. The Embedded Python PECL extension \"allows the Python interpreter to be embedded inside of PHP, allowing for the instantiate and manipulation of Python objects from within PHP\". The PyPI phpserialize package is \"a port of the serialize and unserialize functions of php to python\"."
+    },
+    {
+        "title": "[For Hire] Programmer/Web Developer/IT Consultant (Python, PHP, others as needed)",
+        "content": "I'm a programmer/web developer with 11 years of professional experience. I am available for all sorts of programming and web development tasks. I also offer consulting services. If you need something done, but don't know how exactly, I can help. I'm an excellent researcher and I communicate well. I will work with you to find the best solution for your problem. My services include, but are not limited to: * websites * desktop applications * integration with APIs and other webservices * all ..."
+    },
+    {
+        "title": "PHP vs. Python Backend Languages: What's the Difference ...",
+        "content": "PHP vs Python Performance Comparison. Now it is time to compare these two programming languages - PHP and Python for you to know which one suits your software solution the best. Ease of Learning. Python is considered to be much easier to learn. You may ask - why? Python is the language that suits many purposes and can be selected quickly."
+    },
+    {
+        "title": "Best cli tools (python, php, etc) to manually create and sign offline txs (support SegWit+Bech32) (x-post from /r/Bitcoin)",
+        "content": ""
+    },
+    {
+        "title": "I'm starting to learn backend and api development. Which stack should I opt for? Python? Php? NodeJS? Ruby?",
+        "content": "- it should be easy and easy to deploy. - can make rest API - user auth and security"
+    },
+    {
+        "title": "GitHub - viraptor/phply: PHP parser written in Python ...",
+        "content": "phply is a parser for the PHP programming language written using PLY, a Lex/YACC-style parser generator toolkit for Python. Why? Good question. Because I'm crazy. Because it seemed possible. Things I'm interested in doing with it: Converting PHP code to Python; Running PHP templates in a Python environment"
+    },
+    {
+        "title": "Looking for Python/PHP engineer (Startup in Japan).",
+        "content": "Hi, looking for a Python/PHP engineer who can work on web application backend. This is for a startup in Japan. If you are interested DM me with your resume and preferably link to your github repo. Thanks."
+    },
+    {
+        "title": "translate_python_to_php - GitHub",
+        "content": "The file py2phplib.php contains some PHP functions that emulate python keywords such as print, range, etc. py2php automatically renames these keywords to call the emulated functions instead. Look in the tests directory for more examples. translate_python_to_php. translate_python_to_php is a wrapper script for py2php."
+    },
+    {
+        "title": "[For Hire] Programmer/Web Developer/IT Consultant (Python, PHP, others as needed)",
+        "content": "I'm a programmer/web developer with 11 years of professional experience. I am available for all sorts of programming and web development tasks. I also offer consulting services. If you need something done, but don't know how exactly, I can help. I'm an excellent researcher and I communicate well. I will work with you to find the best solution for your problem. My services include, but are not limited to: * websites * desktop applications * integration with APIs and other webservices * all ..."
+    },
+    {
+        "title": "160+ Free & Discounted Udemy & Eduonix Courses : Python, PHP, Ethical Hacking, Microsoft Windows Server, Machine Learning, CSS, JavaScript, Android, AutoCAD, Professional Adobe Photoshop, Learn Guitar, 5G Masterclass, Microsoft Excel, Digital Forensics, Drawing and Sketching, Leadership, SAP & More",
+        "content": "Thanks to [Freebies Global](https://freebiesglobal.com/) . Some Code valid from few hours to upto 2 days [Become A Certified Web Developer From Scratch](https://www.eduonix.com/courses/Web-Development/Become-A-Certified-Web-Developer-From-Scratch/UHJvZHVjdC01OTE4NjA=?coupon_code=GLOBAL10) [Learn HTML5 Programming By Building Projects](https://www.eduonix.com/courses/Web-Development/Learn-HTML5-Programming-By-Building-Projects/UHJvZHVjdC01OTE4NjA=?coupon_code=GLOBAL10) [WordPress Training for..."
+    },
+    {
+        "title": "Python PIP - W3Schools",
+        "content": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more."
+    },
+    {
+        "title": "[Hiring] Python/PHP Coder for SCRAPING on the DARKNET - $500USD",
+        "content": "You must speak fluent English first and foremost. &#x200B; I need a basic account checker for a darknet website, more details when you contact me. &#x200B; I already have a script in PHP and one in Python that can be used as a base, so if you are fluent in any of these languages, you are off to a head start. &#x200B; Discord: exitnodehf#3199"
+    },
+    {
+        "title": "Welcome to Python.org",
+        "content": "Python knows the usual control flow statements that other languages speak — if, for, while and range — with some of its own twists, of course. More control flow tools in Python 3. Python is a programming language that lets you work quickly and integrate systems more effectively."
+    },
+    {
+        "title": "Coding tutor - Java, Python, PHP, MySQL, Javascript, others",
+        "content": "Hi there! Looking for some help understanding concepts (OOP, SOLID principles, etc) for interview prep/ supplement for class or need help with understanding coding in different languages? I'm willing to tutor you and my rates are highly negotiable. First consultation is free. Looking forward from hearing you!"
+    },
+    {
+        "title": "How to Run a Python Script in PHP - Linux Shell Tips",
+        "content": "$ cat test.php $ php test.php Execute Python Script Using PHP. As we can see, the Python Script got executed and printed the parameter value 'Example'. Conclusion. In this article, we saw how to call a Python script from within our PHP code. This can be used on more complex Python scripts, the output of which will be stored in the PHP ..."
+    },
+    {
+        "title": "Download Python | Python.org",
+        "content": "Information on tools for unpacking archive files provided on python.org is available. Tip : even if you download a ready-made binary for your platform, it makes sense to also download the source . This lets you browse the standard library (the subdirectory Lib ) and the standard collections of demos ( Demo ) and tools ( Tools ) that come with it."
+    },
+    {
+        "title": "Python vs PHP: Which One Is Better? - Plesk",
+        "content": "Python vs PHP sounds like the latest Marvel action flick where Python is the bad guy, but in fact, it's a battle between two different adversaries. They're both contenders for the crown of Top Backend Programming Language (which isn't a real competition, but we wish it was), which is becoming a very hotly contested space. Backend development is now a very in-demand discipline, partly ..."
+    },
+    {
+        "title": "GET and POST requests using Python - GeeksforGeeks",
+        "content": "So, to request a response from the server, there are mainly two methods: GET : to request data from the server. POST : to submit data to be processed to the server. Here is a simple diagram which explains the basic concept of GET and POST methods. Now, to make HTTP requests in python, we can use several HTTP libraries like:"
+    },
+    {
+        "title": "A-level Computing/AQA/Python",
+        "content": ""
+    },
+    {
+        "title": "PHP vs Python: A Comprehensive Comparison - Geekflare",
+        "content": "Nov 8, 2021 — Python is more convenient when it comes to learning and libraries. In contrast, PHP is more structured, has a more organized syntax, and is ...Ease of learning: Easy to learn. However, you ..."
+    },
+    {
+        "title": "Python Programming/Package management",
+        "content": ""
+    },
+    {
+        "title": "Python vs. PHP: What's the Difference? - Learn to code in 30 ...",
+        "content": "May 29, 2020 — The main difference between Python and PHP is that: PHP is mostly used for web development, whereas Python is mostly used for data analytics ...Language: Created in 1994 by Rasmus Lerdorf; ..."
+    },
+    {
+        "title": "A-level Computing 2009/AQA/Python",
+        "content": ""
+    },
+    {
+        "title": "PHP vs Python vs Ruby on Rails: Detailed Comparison",
+        "content": "Jan 15, 2020 — PHP vs Python vs Ruby: Usability. Programming Language Usability is one of the most factors that you should consider before choosing it for your ..."
+    },
+    {
+        "title": "Python Programming/Game Programming in Python",
+        "content": ""
+    },
+    {
+        "title": "PHP vs Python for Your Web App Backend | Proxify.io",
+        "content": "Jan 19, 2021 — PHP and Python are both-general purpose, object-oriented, interpreted programming languages. They have little in common in terms of syntax ..."
+    },
+    {
+        "title": "GLSL Programming/Blender",
+        "content": ""
+    },
+    {
+        "title": "Welcome to Python.org",
+        "content": "The official home of the Python Programming Language."
+    },
+    {
+        "title": "index | TIOBE - The Software Quality Company",
+        "content": "1, 3, change, Python page, Python, 12.90%, +0.69% ... 12, 8, change, PHP page ... 2007, medal Python. 2006, medal Ruby. 2005, medal Java. 2004, medal PHP."
+    },
+    {
+        "title": "Python vs. PHP: A Business Guide to the Pros, Cons, and ...",
+        "content": "Python has the Python Software Foundation, whereas PHP has several different teams supporting and developing different versions of it. At the same time, both ..."
+    },
+    {
+        "title": "Package :: python - PECL",
+        "content": "Description, This extension allows the Python interpreter to be embedded inside of PHP, allowing for the instantiate and manipulation of Python objects from ..."
+    },
+    {
+        "title": "W3Schools Online Web Tutorials",
+        "content": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, ..."
+    },
+    {
+        "title": "PHP vs Python 3 - Computer Language Benchmarks Game",
+        "content": "PHP versus Python 3 fastest programs ... Always look at the source code. These are only the fastest programs. Do some of them use manually vectorized SIMD? Look ..."
+    },
+    {
+        "title": "Python Programming/Conditional Statements",
+        "content": ""
+    },
+    {
+        "title": "Python vs. PHP Comparison - Netguru",
+        "content": "Aug 13, 2018 — Python and PHP are two mature programming languages with solid community backing, documentation, and support. PHP, while younger, is considered ..."
+    },
+    {
+        "title": "Apache/CGI",
+        "content": ""
+    },
+    {
+        "title": "10 reasons why PHP is better than Python - Leaseweb labs",
+        "content": "Dec 10, 2014 — Python does not have a steep learning curve, but PHP is still easier to learn. Python indentation for code blocks is prone to errors, while PHP ..."
+    },
+    {
+        "title": "PHP Programming/Print version",
+        "content": ""
+    },
+    {
+        "title": "Python remains atop the TIOBE index for November, while ...",
+        "content": "Nov 30, 2021 — The 10 most popular programming languages remain the same, but numbers toward the bottom of that group are shifting, with PHP dropping and ..."
+    },
+    {
+        "title": "Computer Science Design Patterns/Iterator",
+        "content": ""
+    },
+    {
+        "title": "SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1",
+        "content": "Master yourself in SQL, do practical projects with MySQL, PHP and Python."
+    },
+    {
+        "title": "Regular Expressions/Perl-Compatible Regular Expressions",
+        "content": ""
+    },
+    {
+        "title": "Python as a replacement for PHP inside HTML - Stack Overflow",
+        "content": "Jan 7, 2017 · 3 answersPython alone is not a Web Development language. However you may use it with some Web Framework (like Django, Flask, etc.) ..."
+    },
+    {
+        "title": "GraphQL Code Libraries, Tools and Services",
+        "content": "A library to help construct a graphql-php server supporting react-relay. ... Strawberry is a Python library for implementing code first GraphQL servers ..."
+    },
+    {
+        "title": "Which is better, PHP or Python? Why? - Quora",
+        "content": "Python is used for a lot more than web development. PHP is not. Judging by your \"HTML & CSS\", I'd guess web development is your main focus right now. But should ...410 answers · 586 votes: I'm working with a PHP few years and was very sad because PHP was my every day pain. After ..."
+    },
+    {
+        "title": "Примеры скриптов на PHP, ASP.NET, Python. - Robokassa",
+        "content": "Примеры скриптов на PHP, ASP.NET, Python. Вы можете использовать весь функционал нашего сервиса без собственного сайта, подключить к нему сайт на той или ..."
+    },
+    {
+        "title": "Python Vs PHP: Which should you go for in 2021 - H2k Infosys",
+        "content": "Jan 28, 2021 — What are the Key Difference between Python and PHP · Python is a dynamically typed programming language that can be used for fast web development ...Speed: Running codes in Python is fasterLearning curve: Python has a gentle learning c..."
+    },
+    {
+        "title": "Ring/Lessons/Motivation",
+        "content": ""
+    },
+    {
+        "title": "PHP vs. Python - javatpoint",
+        "content": "Python and PHP both are free and open-source languages. The main difference between Python and PHP is that Python is a general-purpose programming language, ..."
+    },
+    {
+        "title": "XSLT",
+        "content": ""
+    },
+    {
+        "title": "PHP vs Python: Which One To Opt For Web Development?",
+        "content": "PHP is simply not a regular programming language. It is only used for designing dynamic web pages with HTML making it less productive than python. The ...Type of language: Regular purpose programm...Popularity: Extensively used in AI, data science, ...Learning curve: Python is meant for long-term ...Database Connectivity: Not as broad a databa..."
+    },
+    {
+        "title": "Grsecurity/Application-specific Settings",
+        "content": ""
+    },
+    {
+        "title": "When Python scores over PHP? - SoftKraft",
+        "content": "PHP vs Python Performance Comparison. Having two very similar tools or languages can be tasking when it comes to picking which to use for a project or ..."
+    },
+    {
+        "title": "PostgreSQL/Tools",
+        "content": ""
+    },
+    {
+        "title": "Difference Between PHP and Python (with Comparison Chart)",
+        "content": "The major difference between PHP and Python is that PHP is broadly used for web development whereas Python is a general-purpose full-stack programming language."
+    },
+    {
+        "title": "FOSS Education/Glossary",
+        "content": ""
+    },
+    {
+        "title": "Python vs. PHP: The Battle Is ON - Clarion Technologies",
+        "content": "PHP, with impeccable code readability. When PHP is widely used for web development, Python is empowered with the magical power to define data science and ..."
+    },
+    {
+        "title": "viraptor/phply: PHP parser written in Python using PLY - GitHub",
+        "content": "Converting PHP code to Python; Running PHP templates in a Python environment; Learning more about parsing \"industrial\" languages, warts and all. What does it ..."
+    },
+    {
+        "title": "PHP vs. Python: Is One Better Than The Other? - Scout APM",
+        "content": "Mar 30, 2021 — Both Python and PHP are two of the simpler languages when it comes to syntax. This becomes much more evident when you compare them against other ..."
+    },
+    {
+        "title": "Python Vs PHP | Difference Between Python and PHP",
+        "content": "High-level programming languages – The two most prevalent ones are Python and PHP. PHP a conventional server-side scripting language, whereas Python is ..."
+    },
+    {
+        "title": "Unable to run python script from PHP - Server Fault",
+        "content": "Oct 7, 2021 · 1 answerFound that the issue was with php.ini file, removed disable_functions=\"\" directive and the Python script worked. As Gerald mentioned in the ..."
+    },
+    {
+        "title": "Language Support in Visual Studio Code",
+        "content": "These include: C++ - C# - CSS - Dart - Dockerfile - F# - Go - HTML - Java - JavaScript - JSON - Julia - Less - Markdown - PHP - PowerShell - Python - SCSS - T- ..."
+    }
+]

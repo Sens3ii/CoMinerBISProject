@@ -1,0 +1,718 @@
+[
+    {
+        "title": "How to Use the Python or Operator",
+        "content": "The Python Boolean operators always take two Boolean expressions or two objects or a combination of them, so they're considered binary operators. In this tutorial, you'll be covering the Python or operator, which is the operator that implements the logical OR operation in Python. You'll learn how it works and how to use it."
+    },
+    {
+        "title": "Python Releases for Windows | Python.org",
+        "content": "Note that Python 3.7.12 cannot be used on Windows XP or earlier. No files for this release. Python 3.6.15 - Sept. 4, 2021. Note that Python 3.6.15 cannot be used on Windows XP or earlier. No files for this release. Python 3.9.7 - Aug. 30, 2021. Note that Python 3.9.7 cannot be used on Windows 7 or earlier. Download Windows embeddable package ..."
+    },
+    {
+        "title": "so.csdn.net",
+        "content": "Мы хотели бы показать здесь описание, но сайт, который вы просматриваете, этого не позволяет."
+    },
+    {
+        "title": "Python Operators - W3Schools",
+        "content": "Python Identity Operators. Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location: Operator. Description. Example. Try it. is. Returns True if both variables are the same object. x is y."
+    },
+    {
+        "title": "Python",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Python",
+        "content": ""
+    },
+    {
+        "title": "Python",
+        "content": ""
+    },
+    {
+        "title": "Python Programming",
+        "content": ""
+    },
+    {
+        "title": "Python 3.10.0 documentation",
+        "content": "2 дн. назад · What's new in Python 3.10? or all \"What's new\" documents since 2.0 Tutorial start here. Library Reference keep this under your pillow. Language Reference describes syntax and language elements. Python Setup and Usage how to use Python on different platforms. Python HOWTOs in-depth documents on specific topics. Installing Python Modules installing from the Python Package …"
+    },
+    {
+        "title": "R or Python for data analysis?",
+        "content": "Hi. My background is in psychology. I am looking to stick to one language, mostly for data analysis purposes. I tried both R and Python, and I immediately felt that R was more appealing and comfortable for me. However, after researching, I found that Python is more popular and more sought out by employers. So I started learning Python more and more, but I am forcing myself to like Python, where as R it seems to make more sense to me. My goal is to use the language for data analysis. I am not..."
+    },
+    {
+        "title": "Monty Python Official Site",
+        "content": "13.09.2021 · The official online home for all things Monty Python. Pages of everything you’ll ever need to know about Monty Python and their movies, TV shows, books, live stage shows, apps and latest projects, as well as exclusive videos, news and a Fanwall where all your #montypython content will live. Also, find information about the individual Pythons - Graham Chapman, John Cleese, Terry Gilliam, …"
+    },
+    {
+        "title": "Python",
+        "content": "Мы хотели бы показать здесь описание, но сайт, который вы просматриваете, этого не позволяет."
+    },
+    {
+        "title": "How to use OR operator in Python If Statement?",
+        "content": "Python If with OR. You can combine multiple conditions into a single expression in Python if, Python If-Else or Python Elif statements.. In the following examples, we will see how we can use python or logical operator to form a compound logical expression.. Python OR logical operator returns True if one of the two operands provided to it evaluates to true. ..."
+    },
+    {
+        "title": "Python Operators: Arithmetic, Comparison, Logical and more.",
+        "content": "Python language offers some special types of operators like the identity operator or the membership operator. They are described below with examples. Identity operators. is and is not are the identity operators in Python. They are used to check if two values (or variables) are located on the same part of the memory."
+    },
+    {
+        "title": "5 Examples of Python or operator with if statement - jQuery-AZ",
+        "content": "The 'or' in Python is a logical operator that evaluates as True if any of the operands is True, unlike the 'and' operator where all operands have to be True.. An OR example 'and' 'or' example. For example, if we check x == 10 and y == 20 in the if condition. If either of the expression is True, the code inside the if statement will execute."
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "content": ""
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Python (serpent)",
+        "content": ""
+    },
+    {
+        "title": "python",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Creating Python Programs",
+        "content": ""
+    },
+    {
+        "title": "courses.w3schools.com › courses › pythonLearn Python - W3Schools Courses",
+        "content": "Start learning Python with the w3schools course and lay the foundations of your Programming skills. Python is a popular object oriented programming language. This is a structured and interactive version of the w3schools Python Tutorial together with the w3schools certification."
+    },
+    {
+        "title": "Python If Or - W3Schools",
+        "content": "Python How To Remove List Duplicates Reverse a String Add Two Numbers Python Examples Python Examples Python Compiler Python Exercises Python Quiz Python Certificate. Python If Or Python Glossary. Or. The or keyword is a logical operator, and is used to combine conditional statements:"
+    },
+    {
+        "title": "What can MATLAB do that other programming languages like C, C++ or Python can't?",
+        "content": "MATLAB classes started this week at my university and I couldn't help but wonder, what is it about MATLAB that makes it stand out? Can't other languages that we're already learning (like C, C++ or python) do the same things that we would do with MATLAB? This is coming from a naive first year EE so apologies if it's a stupid question."
+    },
+    {
+        "title": "Monty Python's The Meaning of Life",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Python (mythology)",
+        "content": ""
+    },
+    {
+        "title": "carpet python",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 2.6",
+        "content": ""
+    },
+    {
+        "title": "Python Source Releases | Python.org",
+        "content": "25.02.2014 · The official home of the Python Programming Language. While JavaScript is not essential for this website, your interaction with the content will be limited."
+    },
+    {
+        "title": "Логические операторы | Введение в Python - Хекслет",
+        "content": "В статье вы найдете решение этой проблемы. Logical expressions in Python. Logical expressions. occur when use compare or boolean operators; > , < , ..."
+    },
+    {
+        "title": "Python OR Logical Operator - Python Examples",
+        "content": "Python OR. To perform logical OR operation in Python, you can use or keyword.. In this tutorial, we shall learn how Python or logical operator works with boolean values and integer operands, with the help of example programs.. Syntax - or keyword. The syntax to use or operator is given below.. operand1 or operand2"
+    },
+    {
+        "title": "How important is it to learn Linux or Python? If both are important, which one should I prioritize?",
+        "content": "I am trying to break into IT and I heard Linux was also important to learn. Would coding languages such as Python also be beneficial to learn? I'm planning on starting an IT degree soon with a focus on Security. Any and all help would be appreciated."
+    },
+    {
+        "title": "Monty Python's Life of Brian",
+        "content": ""
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Python (mythology)",
+        "content": ""
+    },
+    {
+        "title": "pythones",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3",
+        "content": ""
+    },
+    {
+        "title": "Python Bitwise OR | Operator - Finxter",
+        "content": "Python's bitwise OR operator x | y performs logical OR on each bit position on the binary representations of integers x and y.Each output bit evaluates to 1 if and only if at least one of the two input bits at the same position are 1.For example, the integer expression 4 | 3 is translated to the binary operation 0100 | 0011 which results in 0111 because for the last three positions at least ..."
+    },
+    {
+        "title": "Hello, I’m looking to start learning to code in my free time. I am in school for electrical engineering and I am a junior. The three programming languages I am looking to learn are Java, C++, or python. Which one should I tackle first and why? Also taking suggestions on resources to learn!",
+        "content": ""
+    },
+    {
+        "title": "Eric Idle",
+        "content": ""
+    },
+    {
+        "title": "Just So Stories/The Elephant's Child",
+        "content": ""
+    },
+    {
+        "title": "diamond python",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Print version",
+        "content": ""
+    },
+    {
+        "title": "Python Editor for micro:bit",
+        "content": "A Python Editor for the BBC micro:bit, built by the Micro:bit Educational Foundation and the global Python Community."
+    },
+    {
+        "title": "Python's equivalent of && (logical-and) in an if-statement",
+        "content": "Nov 5, 2016 — Some of the operators you may know from other languages have a different name in Python. The logical operators && and || are actually called and and or .10 answers · Top answer: You would want and instead of &&.AND/OR in Python? - Stack Overflow7 answersApr 13, 2012Python syntax for \"if a or b or c but not all of them ...15 answersMay 13, 2013Does Python support short-circuiting? - Stack Overflow4 answersNov 21, 2011Priority of the logical statements NOT AND & OR ...7 answersAug 29, 2017More results from stackoverflow.com"
+    },
+    {
+        "title": "Business Analytics or Python: Which one should I learn first for a better chance at SCM jobs?",
+        "content": "I’m trying to get an internship and then a job in a SCM role next year. I would like to learn python and business analytics(using excel) for this. Would suggest I start with python or analytics? How useful would it be to have business analytics skills if one wants to work in a SCM job?"
+    },
+    {
+        "title": "docs.python.org › 2 › libraryPython",
+        "content": "We would like to show you a description here but the site won’t allow us."
+    },
+    {
+        "title": "6. Expressions — Python 3.10.1 documentation",
+        "content": "Python supports string and bytes literals and various numeric literals: ... For constructing a list, a set or a dictionary Python provides special syntax ..."
+    },
+    {
+        "title": "What is more powerful as a Linux user and the terminal, becoming adept at Bash or Python programming language? I already know the basics of both and planning on moving forward and pursuing higher skills with one of them.",
+        "content": "Thank you for your suggestions, hoping to continue on the right path."
+    },
+    {
+        "title": "Python - Discord",
+        "content": "We're a large community focused around the Python programming language. We believe that anyone can learn to code. | 284,880 members"
+    },
+    {
+        "title": "www.youtube.com › watchLearn Python - Full Course for Beginners [Tutorial] - YouTube",
+        "content": "This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no t..."
+    },
+    {
+        "title": "logic - AND/OR in Python? - Stack Overflow",
+        "content": "python tells me that there is a problem in: someList.remove(\"a\") or someList.remove(\"á\") or someList.remove(\"à\") or someList.remove(\"ã\") or someList.remove(\"â\") he tells me: ValueError: list.remove(x): x not in list"
+    },
+    {
+        "title": "Should I start with Julia or Python/R is better?",
+        "content": "I’m planing to become a data scientist. Now I’m learning maths part and the basics of programming. Next step is choosing the language. Should I start with Julia or is it better to start with a more common language? Should I learn something before learning the specific language?"
+    },
+    {
+        "title": "Learn Python Tutorials - Kaggle",
+        "content": "Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."
+    },
+    {
+        "title": "Логические операторы — Introduction to Programming with ...",
+        "content": "Conditionals are a nice way to make decisions by asking if something equals True or not. But often one condition is not enough. We may want to take the opposite ..."
+    },
+    {
+        "title": "Python if statements with multiple conditions (and + or ...",
+        "content": "Python's if/else statement: choose between two options programmatically. The if/else statement has Python make decisions. When the condition tests True, code intended under if runs. Otherwise the else code executes. If statements that test the opposite: Python's if not explained. Most Python if statements look for a specific situation."
+    },
+    {
+        "title": "How important is it to learn Linux or Python?",
+        "content": ""
+    },
+    {
+        "title": "Python - Basic Operators",
+        "content": "Python language supports the following types of operators. Arithmetic Operators. Comparison (Relational) Operators. Assignment Operators. Logical Operators. Bitwise Operators. Membership Operators. Identity Operators. Let us have a look on all operators one by one."
+    },
+    {
+        "title": "Question to Algorand Developers. Are you writing in TEAL or Python? and if you have any comments on that.",
+        "content": "Just finished my Bachlore degree in cs and want to see what i can do with it. Since i had a Haskell course i Thought it would be cool to look into Cardano, but, i found out their is Quite a barrier developing there - anybody got experience? That led me to Algorand which ive been following closely for some months now. Thinking moving my projects over there. Found this: \"On Algorand, smart contract developers can develop stateful and stateless contracts through a programming language called **Tr..."
+    },
+    {
+        "title": "CodingBat Python",
+        "content": "Basic python string problems -- no loops. List-1 Basic python list problems -- no loops. Logic-1 Basic boolean logic puzzles -- if else and or not. Logic-2 Medium boolean logic puzzles -- if else and or not. String-2 Medium python string problems -- 1 loop. List-2 Medium python list problems -- …"
+    },
+    {
+        "title": "Logical comparisons in Python: and & or - The Teclado Blog",
+        "content": "Python's and and or keywords can be confusing for beginner programmers, but also for programmers coming from other programming languages. That's because in Python, these operators can behave differently than in other languages! Traditionally, and and or are used to compare true and false values. We do this in English too: This is true when this and that are both true: \"This man is a bachelor ..."
+    },
+    {
+        "title": "What’s more marketable, R or Python?",
+        "content": "My current job is paying for me to learn the languages and I’m wondering which would be a better use of my time in terms of leveraging my knowledge into a side hustle. I’ve had a few other small businesses in the past and was thinking I could marry this with my financial knowledge to do some sort of data consulting. Which language would be more valuable to a potential client?"
+    },
+    {
+        "title": "Python Logical Operators with Examples - GeeksforGeeks",
+        "content": "Attention geek! Strengthen your foundations with the Python Programming Foundation Course and learn the basics.. To begin with, your interview preparations Enhance your Data Structures concepts with the Python DS Course. And to begin with your Machine Learning Journey, join the Machine Learning - Basic Level Course"
+    },
+    {
+        "title": "Java or Python?",
+        "content": "TL;DR I want to start getting into computer science with absolutely no prior knowledge but can't decide between Java and Python. I'll try and keep this short. I'm currently a 17 year old senior deciding between dentistry and engineering for my bachelor's. Either way, I want to get into computer science and improve my skills. I'm a complete beginner with zero knowledge in coding. Should I start taking courses in Java or Python?"
+    },
+    {
+        "title": "Python Bitwise OR and assignment operator - AlphaCodingSkills",
+        "content": "Python - Seaborn Python - Bitwise OR and assignment operator The Bitwise OR and assignment operator (|=) assigns the first operand a value equal to the result of Bitwise OR operation of two operands."
+    },
+    {
+        "title": "I want to develop games but I don't know whether to start learning code with C# or python",
+        "content": "I just started getting interested in coding but I don't know whether to start learning code with C# or python. I want to make decent quality games that I can play with my friends and maybe even post up to steam for a couple bucks. I know unity uses C# but I hear that beginners should start with python, what should I do?"
+    },
+    {
+        "title": "Python Difference between is and == Operator - Data ...",
+        "content": "The python identity operator is is quite frequently used to compare objects in python and often in places where the equality operator == should be used. In fact, you should almost always avoid using is when comparing values. In this tutorial, we'd be covering the differences between the two operators and when to use them."
+    },
+    {
+        "title": "Corn snakes or pythons??",
+        "content": "[View Poll](https://www.reddit.com/poll/qj0l7p)"
+    },
+    {
+        "title": "Should I read “automate the boring stuff” or “python crash course”?",
+        "content": "I have learned a little bit of python . By little bit I mean I can only write simple print statements, conditionals and loops . I want to learn more python . I was wondering which book I should read” automate the boring stuff” or “ python crash course."
+    },
+    {
+        "title": "Python Logical Operators: AND OR NOT Complete Guide",
+        "content": "In Python, the primary logical operators are And, Or, and Not. A boolean expression or valid expression evaluates to one of two states True or False.Python provides the boolean type that can be either set to False or True.Many functions and operations return boolean objects."
+    },
+    {
+        "title": "Is tool making in c similar to oop stuff in languages like java or python?",
+        "content": "So i have learnt java before... currently was doing stuff in python which are high level languages... Now i have done stuff in python and i know like how to call the objects from their classes but im not like really good with the oop concepts...like abstraction and all...When i code in java i just know that i have to call the object here to make it run and thats it..So rn im learning c and while even here im pretty much not understanding the memory and pointers but yesterday i learnt something c..."
+    },
+    {
+        "title": "Python Logical \"OR\": [SOLVED] | DaniWeb",
+        "content": "Python, in an attempt to be more readable, uses 'and' and 'or' rather then '&&' and '||'. I think some international versions of C++ also have gone to this, because not all international keyboards have the '&' or \"|\" characters."
+    },
+    {
+        "title": "C# or Python",
+        "content": "Hi, newbie here. I'm participating in a college research that's going to use C# or Python to work with graphic interface and with machine learning, AI, and all that stuff. So, I'll have to present a comparison of some libraries and I wanna know your opinions on what is the best language (one of those two) for that purpose and what are some libraries and features I could select for the comparison."
+    },
+    {
+        "title": "Python vs. R: What's the Difference? | IBM",
+        "content": "Python is a multi-purpose language, much like C++ and Java, with a readable syntax that's easy to learn. Programmers use Python to delve into data analysis or use machine learning in scalable production environments. For example, you might use Python to build face recognition into your mobile API or for developing a machine learning application."
+    },
+    {
+        "title": "How to learn Rust from a Golang or Python perspective?",
+        "content": "I'm a golang and Python dev and I've been trying to learn Rust, but it's very hard :( I couldn't even do something like this myself: https://gitlab.com/dragonDScript/rust-guessing-numbers-algorithm How did you guys learn Rust?"
+    },
+    {
+        "title": "How to start? Also Go or Python?",
+        "content": "Hello I've been making C and C# scripts (and also web html, css, php, js) bug I really want to learn a new language because I would like to work in the blockchain industry and to do so C is not enough. So I ended up comparing some langagues and Go/Python were always compared for this I've seen that Go is fast, really fast, and Python is Secured & Scalable Where should I start to learn Go, the very basics ? Thanks in advance!"
+    },
+    {
+        "title": "What is Python? Executive Summary | Python.org",
+        "content": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together."
+    },
+    {
+        "title": "How can I simulate a non-causal filter in matlab or python code?",
+        "content": "I'm an EE undergrad student with a few signals classes under my belt, and I understand the concept of an LTI system and the constraints. I'm trying to break these constraints in order to learn about other kinds of systems and I'm stuck on an actual implementation of a non-causal impulse response and how to convolve it with an input signal non-causally. I remember being told about convolving in both directions to achieve a non-causal filtering, but I'm not sure how to do that. How would you take..."
+    },
+    {
+        "title": "Welcome to Python.org",
+        "content": "Python knows the usual control flow statements that other languages speak — if, for, while and range — with some of its own twists, of course. More control flow tools in Python 3. Python is a programming language that lets you work quickly and integrate systems more effectively."
+    },
+    {
+        "title": "Defer is worse than C# using or Python with. There, I said it.",
+        "content": ""
+    },
+    {
+        "title": "Filter a pandas dataframe - OR, AND, NOT - Python In Office",
+        "content": "This is the second part of the Filter a pandas dataframe tutorial. Today we'll be talking about advanced filter in pandas dataframe, involving OR, AND, NOT logic. This tutorial is part of the \"Integrate Python with Excel\" series, you can find the table of content here for easier navigation. Prepare a dataframe for demo"
+    },
+    {
+        "title": "Java or python? I know basic oop in both of them . I don’t really have a particular project or path in my mind. I keep wanting to do hacking or machine learning or anything else. So like which language should I go ahead with.",
+        "content": "Just what the title says."
+    },
+    {
+        "title": "Understanding Comparison Operators \"is\" and \"==\" in Python ...",
+        "content": "So python (for optimisations) allocated the same object to b when it was created with the same value. So in this case, the identities of the variables matched and a is b turned out to be True."
+    },
+    {
+        "title": "C# or Python",
+        "content": "Hi, newbie here. I'm participating in a research that's going to use C# or Python to work with graphical interface and machine learning, AI, and all that stuff. So, I'll have to present a comparison of some libraries and I wanna know your opinions on what is the best language (one of those two pls) for that purpose and what are some libraries that I could select for the comparison."
+    },
+    {
+        "title": "Python or R for Data Analysis: Which Should I Learn ...",
+        "content": "Python is a general-purpose language used for a much wider range of tasks than R. How to learn R or Python: Options to get started. Python and R are both excellent languages for data. They're also both appropriate for beginners with no previous coding experience. Luckily, no matter which language you choose to pursue first, you'll find a ..."
+    },
+    {
+        "title": "Javascript or Python backend framework for a real time websocket based multiplayer browsergame?",
+        "content": "Dear learnprogramming Community I want to write the backend for a real time webgame (similar skribbl.io) and have been using django so far but i think i need to go for an alternative since django is just not designed for this usecase. My webgame relies heavily on websockets. Do you know a good javascript or python based backend framework for this usecase? thx in advance"
+    },
+    {
+        "title": "The \"in\" and \"not in\" operators in Python - AskPython",
+        "content": "Hey! So today we are going to discuss the \"in\" and \"not in\" operators in Python.. Python \"in\" operator. Basically, the in operator in Python checks whether a specified value is a constituent element of a sequence like string, array, list, or tuple etc.. When used in a condition, the statement returns a Boolean result evaluating into either True or False."
+    },
+    {
+        "title": "Scala or Python for Data engineer?",
+        "content": "Hi All, I’m a scala developer, not to a pro level, but I know scala with spark very well. I’m looking for a change, most of the companies are expecting python. I’m confused whether to enhance my knowledge in scala like functional programming and be a pro in it or learn python well. I know basics of python as it was part of trainings. Thanks in Advance :)"
+    },
+    {
+        "title": "9: Else, And, Or, Not | Computer Science Circles",
+        "content": "elif. Python introduces one other keyword, elif, to make it easier to check several conditions in a row.The most basic form of elif is the following:. if «test1»: «body1» # runs if test1 is true elif «test2»: «body2» # runs if test1 is false and test2 is true"
+    },
+    {
+        "title": "Would Smalltalk or Python be a better starting point?",
+        "content": "I get they're a bit arbitrary but I got my dad's old textbook Smalltalk 80 the language, I had read the small talk is an educational language primarily. I heard a lot of people talk about Python being a good starting point too. Which would be a better starting point?"
+    },
+    {
+        "title": "Python Operators - GeeksforGeeks",
+        "content": "Python Operators in general are used to perform operations on values and variables. These are standard symbols used for the purpose of logical and arithmetic operations. In this article, we will look into different types of Python operators. Arithmetic Operators."
+    },
+    {
+        "title": "Get Started with OR-Tools for Python | Google Developers",
+        "content": "Python program. This section walks through a Python program that sets up and solves the problem. Note: The complete program and steps for running it are shown at the end of the section. Here are the steps: Import the required libraries. from ortools.linear_solver import pywraplp from ortools.init import pywrapinit; Declare the solver."
+    },
+    {
+        "title": "Python Operators - A Quick Reference - JournalDev",
+        "content": "Python operators allow us to do common processing on variables. We will look into different types of operators with examples and also operator precedence. They are the special symbols that can manipulate the values of one or more operands. List of Python Operators. Python operators can be classified into several categories."
+    },
+    {
+        "title": "John Cleese",
+        "content": ""
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Pythoninæ",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Getting Python",
+        "content": ""
+    },
+    {
+        "title": "Pythons",
+        "content": ""
+    },
+    {
+        "title": "Python MIP (Mixed-Integer Linear Programming) Tools - GitHub",
+        "content": "Python-MIP: collection of Python tools for the modeling and solution of Mixed-Integer Linear programs - GitHub - coin-or/python-mip: Python-MIP: collection ..."
+    },
+    {
+        "title": "Terry Jones",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 38/March 1891/On Vodu-Worship",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Classes",
+        "content": ""
+    },
+    {
+        "title": "reticulated python",
+        "content": ""
+    },
+    {
+        "title": "Which is Better Java or Python - Javatpoint",
+        "content": "Java and Python are the two most popular programming languages. ... While Python is used to develop machine learning applications and data science."
+    },
+    {
+        "title": "Michael Palin",
+        "content": ""
+    },
+    {
+        "title": "The Age of Fable/Chapter III",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Intro",
+        "content": ""
+    },
+    {
+        "title": "Monty Python",
+        "content": ""
+    },
+    {
+        "title": "Python vs. Java Performance - SnapLogic",
+        "content": "Python and Java are two of the most popular and robust programming languages. Learn the differences in this Java vs Python performance comparison."
+    },
+    {
+        "title": "Monty Python's Flying Circus",
+        "content": ""
+    },
+    {
+        "title": "Tropical Diseases/Chapter 44",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Intro",
+        "content": ""
+    },
+    {
+        "title": "syphon the python",
+        "content": ""
+    },
+    {
+        "title": "9: Else, And, Or, Not | Computer Science Circles",
+        "content": "9: Else, And, Or, Not. This lesson will allow you to do complex case-checking more elegantly, using two new parts of the Python language. after ..."
+    },
+    {
+        "title": "Perl",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 33/August 1888/Something About Snakes",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/numpy",
+        "content": ""
+    },
+    {
+        "title": "Pythonic",
+        "content": ""
+    },
+    {
+        "title": "MATLAB vs. Python: Top Reasons to Choose MATLAB",
+        "content": "Python: Top Reasons to Choose MATLAB. MATLAB is the easiest and most productive computing environment for engineers and scientists. It includes the MATLAB ..."
+    },
+    {
+        "title": "Difference between Python and C++ - GeeksforGeeks",
+        "content": "Oct 18, 2021 — Python is an object-oriented programming language that has large enormous library support making the implementation of various programs and ..."
+    },
+    {
+        "title": "Which is Better for AI: Java or Python? | Springboard Blog",
+        "content": "Oct 8, 2021 — Java is an object-oriented language and also a multi-paradigm just like Python programming language. It is one of the most commonly used ...Advantages of Java: Disadvantages of Java"
+    },
+    {
+        "title": "Installing scikit-learn",
+        "content": "Install the version of scikit-learn provided by your operating system or Python distribution. This is a quick option for those who have operating systems or ..."
+    },
+    {
+        "title": "Python - Basic Operators - Tutorialspoint",
+        "content": "Types of Operator. Python language supports the following types of operators. Arithmetic Operators; Comparison (Relational) Operators; Assignment Operators ..."
+    },
+    {
+        "title": "(PDF) C++ or Python? Which One to Begin with: A Learner's ...",
+        "content": "Oct 30, 2021 — In this paper we present results of a study on comparison of C++ and Python as an introductory programming language. Results indicate that due ..."
+    },
+    {
+        "title": "King Arthur",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Data Types",
+        "content": ""
+    },
+    {
+        "title": "pythonic",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Pythagoras (of Rhegium)",
+        "content": ""
+    },
+    {
+        "title": "Should An Engineer Learn R or Python? - Towards Data ...",
+        "content": "Feb 18, 2021 — The hardest part of learning data science is deciding which language you wish to learn first. Too often, professionals looking to expand ..."
+    },
+    {
+        "title": "Neil Innes",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Modules",
+        "content": ""
+    },
+    {
+        "title": "carpet pythons",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Apollo",
+        "content": ""
+    },
+    {
+        "title": "Python VS JavaScript – What are the Key Differences ...",
+        "content": "Jan 28, 2021 — Welcome! If you want to learn the differences between Python and JavaScript, then this article is for you. These two languages are very ..."
+    },
+    {
+        "title": "Mark Pilgrim",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Game Programming in Python",
+        "content": ""
+    },
+    {
+        "title": "reticulated pythons",
+        "content": ""
+    },
+    {
+        "title": "The New Student's Reference Work/Apollo Belvedere",
+        "content": ""
+    },
+    {
+        "title": "How to Use the Python or Operator More Effectively",
+        "content": "The or operator is a logical operator. Typically, you use the or operator to combine two Boolean expressions and return a Boolean value. The or operator returns ..."
+    },
+    {
+        "title": "Messiah",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Metaclasses",
+        "content": ""
+    },
+    {
+        "title": "diamond pythons",
+        "content": ""
+    },
+    {
+        "title": "The Works of J. W. von Goethe/Volume 9/Distichs",
+        "content": ""
+    },
+    {
+        "title": "Node.js vs Python — What to Choose in 2021 - TechMagic",
+        "content": "Apr 18, 2021 — Node.js vs Python are among the most popular tools for web backend development. What is the difference between them? Rating: 4.9 · ‎50 reviews"
+    },
+    {
+        "title": "Holy Grail",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Basic Syntax",
+        "content": ""
+    },
+    {
+        "title": "pythons",
+        "content": ""
+    },
+    {
+        "title": "Half a hundred hero tales of Ulysses and the men of old/The Story of Daphne",
+        "content": ""
+    },
+    {
+        "title": "R Vs Python: Which One Should You Learn? | Flatiron School",
+        "content": "Feb 4, 2021 — Should I learn R or Python? It's a good question. Here we give you the definitive answer based on use cases, popularity, ease of learning, ..."
+    },
+    {
+        "title": "Python or R for Data Analysis: Which Should I Learn? | Coursera",
+        "content": "Oct 11, 2021 — Is it better to learn R or Python for a career as a data analyst? Learn more about how to choose the best statistical programming language ..."
+    },
+    {
+        "title": "Python vs Java: What's The Difference? – BMC Software | Blogs",
+        "content": "Nov 25, 2020 — The Python community will grade each other's code based on how Pythonic the code is. When to use Python. Python's libraries allow a programmer ..."
+    },
+    {
+        "title": "Python vs. R: What's the Difference? | IBM",
+        "content": "Mar 23, 2021 — Python is a general-purpose, object-oriented programming language that ... The main difference between R and Python: Data analysis goals."
+    },
+    {
+        "title": "Get Started with OR-Tools for Python | Google Developers",
+        "content": "Oct 8, 2021 — What is an optimization problem? Solving an optimization problem in Python. A linear optimization example; Main steps in solving the problem ..."
+    },
+    {
+        "title": "Behavioral Data Analysis with R and Python",
+        "content": "Florent Buisson · 2021 · ‎Business & EconomicsPython. Code. Why R and Python? Why not whichever of the two is superior? The “R versus Python” debate is still alive and kicking on the Internet."
+    },
+    {
+        "title": "Terry Gilliam",
+        "content": ""
+    },
+    {
+        "title": "An Introduction to Python For Undergraduate Engineers",
+        "content": ""
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Cincinnati Zoological Gardens",
+        "content": ""
+    },
+    {
+        "title": "অজগৰ",
+        "content": ""
+    },
+    {
+        "title": "5 Reasons JavaScript is Still Better Than Python - IEEE ...",
+        "content": "Several new programming languages have been gaining popularity in recent years. Languages like Ruby, Kotlin, Python, Crystal, and Rust have all made their ..."
+    },
+    {
+        "title": "And Now For Something Completely Different",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/GUI Programming",
+        "content": ""
+    },
+    {
+        "title": "Tom Swift and His Electric Rifle/Chapter 12",
+        "content": ""
+    },
+    {
+        "title": "pig in the python",
+        "content": ""
+    },
+    {
+        "title": "Python (programming language) - Wikipedia",
+        "content": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant ...Paradigm: Multi-paradigm: ‎object-oriented‎, ‎pro...‎First appeared: 20 February 1991; 30 years agoDeveloper: Python Software FoundationStable release: 3.10.1 / 6 December 2021; 1 day ..."
+    },
+    {
+        "title": "Sword",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Input and Output",
+        "content": ""
+    },
+    {
+        "title": "Catholic Encyclopedia (1913)/University of Fribourg (Switzerland)",
+        "content": ""
+    },
+    {
+        "title": "অজগৰ সাপ",
+        "content": ""
+    },
+    {
+        "title": "2020 SAS, R, or Python Survey Results: Which Tool do Data ...",
+        "content": "Our SAS, R, or Python survey examines tool preferences for data scientists and analytics pros and how they vary based on several factors.Dec 16, 2020 · Uploaded by Burtch Works"
+    },
+    {
+        "title": "Ruby (programming language)",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Databases",
+        "content": ""
+    },
+    {
+        "title": "Pindar and Anacreon/Pindar/Pythian Odes",
+        "content": ""
+    },
+    {
+        "title": "rock snake",
+        "content": ""
+    },
+    {
+        "title": "R Vs Python: What's the Difference? - Guru99",
+        "content": "Oct 7, 2021 — R and Python are both open-source programming languages with a large community. New libraries or tools are added continuously to their ..."
+    },
+    {
+        "title": "Java (programming language)",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot",
+        "content": ""
+    },
+    {
+        "title": "Dictionary of Greek and Roman Biography and Mythology/Volume 3p",
+        "content": ""
+    },
+    {
+        "title": "ojola",
+        "content": ""
+    },
+    {
+        "title": "Should I Learn Python or Java in 2021?",
+        "content": "Jan 21, 2021 — Picking the first programming language to learn is tough! We discuss whether it should be Python or Java in 2021."
+    },
+    {
+        "title": "Manage Azure Machine Learning workspaces in the portal or ...",
+        "content": "Nov 18, 2021 — Create a workspace. Python; Portal. Default specification. By default, dependent resources and the resource group will be created automatically."
+    },
+    {
+        "title": "Python vs PHP in 2021 - Comparison, Features & Applications",
+        "content": "Aug 27, 2021 — Differentiate between Python vs PHP to know which language is perfect for the backend development of your web applications."
+    },
+    {
+        "title": "How do you set up a local testing server? - MDN Web Docs",
+        "content": "Oct 8, 2021 — Install Python. If you are using Linux or macOS, it should be available on your system already. If you are a Windows user, you can get an ..."
+    },
+    {
+        "title": "PyCharm: the Python IDE for Professional Developers by ...",
+        "content": "The Python & Django IDE with intelligent code completion, on-the-fly error checking, quick-fixes, and much more...Developer: JetBrains$8.90 to $19.90"
+    }
+]

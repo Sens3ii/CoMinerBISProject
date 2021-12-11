@@ -1,0 +1,601 @@
+[
+    {
+        "title": "How to include external Python code to use in other files?",
+        "content": "May 17, 2013 · 6 answersYou will need to import the other file as a module like this: import Math. If you don't want to prefix your Calculate function with the ...Finding local IP addresses using Python's stdlib ...48 answersNov 7, 2011Using python \"with\" statement with try-except block ...4 answersSep 4, 2010How to download a file over HTTP? - Stack Overflow26 answersFeb 25, 2021Converting XML to JSON using Python? - Stack ...20 answersNov 6, 2011More results from stackoverflow.com"
+    },
+    {
+        "title": "6. Modules — Python 3.10.1 documentation",
+        "content": "6. Modules — Python 3.10.0 documentation. 6. Modules ¶. If you quit from the Python interpreter and enter it again, the definitions you have made (functions and variables) are lost. Therefore, if you want to write a somewhat longer program, you are better off using a text editor to prepare the input for the interpreter and running it with ..."
+    },
+    {
+        "title": "Messiah",
+        "content": ""
+    },
+    {
+        "title": "Python",
+        "content": ""
+    },
+    {
+        "title": "Just So Stories/The Elephant's Child",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Intro",
+        "content": ""
+    },
+    {
+        "title": "1. Embedding Python in Another Application — Python 3.10.0 ...",
+        "content": "Embedding Python in Another Application — Python 3.10.0 documentation. 1. Embedding Python in Another Application ¶. The previous chapters discussed how to extend Python, that is, how to extend the functionality of Python by attaching a library of C functions to it. It is also possible to do it the other way around: enrich your C/C++ ..."
+    },
+    {
+        "title": "Monty Python's Flying Circus",
+        "content": ""
+    },
+    {
+        "title": "itarara",
+        "content": ""
+    },
+    {
+        "title": "conda 4.11 released (including Python 3.10 support)"
+    },
+    {
+        "title": "I got laid off back in April so I’m teaching myself some new skills, including Python. As soon as I learned “Hello world”, I knew exactly what to do. But in a much more real sense, I had no idea what to do."
+    },
+    {
+        "title": "step by step swap visualization of sorting algorithm. This video has 2 parts firs,t swapping visualization and second, explanation of each sorting algorithm with different criteria including python code."
+    },
+    {
+        "title": "Machine Learning Raspberry Pi (Includes Python Libraries)"
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Cincinnati Zoological Gardens",
+        "content": ""
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Intro",
+        "content": ""
+    },
+    {
+        "title": "Including files in source distributions with ... - Python",
+        "content": "Including files in source distributions with MANIFEST.in ¶. When building a source distribution for your package, by default only a minimal set of files are included. You may find yourself wanting to include extra files in the source distribution, such as an authors/contributors file, a docs/ directory, or a directory of data files used for testing purposes."
+    },
+    {
+        "title": "Rabbits",
+        "content": ""
+    },
+    {
+        "title": "geo-fence",
+        "content": ""
+    },
+    {
+        "title": "Tropical Diseases/Chapter 44",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Print version",
+        "content": ""
+    },
+    {
+        "title": "4. Using Python on Windows — Python 3.10.1 documentation",
+        "content": "The Microsoft Store package is a simple installation of Python that is suitable for running scripts and packages, and using IDLE or other development ..."
+    },
+    {
+        "title": "Write C++ extensions for Python - Visual Studio (Windows ...",
+        "content": "Additional Include Directories: Add the Python include folder, as appropriate for your installation (for example, c:\\Python36\\include). C/C++ > Preprocessor: Preprocessor Definitions: If it's present, change the _DEBUG value to NDEBUG to match the non-debug version of CPython. When you're using python_d.exe, leave this value unchanged. C/C++ ..."
+    },
+    {
+        "title": "Feng Shih-kuan",
+        "content": ""
+    },
+    {
+        "title": "bint",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 33/August 1888/Something About Snakes",
+        "content": ""
+    },
+    {
+        "title": "Python Beginner to Expert/Introduction",
+        "content": ""
+    },
+    {
+        "title": "2. Using the Python Interpreter — Python 3.10.1 documentation",
+        "content": "These can be invoked using python -m module [arg] ... , which executes the source file for module as if you had spelled out its full name on the command line."
+    },
+    {
+        "title": "GitHub - henon/Python.Included: A Python.NET based ...",
+        "content": "Python.Included. Python.Included is an automatic deployment mechanism for .NET packages which depend on the embedded Python distribution. This allows libraries depending on Python and/or Python packages to be deployed via Nuget without having to worry about any local Python installations."
+    },
+    {
+        "title": "British Columbia",
+        "content": ""
+    },
+    {
+        "title": "geofence",
+        "content": ""
+    },
+    {
+        "title": "Catholic Encyclopedia (1913)/University of Fribourg (Switzerland)",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Classes",
+        "content": ""
+    },
+    {
+        "title": "1. Extending Python with C or C++ — Python 3.10.0 ...",
+        "content": "The Python API is incorporated in a C source file by including the header \"Python.h\" . The compilation of an extension module depends on its intended use as ..."
+    },
+    {
+        "title": "Python For Beginners | Python.org",
+        "content": "The Python web site provides a Python Package Index (also known as the Cheese Shop, a reference to the Monty Python script of that name). There is also a search page for a number of sources of Python-related information. Failing that, just Google for a phrase including"
+    },
+    {
+        "title": "5. The import system — Python 3.10.1 documentation",
+        "content": "Python implements various strategies to search for the named module when the import machinery is invoked. These strategies can be modified and extended by using ..."
+    },
+    {
+        "title": "python - Why does range(start, end) not include end ...",
+        "content": "To keep the above property true, we should include one of the endpoints and exclude the other. Adding the step parameter is like introducing a unit of length. In that case, you'd expect. len (range (start, end, step)) == (start - end) / step. for length. To get the count, you just use integer division."
+    },
+    {
+        "title": "c++ - Including Python.h in Qt application causes ...",
+        "content": "The issue was caused by using Anaconda's Python distribution. Setting the project to include Python causes QtCreator to use Anaconda's qmake instead of the installed version. If you can live with Qt 5.6, which is the current version of Qt in Anaconda, create a Kit with Anaconda's qmake and the program compiles again.. If you need a newer version of Qt you can add the line"
+    },
+    {
+        "title": "Built-in Functions — Python 3.10.1 documentation",
+        "content": "As repr() , return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by repr() using ..."
+    },
+    {
+        "title": "3. An Informal Introduction to Python — Python 3.10.1 ...",
+        "content": "Using Python as a Calculator¶. Let's try some simple Python commands. Start the interpreter and wait for the primary prompt, >>> . (It shouldn ..."
+    },
+    {
+        "title": "Using Python environments in VS Code",
+        "content": "Configuring Python Environments in Visual Studio Code. ... A conda environment is a Python environment that's managed using the conda package manager (see ..."
+    },
+    {
+        "title": "step by step swap visualization of sorting algorithm. This video has 2 parts firs,t swapping visualization and second, explanation of each sorting algorithm with different criteria including python code."
+    },
+    {
+        "title": "step by step swap visualization of sorting algorithm. This video has 2 parts firs,t swapping visualization and second, explanation of each sorting algorithm with different criteria including python code."
+    },
+    {
+        "title": "Podcast with Ricky Palaguachi. Topics include Python, his experiences at Google and Apple, and more"
+    },
+    {
+        "title": "Win10 is going to start including Python 3.7"
+    },
+    {
+        "title": "Springer have a bunch of PDF books available for free, including Python For ArcGIS"
+    },
+    {
+        "title": "Win10 is going to start including Python 3.7"
+    },
+    {
+        "title": "Why April and May 2021's full moons get the supermoon label, February's generally didn't and June's only gets it by some. Includes Python code calculating the supermoon label by the 5 major definitions."
+    },
+    {
+        "title": "Welcome to Santra Publication Pvt. Ltd. :: PHYSICS IN LABORATORY INCLUDING PYTHON PROGRAMMING & MECHANICS PRACTICAL"
+    },
+    {
+        "title": "Seems like CNTK got a massive upgrade. Including Python bindings. [News]"
+    },
+    {
+        "title": "Python Operators - W3Schools",
+        "content": "Python Identity Operators. Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location: Operator. Description. Example. Try it. is. Returns True if both variables are the same object. x is y."
+    },
+    {
+        "title": "Python in Visual Studio Code",
+        "content": "For Python-specific details, including setting up your launch.json configuration and remote debugging, see Debugging. General VS Code debugging information is found in the debugging document . The Django and Flask tutorials also demonstrate debugging in the context of those web apps, including debugging Django page templates."
+    },
+    {
+        "title": "Online Python - IDE, Editor, Compiler, Interpreter",
+        "content": "Python is a very popular general-purpose programming language which was created by Guido van Rossum, and released in 1991. It is open-source and you can freely use & distribute Python, even for commercial use. It is very popular for web development and you can build almost anything like mobile apps, web apps, tools, data analytics, machine ..."
+    },
+    {
+        "title": "gitignore/Python.gitignore at main · github/gitignore · GitHub",
+        "content": "#.python-version # pipenv # According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control. # However, in case of collaboration, if having platform-specific dependencies or dependencies # having no cross-platform support, pipenv may install dependencies that don't work, or not # install all needed dependencies ..."
+    },
+    {
+        "title": "Does Nix include Python? 2 or 3?",
+        "content": "I heard that > Operating system distributions started to include Python in their base installation, but, because Python was being actively developed, users often complained that they would like to use a more up-to-date version of the language than their operating system provided. So is Python included in a Linux kernel's distribution by default? (I guess no) So is Python included in a Linux distribution by default, e.g. Debian, Arch? (I guess maybe) On NixOS built from minimal, I couldn'..."
+    },
+    {
+        "title": "c++ - Building/including Boost.Python in VS2013 - Stack ...",
+        "content": "Boosts official guide for 1.55 didn't make any specific mentioning of using Command Prompt for VS2013. Edited project-config.jam (created by bootstrap) and added path to my Python 3.4 installation C:\\Python34. My .jam file now looked like as seen in Project-Config.jam. Used .\\b2 in cmd to start the build process."
+    },
+    {
+        "title": "What package includes python integration for openCV with the contribution module?",
+        "content": "What package has the python integration for openCV with the [contribution module](https://github.com/opencv/opencv_contrib) . Is it already includes in https://archlinux.org/packages/staging/x86_64/python-opencv/"
+    },
+    {
+        "title": "Python import: Advanced Techniques and Tips - Real Python",
+        "content": "One of Python's defining features is that it's a very dynamic language. Although it's sometimes a bad idea, you can do many things to a Python program when it's running, including adding attributes to a class, redefining methods, or changing the docstring of a module."
+    },
+    {
+        "title": "Including Python module in ROS2 package",
+        "content": "Hey you all I have been scratching at my head for a solid day trying to figure out why this is proving to be such a problem. So i have a python ROs2 package. Inside my package i have a node trying to reference a submodule i have included. It keeps saying there is no module in package. I have tried to look at the setup.py file and still have had no luck trying to add it as part of the path. Project Folder A [package] A nodeFile.py Submodule ..."
+    },
+    {
+        "title": "NumPy",
+        "content": "NumPy is an essential component in the burgeoning Python visualization landscape, which includes Matplotlib, Seaborn, Plotly, Altair, Bokeh, Holoviz, Vispy, Napari, and PyVista, to name a few. NumPy's accelerated processing of large arrays allows researchers to visualize datasets far larger than native Python could handle."
+    },
+    {
+        "title": "Arch Linux CPP include Python",
+        "content": "Hello all. I have recently started trying to develop some automation scripts and programs to do some different tests on machines on my homelabs and have the data condensed and posted to logs on one of my machines. I have decided to use C++ for the networking and data/file transfers but use python for command scripting and the unit automation. I have run into a rather large issue up front where I cannot embed the python interpreter into a C++ program to make function calls from one language to th..."
+    },
+    {
+        "title": "Python programming language tutorial - Includehelp.com",
+        "content": "Python Tutorial: Python is an object-oriented, high-level, interpreted programming language with dynamic semantics. Python has a rich set of high-level in-built data structures (data types) which combined with dynamic typing and data typing. It makes Python a very popular and attractive programming language for rapid application development, scripting."
+    },
+    {
+        "title": "How to include python dependencies?",
+        "content": "I'm working on a Gnome GTK app with Builder written in Python. However, I'm struggling to figure out how to include python dependencies in the project. I've tried doing it through pip install through the package .json by adding a module, but it doesnt seem to work and the app still complains about my import now being found."
+    },
+    {
+        "title": "Python | String Split including spaces - GeeksforGeeks",
+        "content": "Python | String Split including spaces. Last Updated : 01 May, 2019. The problems and at the same time applications of list splitting is quite common while working with python strings. The spaces are usually tend to ignore in the use cases. But sometimes, we might not need to omit the spaces but include them in our programming output."
+    },
+    {
+        "title": "macOS deprecating scripting language runtimes, including Python, Ruby, and Perl",
+        "content": ""
+    },
+    {
+        "title": "Embedding Python in C/C++: Part I - CodeProject",
+        "content": "Download source files - 5.23 Kb; Download demo project - 80.6 Kb; Introduction. Inspired by the article \"Embedding Python in Multi-Threaded C/C++ Applications\" (Linux Journal), I felt the need for a more comprehensive coverage on the topic of embedding Python.While writing this article, I had two objectives:"
+    },
+    {
+        "title": "Over the last decade in Florida, over 260 snakes, monkeys, lions, tigers, bears and other captive animals have escaped their enclosures at zoos, wildlife sanctuaries, and private homes, including pythons and venomous cobras",
+        "content": ""
+    },
+    {
+        "title": "Python on Windows 10 for beginners | Microsoft Docs",
+        "content": "Python on Pluralsight: 8 Courses, 29 Hours: The Python learning path on Pluralsight offers online courses covering a variety of topics related to Python, including a tool to measure your skill and find your gaps."
+    },
+    {
+        "title": "Programming mentoring including Python (often used for reddit bots)",
+        "content": ""
+    },
+    {
+        "title": "Making a Python Package VI - including data files",
+        "content": "Making a Python Package VI: deploying. This article is optional, and won't apply to many packages. If we were making a sensible version of our Roman numeral converter, there wouldn't be additional data to include."
+    },
+    {
+        "title": "Is there a metapackage that includes Python, make, and other standard Linux devtools?",
+        "content": "Hello, I'm running NixOS in a VM. I'm trying to build a Node.js project, but keep running into errors. The first error was that Python wasn't installed, so I installed that from the NixOS repo. The next error is that 'make' isn't available, so I'm trying to figure out how to install that, even though it's not in the repo. 'cmake', 'gnumake' and others are, but apparently nothing that softlinks them to the 'make' command that this project's build script needs. Other Linux distros sometim..."
+    },
+    {
+        "title": "Python range() Function Explained with Examples",
+        "content": "Python range() function generates the immutable sequence of numbers starting from the given start integer to the stop integer. It is a built-in function that returns a range object consists of a series of integer numbers, which we can iterate using a for loop.. In Python, Using a for loop with range(), we can repeat an action a specific number of times.For example, let's see how to use the ..."
+    },
+    {
+        "title": "If anyone is really into keyboard shortcuts like I am I just found a guide that has a ton of them for many IDE's. Includes: Python, Tableu, Excel, SQL, R, SAS, SPSS, Matlab & Stata.",
+        "content": "Edit: my first ever award! Thanks. Also apperently Stata isn't included. Not sure if its been posted before or not. [https://365datascience.com/wp-content/uploads/2020/01/Shortcuts-for-Data-Scientists-2020.pdf](https://365datascience.com/wp-content/uploads/2020/01/Shortcuts-for-Data-Scientists-2020.pdf)"
+    },
+    {
+        "title": "What is the optimal way to include Python code in a LaTeX ...",
+        "content": "Answer (1 of 4): You've already received a few good answers, but I haven't seen any mention of pythontex. Not only you can include Python code, with syntax coloring, but you can also execute Python code, and even have Python actually write some LaTeX for you! Hurrah! For the purpose of display..."
+    },
+    {
+        "title": "Including python games in a qt-creator project.",
+        "content": "Hello! I've been developing a GUI for a small tablet-like raspberry pi. Im using QT-creator for the GUI and now I want to have some mini-games that are playable within one widget. I cannot find anything about someone that has done something similar and would love to have a way to have some small playable games in a widget. PyQt5 is the version. &#x200B; TLDR; Help me include some mini-games inside a widget within my already created GUI. &#x200B; Thankful for any help/advice you ..."
+    },
+    {
+        "title": "Python Docstrings (With Examples) - Programiz",
+        "content": "Python docstrings. As mentioned above, Python docstrings are strings used right after the definition of a function, method, class, or module (like in Example 1 ). They are used to document our code. We can access these docstrings using the __doc__ attribute."
+    },
+    {
+        "title": "macOS deprecating scripting language runtimes, including Python, Ruby, and Perl",
+        "content": ""
+    },
+    {
+        "title": "Embedding Python program in a C/C++ code - CodeProject",
+        "content": "Create a Console Application. Assuming that Python 3 is installed on the system, completely, at a location \"D:\\Python34\". Now add the path of \"D:\\Python34\\include\" to Include path of the C/C++ project. Add the path of \"D:\\Python34\\libs\" to Lib path of the project. Try compiling the project."
+    },
+    {
+        "title": "Python \"for\" Loops (Definite Iteration) - Real Python",
+        "content": "Definite iteration loops are frequently referred to as for loops because for is the keyword that is used to introduce them in nearly all programming languages, including Python. Historically, programming languages have offered a few assorted flavors of for loop. These are briefly described in the following sections. Remove ads."
+    },
+    {
+        "title": "Python Strings | Python Education | Google Developers",
+        "content": "Python has a built-in string class named \"str\" with many handy features (there is an older module named \"string\" which you should not use). ... The slice s[start:end] is the elements beginning at start and extending up to but not including end. Suppose we have s = \"Hello\" s[1:4] is 'ell' -- chars starting at index 1 and extending up to but not ..."
+    },
+    {
+        "title": "Manage Python application projects - Visual Studio ...",
+        "content": "A new project is always associated with the default global Python environment. To associate the project with a different environment (including virtual environments), right-click the Python Environments node in the project, select Add Environment.., and select the ones you want.You can also use the environments drop-down control on the toolbar to select and environment or add another one to ..."
+    },
+    {
+        "title": "Lisp (programming language)",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Overview",
+        "content": ""
+    },
+    {
+        "title": "The Encyclopedia Americana (1920)/Serpents",
+        "content": ""
+    },
+    {
+        "title": "Using Python for Research | Harvard University",
+        "content": "Take your introductory knowledge of Python programming to the next level and learn how to use Python 3 for your research."
+    },
+    {
+        "title": "Dave Barry",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Control Flow",
+        "content": ""
+    },
+    {
+        "title": "Twentieth Century Impressions of Hongkong, Shanghai, and other Treaty Ports of China/Fauna — General",
+        "content": ""
+    },
+    {
+        "title": "Using Python to Interact with the Operating System | Coursera",
+        "content": "What you will learn · Setup, configure, and use your own developer environment in Python · Manipulate files and processes running on the Operating System using ..."
+    },
+    {
+        "title": "Eric S. Raymond",
+        "content": ""
+    },
+    {
+        "title": "Introduction to Python Programming/Python Programming - Introduction",
+        "content": ""
+    },
+    {
+        "title": "Popular Science Monthly/Volume 4/January 1874/Concerning Serpents",
+        "content": ""
+    },
+    {
+        "title": "Scripting the Editor using Python - Unreal Engine 4 ...",
+        "content": "Execute Python Script can contain multiple lines of Python code, and new-lines can be entered by using the keys Shift+Return. The Success? output is true if the ..."
+    },
+    {
+        "title": "Palestine",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Files",
+        "content": ""
+    },
+    {
+        "title": "Dictionary of National Biography, 1901 supplement/Leighton, Frederic",
+        "content": ""
+    },
+    {
+        "title": "Using MATLAB with Python - MathWorks",
+        "content": "Using MATLAB with Python · Calling MATLAB from Python · Calling Python Libraries from MATLAB · Packaging MATLAB Programs for Scalable Deployment with Python · Using ..."
+    },
+    {
+        "title": "Dada",
+        "content": ""
+    },
+    {
+        "title": "A-level Computing/AQA/Python",
+        "content": ""
+    },
+    {
+        "title": "Natural History, Reptiles",
+        "content": ""
+    },
+    {
+        "title": "Computational Thinking using Python XSeries Program | edX",
+        "content": "Learn to think computationally and write programs to tackle useful problems. Use these courses as stepping stones to more advanced computer science courses."
+    },
+    {
+        "title": "Get started | PyCharm - JetBrains",
+        "content": "... for smart and intelligent Python development, including code assistance, ... for professional Python, web, and data science development, including code ..."
+    },
+    {
+        "title": "Using Python - Webots documentation",
+        "content": "The Python API has been generated from the C++ API by using SWIG. This implies that their class hierarchy, their class names and their function names are ..."
+    },
+    {
+        "title": "Problem Solving with Algorithms and Data Structures",
+        "content": "Problem Solving with Algorithms and Data Structures using Python ¶. PythonDS Cover. By Brad Miller and David Ranum, Luther College."
+    },
+    {
+        "title": "5.1 Connecting to MySQL Using Connector/Python",
+        "content": "5.1 Connecting to MySQL Using Connector/Python. The connect() constructor creates a connection to the MySQL server and returns a MySQLConnection object."
+    },
+    {
+        "title": "Alice Cooper",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Cython",
+        "content": ""
+    },
+    {
+        "title": "Dictionary of National Biography, 1901 supplement/Leighton, Frederic",
+        "content": ""
+    },
+    {
+        "title": "Using the Python zip() Function for Parallel Iteration",
+        "content": "Using zip() in Python. Python's zip() function is defined as zip(*iterables) . The function takes in iterables as arguments and returns an iterator."
+    },
+    {
+        "title": "Larry Wall",
+        "content": ""
+    },
+    {
+        "title": "A-level Computing 2009/AQA/Python",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Serpent-worship",
+        "content": ""
+    },
+    {
+        "title": "Python for Unity | 2.0.1-preview.2",
+        "content": "Potential benefits of using Python in your Unity project include: Automating scene and sequence assembly in the context of using Unity as a real-time ..."
+    },
+    {
+        "title": "Mutant",
+        "content": ""
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Installation and Setup",
+        "content": ""
+    },
+    {
+        "title": "Free as in Freedom (2002)/Chapter 11",
+        "content": ""
+    },
+    {
+        "title": "Using Neo4j from Python - Developer Guides",
+        "content": "The Neo4j Python driver is officially supported by Neo4j and connects to the database using the binary protocol. It aims to be minimal, ...Python: 2.7 / 3.4+Author: Nigel Small"
+    },
+    {
+        "title": "Israel",
+        "content": ""
+    },
+    {
+        "title": "Python Beginner to Expert/Structured Python",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Dragon",
+        "content": ""
+    },
+    {
+        "title": "Exam 98-381: Introduction to Programming Using Python",
+        "content": "Exam 98-381: Introduction to Programming Using Python. This MTA exam will be retired on June 30, 2022. Voucher sales for this exam ended on June 30, 2021."
+    },
+    {
+        "title": "Carl Hiaasen",
+        "content": ""
+    },
+    {
+        "title": "Python Programming/Popularity",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Leighton, Frederick Leighton, Baron",
+        "content": ""
+    },
+    {
+        "title": "Creating Chatbot Using Python Programming Language",
+        "content": "5 days ago — Simple ChatBot build by using Python. A ChatBot is merely software by which humans can interact with each other. Examples include Apple's Siri, ..."
+    },
+    {
+        "title": "Individual Edition - Anaconda",
+        "content": "Build and train machine learning models using the best Python packages built by the open-source community, including scikit-learn, TensorFlow, and PyTorch."
+    },
+    {
+        "title": "Mastering 4 critical SKILLS using Python | Udemy",
+        "content": "Mastering 4 critical SKILLS using Python. 190 problems to enhance problem-solving skills. ... The course covers basic to advanced modern Python 3 syntax."
+    },
+    {
+        "title": "Quickstart using Python - Dataflow - Google Cloud",
+        "content": "In this quickstart, you learn how to use the Apache Beam SDK for Python to build a program that defines a pipeline. Then, you run the pipeline by using a ..."
+    },
+    {
+        "title": "How to Automate Work Using Python - freeCodeCamp",
+        "content": "Sep 21, 2021 — If you use a computer a lot you've probably had to do some repetitive tasks. Python can be used to automate many boring tasks to give you ..."
+    },
+    {
+        "title": "Getting Started with Plotly for Python",
+        "content": "Plotly charts in Dash¶. Dash is the best way to build analytical apps in Python using Plotly figures. To run the app below, run pip install dash , ..."
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Count to 10",
+        "content": ""
+    },
+    {
+        "title": "The Love of Books: the Philobiblon of Richard de Bury/Chapter 7",
+        "content": ""
+    },
+    {
+        "title": "Now",
+        "content": ""
+    },
+    {
+        "title": "Speed up your Python using Rust | Red Hat Developer",
+        "content": "Nov 16, 2017 — Rust is a language that has no runtime so it can be used to integrate with any runtime; You can write modules in Rust and call using Python."
+    },
+    {
+        "title": "Learning Python 3 with the Linkbot/Intro to Imported Libraries and other Functions",
+        "content": ""
+    },
+    {
+        "title": "Hong Kong Fact Sheets/Country Parks and Conservation (January 2014)",
+        "content": ""
+    },
+    {
+        "title": "James Russell Lowell",
+        "content": ""
+    },
+    {
+        "title": "How to Use the Python Requests Module With REST APIs",
+        "content": "Jun 11, 2020 — Data – If you're using a method that involves changing data in a REST API, you'll need to include a data payload with the request that includes ..."
+    },
+    {
+        "title": "Python Programming/PyPy",
+        "content": ""
+    },
+    {
+        "title": "Chambers's Twentieth Century Dictionary 1908/Purim Pyxidium",
+        "content": ""
+    },
+    {
+        "title": "Anonymous",
+        "content": ""
+    },
+    {
+        "title": "Write Clean Python Code Using Pipes - Towards Data Science",
+        "content": "Oct 27, 2021 — Write Clean Python Code Using Pipes · Motivation · What is Pipe? · Where — Filter Elements in an Iterable · Select — Apply a Function to an Iterable."
+    },
+    {
+        "title": "Python Programming/CGI interface",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Fernando Po",
+        "content": ""
+    },
+    {
+        "title": "Tony Blair",
+        "content": ""
+    },
+    {
+        "title": "Data Analytics Using Python - Build Your Data Analysis Skills",
+        "content": "Develop practical data analytics skills using Python. Do you want to get started with advanced analytics and learn how to leverage Python? As businesses ..."
+    },
+    {
+        "title": "Non-Programmer's Tutorial for Python 3/Print version",
+        "content": ""
+    },
+    {
+        "title": "1911 Encyclopædia Britannica/Delphi",
+        "content": ""
+    },
+    {
+        "title": "Immanuel Kant",
+        "content": ""
+    },
+    {
+        "title": "Using the SageMaker Python SDK",
+        "content": "Models: Encapsulate built ML models. Predictors: Provide real-time inference and transformation using Python data-types against a SageMaker endpoint. Session: ..."
+    },
+    {
+        "title": "FastAPI",
+        "content": "One of the fastest Python frameworks available. Fast to code: Increase the speed to ... Declare the body using standard Python types, thanks to Pydantic."
+    },
+    {
+        "title": "Interface to Python • reticulate",
+        "content": "R Interface to Python · Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python ..."
+    },
+    {
+        "title": "Install - SciPy",
+        "content": "python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose. We recommend using an user install, sending the --user flag to pip."
+    },
+    {
+        "title": "Introduction to Computation and Programming Using Python",
+        "content": "This book introduces students with little or no prior programming experience to the art of computational problem solving using Python and various Python ..."
+    }
+]

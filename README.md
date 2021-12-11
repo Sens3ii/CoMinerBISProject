@@ -1,10 +1,10 @@
-## Initial README
+## Cominer Algorithm
 
 ENV:
 Python 3.6+ 64bit
 
-```
-py -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-```
+Made by 
+Daniil Koilybayev
+Aruzhan Sadakbayeva 
+
+(Sorry forgot to commit changes in origin)

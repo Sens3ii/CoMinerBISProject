@@ -1,0 +1,440 @@
+[
+    {
+        "title": "Django vs Laravel: Which Is the Better Framework in 2021?",
+        "content": "14.10.2021 · Django offers no built-in feature to support API building. Hence, you will require a library to use APIs with Django. Contrarily, Laravel offers built-in API support. By default, the queries in Laravel return JSON. This is the advantage of Laravel over Django: It’s evident, especially if you plan to create APIs to meet specific client ..."
+    },
+    {
+        "title": "Database transactions | Django documentation | Django",
+        "content": "Django’s default behavior is to run in autocommit mode. Each query is immediately committed to the database, unless a transaction is active. See below for details. Django uses transactions or savepoints automatically to guarantee the integrity of ORM operations that require multiple queries, especially delete() and update() queries."
+    },
+    {
+        "title": "A Programmable Web/Chapter 2",
+        "content": ""
+    },
+    {
+        "title": "Guitar/Jazz",
+        "content": ""
+    },
+    {
+        "title": "Joanna MacGregor",
+        "content": ""
+    },
+    {
+        "title": "slavery",
+        "content": ""
+    },
+    {
+        "title": "django-admin-interface · PyPI",
+        "content": "25.11.2021 · django-admin-interface is a modern responsive flat admin interface customizable by the admin itself. Features. Beautiful default django-theme; Themes management and customization (you can customize admin title, logo and colors) ... especially to improve it and adding new features."
+    },
+    {
+        "title": "The contenttypes framework | Django documentation",
+        "content": "The get_for_model() method is especially useful when you know you need to work with a ContentType but don't want to go to the trouble of obtaining the ..."
+    },
+    {
+        "title": "Best Basic Security Practices (Especially with Django)",
+        "content": "Best Basic Security Practices (Especially with Django) ... a Django app that actually holds a lot of the code. These best-practices are locking your doors. If your site is a high-profile target or handles financial data, you'll need to go beyond this. OWASP. Before I go on, a fantastic resource for web app developers is OWASP. The group ..."
+    },
+    {
+        "title": "Django does not like being in the snow. Especially for pictures."
+    },
+    {
+        "title": "Django being especially photogenic"
+    },
+    {
+        "title": "Guitar/Playing What You Hear",
+        "content": ""
+    },
+    {
+        "title": "Luke Cage (TV series)",
+        "content": ""
+    },
+    {
+        "title": "Django Utils",
+        "content": "Alias of force_str() for backwards compatibility, especially in code that supports Python 2. force_text (s, encoding='utf-8', strings_only=False, ..."
+    },
+    {
+        "title": "Myers-Briggs Type Indicator/ENTP",
+        "content": ""
+    },
+    {
+        "title": "Fictional last words in films",
+        "content": ""
+    },
+    {
+        "title": "Django CORS Guide: What It Is and How to Enable It",
+        "content": "30.04.2021 · Django is a Python web framework that allows rapid web application development. Apps developed in Django may need to interact with other applications hosted on different domains (or even just different ports). For these requests to succeed, you’ll need to use cross-origin resource sharing (CORS) in your server."
+    },
+    {
+        "title": "Settings | Django documentation",
+        "content": "Be careful when you override settings, especially when the default value is a non-empty list or dictionary, such as STATICFILES_FINDERS ."
+    },
+    {
+        "title": "What are some of the bloodiest action movies that exist (similar to Tarantino films, especially Django)?",
+        "content": ""
+    },
+    {
+        "title": "Django database routers - how do you test them, especially ...",
+        "content": "The master router is simply an instance of django.db.utils.ConnectionRouter, so you can instantiate that and call its methods to perform your tests.. You can see the various methods this class has in the source code [GitHub], below is a list of the methods that are likely useful for your testing (in fact they mostly are the same as those on the database routers):"
+    },
+    {
+        "title": "Choose Your Own Pyventure",
+        "content": ""
+    },
+    {
+        "title": "Lupin III",
+        "content": ""
+    },
+    {
+        "title": "Django Unchained (2012) - IMDb",
+        "content": "25.12.2012 · Django Unchained: Directed by Quentin Tarantino. With Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington. With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi."
+    },
+    {
+        "title": "Writing custom django-admin commands",
+        "content": "Custom management commands are especially useful for running standalone scripts or for scripts that are periodically executed from the UNIX crontab or from ..."
+    },
+    {
+        "title": "How To Focus on One Library",
+        "content": "I've been programming for a fair while now as a side hobby and have gotten pretty serious about it for around a year. I mainly use python these days and just use it to solve algorithms. I keep wanting to learn libraries, especially Django, so that I can start working on real-world projects. But every time I try to pick it up, I just get bored or unmotivated and drop it again. I have no problem understanding any of the programming or technical aspects of it but it is just a matter of staying moti..."
+    },
+    {
+        "title": "Django - Davit Tovmasyan's Blog",
+        "content": "How to use Django shell in Jupyter Notebook. Aug 8, 2021 3 min read. Intro Running Django, especially Django querysets in Jupiter notebooks might be useful if you want to analyze/plot the data that is in your database. Also, sometimes it's hard to execute big querysets in CLI using Django's interactive shell."
+    },
+    {
+        "title": "Guitar/Printable version",
+        "content": ""
+    },
+    {
+        "title": "Asynchronous support | Django documentation",
+        "content": "This is especially handy when dealing with external APIs or data stores. If you want to call a part of Django that is still synchronous, like the ORM, ..."
+    },
+    {
+        "title": "Upgrade legacy Django project",
+        "content": "Hello, I have been assigned a legacy Django project (v. 1.6.8) that uses Python 2.7. It was created by developers that have left the company I am working for and I am responsible of maintenance and upgrades. It has become very difficult to add something new to the Python side of things as the modules, Python version but especially Django version are obsolete for quite an amount of time. It is really dangerous for production too. Are there any generic or specific tips to upgrade the entire pro..."
+    },
+    {
+        "title": "Deploying Django App on Heroku with Postgres as Backend ...",
+        "content": "Deploying a webapp on heroku is usually a difficult task for a beginner especially when you want to use postgres as backend . This post is step by step guide to help you deploy easily."
+    },
+    {
+        "title": "The File object | Django documentation",
+        "content": "This is especially useful with very large files since it allows them to be streamed off disk and avoids storing the whole file in memory."
+    },
+    {
+        "title": "How can I serve React production build via Django without webpack loader and babel?",
+        "content": "Greetings! I'm struggling trying to launch my production version website which uses both Django and React. I use a CDN (hosted on the same domain as Django) to serve all static files (including React). However, I'm having some MIME type issues and it's causing a bit of a headache for me. I'm looking at boilerplate examples of React/Django, which use libraries such as webpack and babel. I've also seen repo's that do not use them. I do not want to rely on third part repo's (especially Django..."
+    },
+    {
+        "title": "Exclusive: Schbang Network Company's Django Digital hits ...",
+        "content": "At Django, we believe in hiring leadership talent that will shape the organization so finding the right people, especially virtually, and building our teams is a challenge we are working towards ..."
+    },
+    {
+        "title": "How to Install Django on Windows/IIS: A Tutorial | Toptal",
+        "content": "Though many Django Developers might consider it blasphemous, sometimes it is actually necessary to deploy Django applications on Windows/IIS, especially when working with a client that has based its infrastructure around the Windows ecosystem. The “blasphemy” part comes from Django having really been targeted at the Unix environment, relying heavily on features …"
+    },
+    {
+        "title": "Signals | Django documentation",
+        "content": "In a nutshell, signals allow certain senders to notify a set of receivers that some action has taken place. They're especially useful when many pieces of code ..."
+    },
+    {
+        "title": "Does anyone use emacs with Django?",
+        "content": "Hi there, I'm kinda new to emacs and I was looking around for packages I should use. I wanted some feedback of people who use emacs (or tried to ) as their main programing environment for python and especially Django. What packages do you use? What are the issues you are facing? Do you miss using an ide? Are you missing any features? Is there any emacs user who don't use emacs for python/Django? And for those who don't use it, what stack do you use? Thanks!"
+    },
+    {
+        "title": "marksweb (Mark Walker) · GitHub",
+        "content": "Python dev mainly working with django, especially django-cms hosted with AWS, usually on Fargate - marksweb"
+    },
+    {
+        "title": "Deploying static files | Django documentation | Django",
+        "content": "You’ll probably want to automate this process, especially if you’ve got multiple web servers. ... Most larger Django sites use a separate Web server – i.e., one that’s not also running Django – for serving static files. This server often runs a different type of web server – faster but less full-featured. Some common choices are:"
+    },
+    {
+        "title": "How do I actually make money programming?",
+        "content": "This might seem it would fit more /r/cscareerquestions, but eventually I decided to post this here. &#x200B; So I've been prorgramming for two years now, I started to learn because of pure interest in how things work and how to make things. Over the course of two years I've learned Python (especially Django framework), front-end technologies (HTML, CSS, JS) and some other (including C++ and Kotlin which I never got too much practice with and eventually forgot them). I was usually doing pro..."
+    },
+    {
+        "title": "Build a Machine Learning API With Django Rest Framework ...",
+        "content": "Introduction Finding the proper treatment, especially drug treatment, can be a difficult task. Whether you're looking for drugs to treat seasonal allergies, or you're treating a serious illness, collecting data on various aspects of patients and what treatments they best respond to can be vital for saving lives and increasing patient convenience."
+    },
+    {
+        "title": "Security in Django",
+        "content": "You should also be very careful when storing HTML in the database, especially when that HTML is retrieved and displayed. Cross site request forgery (CSRF) ..."
+    },
+    {
+        "title": "Collction of Django Blogs",
+        "content": "Hello dear django people, I've been looking for good backend, especially django, blogs yet I fail to find them. If you're a django blogger or know some good resources then feel free to share them here. You'd help at least one person in this community by doing so (me, and I'm sure there are many other) &#x200B; Thanks guys \\-- List of posted blogs * [William Vincent](https://wsvincent.com/) * [They made Django CRM](https://micropyramid.com/blog/category/django/) * [Real Python](https://r..."
+    },
+    {
+        "title": "GirlThatLovesToCode",
+        "content": "Apr 7, 2021 14 min read 1.5K views. This is the second part of Fluent in Django series. We're going to upgrade the code we created in Part 1. You can find the finished code from the first part here. Prerequisites Python Basics of Django (Creating a project, Model, View, Templates, Fo..."
+    },
+    {
+        "title": "Templates | Django documentation",
+        "content": "If you don't have a pressing reason to choose another backend, you should use the DTL, especially if you're writing a pluggable application and you intend ..."
+    },
+    {
+        "title": "Looking for a decent beginners tutorial.",
+        "content": "So, im moderatley efficient at writing Python code (hey, im learning) but frameworks are giving me the shits, especially Django. I have an idea in mind for a site, I could write it in PHP but I don't want to. I want to move beyond PHP and into Python and prferably this site would be based on Django. I started out with one tutorial that had Django running in a container. It was great for the initial \"hello world\" install but as soon as apps started getting isntalled it basically shit itself, ..."
+    },
+    {
+        "title": "Django, in chains - CNN",
+        "content": "Yet the filmmakers agreed to the release of action-figure slave and slaver dolls to help promote \"Django.\" It was an especially offensive decision because selling slave figurines falls directly in ..."
+    },
+    {
+        "title": "Psycho (along with a lot of other old movies) is an overrated film",
+        "content": "I love movies and watch all that I can. Obviously i love Quentin Tarantino especially Django unchained, and since I’d heard such good things about Psycho, I decided to watch it. What an overhyped piece of garbage. I can appreciate how it was masterfully directed but the acting is atrocious (especially Janet Leigh), the plot is boring and it meanders, and the kills/“scares” are embarassing and I found myself laughing out loud. Now I can understand that it was made in 1960, but being old doesn’t a..."
+    },
+    {
+        "title": "This Cut Plotline Would've Completely Changed Django Unchained",
+        "content": "The director is especially passionate about Italian auteur Sergio Corbucci, who directed Franco Nero in his breakthrough role in \"Django.\" The film was inspired by Akira Kurosawa's \"Yojimbo\" (like ..."
+    },
+    {
+        "title": "hooking up two users using session?",
+        "content": "I'm very beginner at web dev especially Django I'm working on side project where two players will play against each others what I did until now: 1- user#1 create a session and store it ID in the database 2-user#2 access the database looks for available session now both user#1 and user#2 have same session ID then I literally have no idea what to do next I don't even know if this possible to achieve with this approach."
+    },
+    {
+        "title": "9 Various Django Features explaind In complete Detail ...",
+        "content": "Especially, Django eases the presence of complexity in database-driven web applications or web sites. You can look at the Various Python Application Examples to verify this fact. Upper Hand You Will Have While Developing With Django. Now, let's explore the features of the Django web framework one-by-one in detail. Highly Secure Web Framework"
+    },
+    {
+        "title": "For a beginner who wants to be employable as soon as possible, what makes more sense - learning Go or getting better at python, ruby and node.js?",
+        "content": "I have been learning webdev as a hobby for sometime now. Next year, I want to start my career as a webdev. Now, I know the basics of Ruby, Python and Node.js but not enough to be employable just yet. I want to devote a few months to hone my skills and get better at them. I primarily wanted to concentrate on Node.js and Python, especially Django and Flask for this period. But should I instead devote my time to learning Go?"
+    },
+    {
+        "title": "How to Install Django in PyCharm - Tabnine Blog",
+        "content": "PyCharm is incredibly easy for Python development, especially for Django development. All you have to do is go to the navigation bar, click on File -> New Project, and you'll see a panel. Look to your left and select Django. All the settings are done for you. All you have to do is set your Location and click on Create."
+    },
+    {
+        "title": "testing (Django)",
+        "content": "How do you test your software? Especially Django. I am usually trying to test whole view (integration tests), not just functions or forms (unit tests). But sometimes there is so many things, the view depends on (different users, different permissions, different objects states, different POST arguments, different time, etc...), that I found kind of overkill do integration test for every possible input. Or sometimes requirements get change and view rendering starts depending on some other thing (t..."
+    },
+    {
+        "title": "Nominations for 2021 Malcolm Tredinnick Memorial Prize ...",
+        "content": "Malcolm was an early core contributor to Django and had both a huge influence and impact on Django as we know it today. Besides being knowledgeable he was also especially friendly to new users and contributors. He exemplified what it means to be an amazing Open Source contributor. We still miss him to this day."
+    },
+    {
+        "title": "healthier - food and physical activity consumption tracker project",
+        "content": "hi, I had to implement food and physical activity tracker, as a homework project, by using Django. The aim was to cover the most of the software development cycles such as requirement elicitation, project planning, planning milestones and issues sufficiently, documenting, testing, following git flow etc. Of course, not all of them are fully completed. It was only the ideal case and I had to get as closer as possible. Anyway, maybe some of you would find something valuable in this project. Espe..."
+    },
+    {
+        "title": "How to use Django shell in Jupyter Notebook",
+        "content": "Running Django, especially Django querysets in Jupiter notebooks might be useful if you want to analyze/plot the data that is in your database. Also, sometimes it's hard to execute big querysets in CLI using Django's interactive shell. In this article, we will see how to connect Django's shell with the Jupyter Notebook and get the advantage of ..."
+    },
+    {
+        "title": "Need help picking a web framework",
+        "content": "I read a few different threads discussing frameworks, especially Django vs. Flask, but I noticed a lot of them didn't include people's project intentions. So a lot of the recommendations were very open with pros/cons of each framework. I ran through the Flask tutorial quickly and started on Django tutorial, but I'm still a bit iffy on which to pursue. I'm looking to build something that replicates an experience of Panic's [Status Board](https://panic.com/statusboard/), but perhaps not as custo..."
+    },
+    {
+        "title": "PDF The Django Book - Read the Docs",
+        "content": "The most gratifying aspect of working on Django is the community. We've been especially lucky that Django has attracted such a smart, motivated, and friendly bunch. A segment of that community followed us over to the online \"beta\" release of this book. Their reviews and comments were indispensable; this book wouldn't have been possible"
+    },
+    {
+        "title": "If ya fancy yourself a guitar match-maker, I'd appreciate your opinion!",
+        "content": "I've been playing guitar for a long time now but only one kind: acoustics. I've been thinking about buying an electric for a while and I think I'm finally gonna do it except... I have no idea what guitar will give me the I want. I've really been getting into jazz especially django so I'd like something that I can get clear, pronounced solos on. Here's the problem: I've alway love dark, warm tones. Kind of on the washy ambient side. Lastly, my funds are very limited. I mean 200-..."
+    },
+    {
+        "title": "Django Translation: Agile Localization for Developers ...",
+        "content": "Compile everything by running $ django-admin compilemessages when the translation is ready. To check your translations, ... Context of the original text is especially important when sentences are short or consist of 1 -2 words, as often happens in web applications."
+    },
+    {
+        "title": "Django, interested in backend especially.",
+        "content": "Anybody interested in learning more about backend engineering and needs someone to work with. I’m open to all learning opportunities."
+    },
+    {
+        "title": "Python and Django tutorial in Visual Studio Code",
+        "content": "Django Tutorial in Visual Studio Code. Django is a high-level Python framework designed for rapid, secure, and scalable web development. Django includes rich support for URL routing, page templates, and working with data. In this Django tutorial, you create a simple Django app with three pages that use a common base template."
+    },
+    {
+        "title": "Getting A Django Job (Especially the first) Experiences",
+        "content": "Recently I looked for Django jobs (in the UK) and was pretty depressed at how few were advertised. Obviously the UK is in a covid induced recession presently, as are many places no doubt, but I wondered are django jobs few and far between in the best of times? Is it difficult to get a job normally for the average developer? I'd be interested to hear about people's experiences getting jobs, in particular their first job. How long had you been using django, how many interviews before you were..."
+    },
+    {
+        "title": "Movie Review: \"Django Unchained\" - The Patriot",
+        "content": "The film revolves around Django (Jamie Foxx), a black man in the United States before the Civil War. The film is a western in itself, with many moments that refer to the old 'bang bang', especially the time of Spaghetti Westerns. The conceptual aspect of the experience portraited in vigorous fashion the absolute separation between whites ..."
+    },
+    {
+        "title": "I've hardly seen anything on any django related forum about the new additions of 3.0, ESPECIALLY about the async stuff.",
+        "content": "Do people understand this stuff so well that they don't need any tutorials or articles? Because I desperately need them. The docs really don't help at all. I literally do not know the first thing about it. For one, has celery become irrelevant now? Also, I'm fairly new to programming, so I've never really been a part of a major update to a framework I follow so closely. I learned django only 4 months ago on version 2.2 I think. Do tutorials/articles/courses take a while to be released?"
+    },
+    {
+        "title": "Django Admin- Populate subcategory | Better Programming",
+        "content": "Conclusion. And just like that, now the items in the list of items in the dropdown select subcategory are related to the category selected. If you have another solution to this problem, feel free to suggest it down below to increase our skills together with the Django framework, especially to make the Django administration interface a more powerful tool to work with."
+    },
+    {
+        "title": "I feel like there's a Django vengeance playthrough here, especially with the whips.",
+        "content": "\"Why are you helping me?\" \"As a German I'm obliged to help you on your quest for Broomhilda.\""
+    },
+    {
+        "title": "python - Django: Filter on related model's field not being ...",
+        "content": "Thank you. This works, but examining all Bars in a subquery is inefficient, especially in case when the outer QuerySet of Foo objects is already restricted by some other filtering criteria. If possible, I would like to use an approach that is reasonably efficient in those cases as well."
+    },
+    {
+        "title": "There might be better Legendaries out there, but for me this is the most fun one. It will straight up make you feel like Django Unchained. (Especially as Fl4k)",
+        "content": ""
+    },
+    {
+        "title": "Agus Makmun",
+        "content": "Stack Problems. Add reCAPTCHA to default Django admin login form » 06 Oct 2021. Restricting specific media folders on Django » 12 Aug 2021. How to handle XSS Injection in Django? » 19 Aug 2020. How can i accept and run user's code securely on my web app? » 01 Aug 2020. How to custom select language icon in django administration » 28 Jul 2020."
+    },
+    {
+        "title": "List of the Hardest and Most Ridiculous Requirements or Secrets in JRPGs. [Best of the series]",
+        "content": "This is a \"**best of**\" thread I am making mainly for all the many new fans that have joined, as a thank you for being part of this great community, and for another reason that I will probably be announcing soon. **I apologize for those who always keep up with my threads, as there is nothing new here**. As mentioned it's a selection of the most interesting ones from my old threads. But if you never read any of them, then I hope you have fun reading them, although considering the size of this on..."
+    },
+    {
+        "title": "This Python and Django web development course bundle is ...",
+        "content": "Then this may be the perfect time to get started on your training, especially since The Learn Python and Django Developer Bundle is offered right now with extra savings for Mother's Day."
+    },
+    {
+        "title": "One of the best parts about The Harder They Fall…",
+        "content": "Was that it didn’t have to drop any N-bombs to feel like natural dialogue. I actually expected it because I’m so used to it being in every single movie with/about black people pre civil rights. I understand the relevance to the culture and how directors and writers want to be as real as possible through dialogue but holy shit if Tarantino doesn’t wear it tf out. Django and The Hateful 8 come to mind. And he’s not the only one, there are plenty of other directors and writers. Black people inclu..."
+    },
+    {
+        "title": "dj-rest-auth · PyPI",
+        "content": "Dj-Rest-Auth. Drop-in API endpoints for handling authentication securely in Django Rest Framework. Works especially well with SPAs (e.g React, Vue, Angular), and Mobile applications."
+    },
+    {
+        "title": "Pydantic Factories",
+        "content": "Hi Pythonistas! I am the author of a library called **pydantic-factories**, which allows you to generate mock testing data from any pydantic model. It's a bit like factory-boy, model-bakery and others for the django and flask world, but for pydantic. Because pydantic has great typing support and type parsing, the factories are able to generate all data automatically, which is pretty neat. This library works with other libraries that use pydantic, for example- fastAPI, SQLModel, Ormar, Beanie, O..."
+    },
+    {
+        "title": "adamchainz (Adam Johnson) · GitHub",
+        "content": "🦄 I'm a member of the Django project Technical Board (2.2 through 4.0 release cycles), and a co-organizer of the The London Django Meetup. 🇬🇧 I'm based in London, UK. ️ I love to travel, especially to Django and Python conferences! ☕️ I drink tea, and especially enjoy a genmaicha."
+    },
+    {
+        "title": "Adding TomTom Maps to a Django App: Building a Django Back ...",
+        "content": "Server-side frameworks like Django read and generate pages in milliseconds — perfect for apps accessing a store information database. Learn how to build a simple store locator app's back end using Django with a location model linked to TomTom Maps APIs."
+    },
+    {
+        "title": "Organizing your Front-End Codebase in a Django Project",
+        "content": "The ever-changing, opinionated, and wildly complex world of modern JavaScript does not provide an obvious answer as to how this should be done, and especially how to do it in Django. So you end up feeling stuck. Knowing there's a better solution out there, but not sure exactly how to achieve it."
+    },
+    {
+        "title": "BLOOD OF THE CHOSEN by Django Wexler (Burningblade and ...",
+        "content": "In everything I've read from Django Wexler, especially Blood of the Chosen, the action and combat scenes are essential, and extremely fun to experience. I didn't feel like I was just reading the words on the page, I felt like I was a proverbial fly on the wall in the action. This is especially true of the final conflict of the novel, so ..."
+    },
+    {
+        "title": "Django News - Malcolm Tredinnick Memorial Prize Nominations",
+        "content": "Using Django with Pants. Pants is a cutting-edge build system with strong support for Python. See how Pants can help streamline your Django-based projects, especially when you have multiple services in a single shared codebase. github.io"
+    },
+    {
+        "title": "Guitar/Print Version",
+        "content": ""
+    },
+    {
+        "title": "Get started with Django - Learn | Microsoft Docs",
+        "content": "Django is one of the most popular Python web frameworks. It's especially powerful when working with a data-driven application, where the main goal is to ..."
+    },
+    {
+        "title": "How to optimize Default Django oscars App Views Especially ...",
+        "content": "Oct 30, 2021 — I am using Django oscar(2.1.1), and I want do to query optimization on Django Oscars default Apps Views specially the catalogue view for ..."
+    },
+    {
+        "title": "Django (web framework) - Wikipedia",
+        "content": "Django is a Python-based free and open-source web framework that follows the ... \"Best Basic Security Practices (Especially with Django)\".Stable release: 3.2.7 / 1 September 2021; 3 m...Written in: PythonInitial release: 21 July 2005; 16 years agoOriginal author(s): Adrian Holovaty, ‎Simon Will...‎"
+    },
+    {
+        "title": "Wrights' Vets - x Facebook",
+        "content": "We couldn't resist another photo shoot with Django, especially on this flying visit . How adorable does he look in his winged harness? We are happy..."
+    },
+    {
+        "title": "Which projects can especially benefit from using Django?",
+        "content": "Are you planning to develop a new app or software for your company and wondering which framework would be the best for your project? Consider Django."
+    },
+    {
+        "title": "Smarter imports, especially for common Django modules",
+        "content": "Oct 4, 2021 — Smarter imports, especially for common Django modules. When I'm working on a Django project, and whenever I refer to an un-imported settings ..."
+    },
+    {
+        "title": "Throttling - Django REST framework",
+        "content": "... would be if you need to impose different constraints on different parts of the API, due to some services being particularly resource-intensive."
+    },
+    {
+        "title": "django-cms-mgmt/list of community heros.md at master - GitHub",
+        "content": "Contributors to the open source django CMS project · Python Developer · django, especially django-cms hosted with AWS, generally elastic beanstalk and Fargate ..."
+    },
+    {
+        "title": "The major benefits of Django for backend development - Incora",
+        "content": "Nov 3, 2021 — Django is considered a developer-friendly framework easy to pick up, especially for those developers who are comfortable with Python's ..."
+    },
+    {
+        "title": "Recent django CMS updates you shouldn't miss - Blog",
+        "content": "Nov 17, 2020 — What's new: django CMS installer 2.0, djangocms-blog 1.2.1 and svg ... the setup docs especially tailored for Django / django CMS newcomers."
+    },
+    {
+        "title": "Two Scoops of Django: Best Practices For Django 1.5 1st Edition",
+        "content": "This book contains best practices for Django and specifically version 1.5 and by that, this book delivers on its promises."
+    },
+    {
+        "title": "How to Securely Deploy Your Django Application to Heroku",
+        "content": "Nov 29, 2021 — It is important to prioritize security always when deploying your application, especially if your application retains client data."
+    },
+    {
+        "title": "Django Projects in PyCharm Community Edition - Automation ...",
+        "content": "Sep 14, 2017 — This guide focuses specifically on configuring PyCharm Community Edition for Django development. As such, readers should be familiar with ..."
+    },
+    {
+        "title": "Python and Django tutorial in Visual Studio Code",
+        "content": "Sep 7, 2018 — Python Django tutorial demonstrating IntelliSense, ... Serving static files in Django is something of an art, especially when deploying to ..."
+    },
+    {
+        "title": "Why You Should Build Apps With Django - DEV Community",
+        "content": "Oct 14, 2021 — I am gonna share with you why you should learn the python django framework, especially if you are just getting started in the programming ..."
+    },
+    {
+        "title": "Interacting with data in a generic view [21 of 24] - Channel 9",
+        "content": "Jul 15, 2021 — Providing ways to interact with data on the web can be a repetitive task, especially when creating or updating data. Django provides a ..."
+    },
+    {
+        "title": "Django Testing Tutorial | LearnDjango.com",
+        "content": "Sep 28, 2020 — Best practices for Django unit and integration tests for models, ... all tests when upgrading software packages, especially Django itself."
+    },
+    {
+        "title": "Django SQL Injection Guide: Examples andPrevention",
+        "content": "Mar 2, 2021 — Django is a Python web framework that supports rapid development. ... how to prevent such attacks, specifically using the Django framework."
+    },
+    {
+        "title": "Introduction to Web Development in Python and Django",
+        "content": "Oct 2, 2020 — Django. Back End Web Development. Server-side Frameworks ... due to the widespread accessibility of the web, especially for commerce."
+    },
+    {
+        "title": "Python Django Developer - Popcorn Consulting Pty Ltd - Pnet",
+        "content": "Nov 20, 2021 — Find a good job as Python Django Developer in Pretoria at the company Popcorn Consulting Pty Ltd. ... But Especially Python/ Django."
+    },
+    {
+        "title": "Django Developers (Technical support) - Nordhealth",
+        "content": "Experience in Python development, especially Django development; Experience of JavaScript, CSS, HTML5; Experience of MySQL/MariaDB databases ..."
+    },
+    {
+        "title": "Inspired by Django Reinhardt - ‎Apple Music",
+        "content": "But Reinhardt's influence has also reached more broadly into swing's history, especially when The Modern Jazz Quartet paid tribute to the elegance of his style ..."
+    },
+    {
+        "title": "Quick Django Refresher Crash Course - vsupalov.com",
+        "content": "That's especially the case when starting a new project. Usually, this means finding the right parts of the official tutorial and docs. A quick reminder is more ..."
+    },
+    {
+        "title": "Using JavaScript, JQuery, and JSON in Django - Coursera",
+        "content": "Loved the Bonus material for this, the last course on the Django specialization. This gesture was very appreciated, especially after so much work. Rating: 4.8 · ‎196 votes"
+    },
+    {
+        "title": "Overview — django-allauth 0.43.0 documentation",
+        "content": "Consumer keys, tokens make use of the Django sites framework. This is especially helpful for larger multi-domain projects, but also allows for easy ..."
+    },
+    {
+        "title": "Flexing the Network Device APIs Muscles with johann, Part 4",
+        "content": "Sep 26, 2021 — Django application johann with daphne; nginx web-server for serving and caching (especially for the static files); Celery worker which is ..."
+    },
+    {
+        "title": "Django Views — The Right Way - GitHub Pages",
+        "content": "Welcome to my opinionated guide on how to write views in Django! ... It's targeted at slightly more experienced developers, and especially those who are ..."
+    },
+    {
+        "title": "Best Basic Security Practices (Especially with Django)",
+        "content": "Jul 17, 2012 — Security is proportional. Most apps don't need two-factor auth—some certainly do—but there is a set of common attacks, easily mitigated, that ..."
+    },
+    {
+        "title": "django-cors-headers - PyPI",
+        "content": "django-cors-headers is a Django application for handling the server headers ... CorsMiddleware should be placed as high as possible, especially before any ..."
+    }
+]

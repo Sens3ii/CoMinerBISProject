@@ -1,0 +1,358 @@
+[
+    {
+        "title": "Python and Django tutorial in Visual Studio Code",
+        "content": "Django includes rich support for URL routing, page templates, and working with data. In this Django tutorial, you create a simple Django app with three pages that use a common base template. You create this app in the context of Visual Studio Code in order to understand how to work with Django in the VS Code terminal, editor, and debugger."
+    },
+    {
+        "title": "Django vs Laravel: Which Is the Better Framework in 2021?",
+        "content": "Oct 14, 2021 — The choice of a web framework like Django vs Laravel is one of the most crucial decisions in web development. It can make or break a project ...Performance: As Django is based on Python, it’s ...Ease of learning: Django is developer-friendly ...Type of web framework: Django is based on P...Security: Django is a more secure web framew...‎Django vs Laravel: What Are... · ‎Django vs Laravel: An In..."
+    },
+    {
+        "title": "Last lines in animated films",
+        "content": ""
+    },
+    {
+        "title": "Choose Your Own Pyventure",
+        "content": ""
+    },
+    {
+        "title": "Flask vs Django in 2021: Which Framework to Choose?",
+        "content": "Django vs Flask: Head to Head Comparison Well, you should have got the hang of it by now - while Django is a full-fledged framework with loads of functionalities already done for you, Flask leaves everything under your control."
+    },
+    {
+        "title": "Django vs. Flask in 2021: Which Framework to Choose",
+        "content": "Flask vs. Django: Choose Your Python Web Framework; Architecture Django Front-end Michael Herman. Michael is a software engineer and educator who lives and works in the Denver/Boulder area. He is the co-founder/author of Real Python. Besides development, he enjoys building financial models, tech writing, content marketing, and teaching."
+    },
+    {
+        "title": "Fictional last words in films",
+        "content": ""
+    },
+    {
+        "title": "Guitar/Printable version",
+        "content": ""
+    },
+    {
+        "title": "Learn Django tutorial in Visual Studio, step 1, Django ...",
+        "content": "Prerequisites. Visual Studio 2017 or later on Windows with the following options: The Python development workload (Workload tab in the installer). For instructions, see Install Python support in Visual Studio.; Git for Windows and GitHub Extension for Visual Studio on the Individual components tab under Code tools.; Django project templates are also included with all earlier versions of Python ..."
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Comparison of Flask Vs Django"
+    },
+    {
+        "title": "Flask Vs Django: Which One To Choose In 2022?"
+    },
+    {
+        "title": "Comparison of Flask Vs Django"
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Flask vs Django: Pirates use Flask, The Navy uses Django",
+        "content": "Flask vs Django: key differences. (Very) simply put, on the one hand, Django is a full-stack framework with many functionalities, tools, and features already included; while on the other hand, Flask is a lightweight framework with minimalistic features. This is not the only difference between both of them, but it is most likely the one with ..."
+    },
+    {
+        "title": "Lupin III",
+        "content": ""
+    },
+    {
+        "title": "Guitar/Print Version",
+        "content": ""
+    },
+    {
+        "title": "The Ultimate Visual Studio Code Setup For Django ...",
+        "content": "This tutorial will go through Installation and setup of the VS code for Python and Django projects on your machine. Installing Visual Studio Code Visual Studio Code is a free text editor so to download it you just have to visit their official site and download the file depending on your operating system."
+    },
+    {
+        "title": "Flask vs. Django: Which Framework Should You Choose?",
+        "content": "Django was created in 2003 by Web Developers Adrian Holovaty and Simon Willison. They began creating web applications using Python, and Django was born. Two years later, it was publicly released. Django is named after Django Reinhardt, a famous Belgian-Romani jazz guitarist of the early- and mid-20th Century."
+    },
+    {
+        "title": "Flask vs Django: What's the Difference Between ... - Guru99",
+        "content": "Nov 1, 2021 — Flask is a Python web framework built for rapid development whereas Django is built for easy and simple projects. Flask offers a diversified ..."
+    },
+    {
+        "title": "Express vs. Django: 10 Indicators to Choose the True ...",
+        "content": "Express vs. Django— Database support How good is the database support for Express? Being a minimalistic framework, Express does not come with database integration among its core features and does not promote using any particular database."
+    },
+    {
+        "title": "Django vs Flask vs Pyramid: Choosing a Python Web ... - AirPair",
+        "content": "2 About the Frameworks. Django's \"batteries included\" approach makes it easy for developers who know Python already to dive in to web applications quickly ..."
+    },
+    {
+        "title": "Writing your first Django app, part 1",
+        "content": "Projects vs. apps. What's the difference between a project and an app? An app is a Web application that does something – e.g., a Weblog system, ..."
+    },
+    {
+        "title": "Django vs Node.js: Which One is Better For Web Development?",
+        "content": "Django is a Python-based open-source web framework that intends to follow the Model-Template-View (MVC) architectural model. The Django web framework aids in supplying ready-to-implement solutions which allow its developers to concentrate on UI and UX of the app, and not worry about its backend technology."
+    },
+    {
+        "title": "Django vs Rails- Which Is The Best Framework For 2021",
+        "content": "In Django vs Rails, Python for Django sticks to the proven methods of solving complex problems and uses a conventional approach to provide stability. Whereas ruby can handle both creativity and stability by approaches like COC and let the developers reuse the already existing code to reduce the extra efforts and minimize dependencies."
+    },
+    {
+        "title": "python - Django or Django Rest Framework - Stack Overflow",
+        "content": "Django Rest Framework makes it easy to use your Django Server as an REST API. REST stands for \" re presentational s tate t ransfer\" and API stands for a pplication p rogramming i nterface. You can build a restful api using regular Django, but it will be very tidious. DRF makes everything easy."
+    },
+    {
+        "title": "Differences Between Django vs Flask - GeeksforGeeks",
+        "content": "Django. Django is commonly called a \"batteries-included\" system approach—or the \"framework for fussbudgets with deadlines.\" This implies that Django makes it simple for Python designers to jump into web applications rapidly without requiring planning into the app's framework ahead of time."
+    },
+    {
+        "title": "Node.js vs. Django: Which one should you choose and why?",
+        "content": "The Django Template Language (DTL) bridges the gap between CSS, HTML, and Python. The popularity of Django is because of how fast it makes the entire development process by reducing repetitive actions and leveraging the existing code whenever required. Node.js vs Django: Popularity. Node.js is definitely more popular than Django."
+    },
+    {
+        "title": "Flask vs Django for ML web app",
+        "content": "Hi all! As a MSc student Data Science I'd like to be able to develop web applications for my models. I've read that both Flask and Django are suitable frameworks. Which of the two would you recommend learning? I have got basic knowledge of html/css if that matters. Thanks!"
+    },
+    {
+        "title": "Django Vs Laravel: Which framework to choose?",
+        "content": "Django vs Laravel Comparison. Let's compare Django Vs Laravel on various parameters: 1. Code. Let's take a look at some basic routing code written in both languages. At the first glance, you can notice that Laravel's code is quite intuitive. Django's code, on the other hand, seems rather complex, that's because it uses regular ..."
+    },
+    {
+        "title": "Mern vs Django",
+        "content": "I am learning Django for some time and created many good level projects in it too.. but every one is taking about mern stack , nose.js it’s faster than python more job opportunities in mern and most companies use it.. will I be able to get a job with Django and can it compete with node.js? Should I change and start learning node?"
+    },
+    {
+        "title": "Compare Django vs Fast API | CodeAhoy",
+        "content": "Django is Python web framework that encourages rapid development. It is based model-template-view (MTV) design pattern. It follows a \"batteries included\" philosophy and ships with many tools that are needed by application developers such as ORM framework, admin panel, directory structure and more. Fast API is a high-performance web framework ..."
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "Flask vs Django"
+    },
+    {
+        "title": "WordPress vs Django?",
+        "content": "What's the difference between the two?? Is Django for advanced users only or does it have an entirely different purpose? I literally have 0 idea of what Django is"
+    },
+    {
+        "title": "Spring Boot VS Django: What's the difference in 2021?",
+        "content": "Comparison between Spring Boot vs Django. We can see the fundamental concepts of both frameworks and how they help in the blog. Now, let's go through the main distinctions that a newbie should be aware of before attempting to use the SB framework. Choosing the proper framework between Spring Boot and Django may be a bit puzzling."
+    },
+    {
+        "title": "Flask vs Django",
+        "content": ""
+    },
+    {
+        "title": "Django vs Ruby on Rails: Which Web Framework is Best in ...",
+        "content": "Django vs. Ruby on Rails Comparison. Piotr Małek. 21 July, 2021. When it comes to Object-Oriented Programming (OOP), two languages stand out from the pack in terms of maturity, community and worldwide use, namely Ruby and Python. And since a large portion of programming languages are used in conjunction with web development, we have to discuss ..."
+    },
+    {
+        "title": "Flask Vs Django: Which One To Choose In 2022?",
+        "content": ""
+    },
+    {
+        "title": "Ruby on Rails vs. Django: The Backend Framework Comparison",
+        "content": ""
+    },
+    {
+        "title": "Flask vs Django: Top 10 Differences You Should Know",
+        "content": "Django vs Flask is the most talked-about of the numerous popular options, and for good reason: they are similar in some ways and different in others! This leads to a comparison of the two, and while each of these web development frameworks has its own set of characteristics, there are a number of things to consider before selecting one for your ..."
+    },
+    {
+        "title": "PHP vs Node.js vs flask vs django",
+        "content": "I wanted to start learning backend and wanted to know which one of these is good for me. Also, pls make your suggestions keeping in mind that i know a fair bit of python and js."
+    },
+    {
+        "title": "Spring vs Django: Know the Difference Between the Two",
+        "content": "It is worth noting that while we are doing the Spring vs Django comparison, the right comparison would actually be Django vs Spring Boot. Spring provides a very loosely coupled set of components and leaves everything to the developer and requires the developer to do a lot of configuration to build even a small web application."
+    },
+    {
+        "title": "Node.js vs Django vs Laravel for Web app",
+        "content": "HI all, I need your input, those who know all 3 well please shed some light. Needs; it's a web app that will interact with numerous Public APIs. The app will also provide its own REST API to make customizations. What would you choose to code it on and why?"
+    },
+    {
+        "title": "NodeJs Vs. Django: The Ultimate Web Applications Framework ...",
+        "content": "In the web development field, Django is a sought-after skill in the job market. Python is a great language for web application development. There are many online courses on Python and Django framework for web development. Now, we know what Node Js and Django are. Moving forward, let's have a look at Node Js Vs. Django in detail. Node Js Vs ..."
+    },
+    {
+        "title": "Flask vs Django",
+        "content": "[https://statanalytica.com/blog/flask-vs-django/](https://statanalytica.com/blog/flask-vs-django/)"
+    },
+    {
+        "title": "Ruby On Rails vs Django: 11 Key Differences You Must Know",
+        "content": "This Django vs Ruby on Rails blog closely compares the functionalities and features of both popular frameworks. In conclusion, although no framework is superior, you can choose the framework which is better suited to your project requirements. Still, confused between Rails vs Django? Schedule a free consultation with our IT experts."
+    },
+    {
+        "title": "Flask vs Django",
+        "content": ""
+    },
+    {
+        "title": "Flask Vs Django: Which Python Framework to Choose ...",
+        "content": "Django vs Flask: one is an open-source framework for rapid development while the latter is a light-end framework for standard functionalities. After reading and understanding the in-depth detail about both of the web frameworks, one must easily conclude that both have their functionalities."
+    },
+    {
+        "title": "Flask vs Django",
+        "content": ""
+    },
+    {
+        "title": "Flask vs Django | Which Framework To Choose For Development?",
+        "content": "Undoubtedly in Flask vs Django performance and administration features, Django wins the race with flying colors. Django: 4 Flask: 1. 5. Routing & Views in Flask vs Django. Want to know which one is best, Django or Flask in routing? Read below … When a request matches the URL, the request object is a password to view, and that view is invoked."
+    },
+    {
+        "title": "Flask vs Django",
+        "content": ""
+    },
+    {
+        "title": "Django vs Flask- What Are The Most Crucial Differences?",
+        "content": "Django vs Flask Popularity. Below is the graph of Google search trends for the terms Django and Flask. As clearly depicted, Django is more popular than Flask over the google search of 2016-2021. So, if we consider Django vs Flask in terms of popularity, Django is the clear winner. Django vs Flask: Head To Head Comparisons"
+    },
+    {
+        "title": "Flask vs Django",
+        "content": ""
+    },
+    {
+        "title": "Golang vs Django? Which to learn? : webdev",
+        "content": "Golang vs Django? Which to learn? Question. In truth, I actually did do a 2 month internship doing full stack web dev in golang and really enjoyed it, but that was back in 2016 and I haven't used it since. I have also used python throughout the 7-8 years I've been coding."
+    },
+    {
+        "title": "The Best Framework for Python - Flask vs Django | Codete Blog",
+        "content": "Flask vs Django - the definitions What is Django? \"The Web Framework for perfectionists with deadlines\" - Django's tagline. Django is a high-level Python web framework for developing complex database-driven websites and high-quality APIs."
+    },
+    {
+        "title": "Flask Vs Django in 2022: Which One To Choose? - InvoZone",
+        "content": "The comparison between Flask vs Django is an important one as these are the two of the most popular Python frameworks according to the Python Developers Survey 2020 by JetBrains. This article will help you get a better understanding of the two and make an informed decision."
+    },
+    {
+        "title": "Flask vs Django: Which Framework is Better for beginners",
+        "content": "Flask Vs Django Flask vs Django: Which one to learn? Flask is a good framework for learning web development fundamentals because it is lightweight, requires less programming, and is an excellent framework for learning web development fundamentals. Furthermore, this framework includes most of the features found in other frameworks and allows the ..."
+    },
+    {
+        "title": "Writing your first Django app, part 3",
+        "content": "A view is a “type” of Web page in your Django application that generally serves a specific function and has a specific template."
+    },
+    {
+        "title": "Model field reference | Django documentation",
+        "content": "For more information about the differences between the FloatField and DecimalField classes, please see FloatField vs. DecimalField."
+    },
+    {
+        "title": "Coding style | Django documentation",
+        "content": "Please follow these coding standards when writing code for inclusion in Django. Pre-commit checks¶. pre-commit is a framework for managing pre-commit hooks."
+    },
+    {
+        "title": "Model instance reference | Django documentation",
+        "content": "How Django knows to UPDATE vs. INSERT¶. You may have noticed Django database objects use the same save() method for creating and changing objects. Django ..."
+    },
+    {
+        "title": "Database Functions | Django documentation",
+        "content": "Get a screen name from least to most public >>> from django.db.models import Sum, Value as V >>> from django.db.models.functions import Coalesce ..."
+    },
+    {
+        "title": "Sending email | Django documentation",
+        "content": "send_mass_mail() vs. send_mail() — The return value will be the number of successfully delivered messages. send_mass_mail() vs. send_mail() ¶. The main ..."
+    },
+    {
+        "title": "Middleware | Django documentation",
+        "content": "Middleware is a framework of hooks into Django's request/response processing. It's a light, low-level “plugin” system for globally altering Django's input ..."
+    },
+    {
+        "title": "Learn Django tutorial in Visual Studio, step 1, Django basics",
+        "content": "Oct 12, 2021 — This tutorial shows the use of GitHub, where the completed sample code for the tutorial is maintained in the Microsoft/python-sample-vs-learning ..."
+    },
+    {
+        "title": "Django vs Flask vs FastAPI - A Comparative Guide to Python ...",
+        "content": "Sep 25, 2021 — Django vs Flask vs FastAPI – A Comparative Guide to Python Web Frameworks. 25/09/2021 ..."
+    },
+    {
+        "title": "Django vs Express: 2 Best Web Frameworks Compared in 2021",
+        "content": "Nov 16, 2021 — Django vs Express - read more to find 11 key differences between these 2 web development frameworks and the best one to pick for your next ..."
+    },
+    {
+        "title": "Flask vs Django: How to Understand Whether You Need a ...",
+        "content": "Oct 4, 2019 — Django is a free and open-source Python web development framework that follows the Model–Template–View (MTV) pattern. It was created in the fall ..."
+    },
+    {
+        "title": "Django vs. Flask: Which Python Framework To Choose in 2021?",
+        "content": "Django vs. Flask compares two Python frameworks that can help you jumpstart your next web development project!"
+    },
+    {
+        "title": "Django vs Node.js: When to Choose Which Framework",
+        "content": "Oct 5, 2021 — Node.js vs Django - they are both simply excellent frameworks so the best way to decide which is better for your software development ..."
+    },
+    {
+        "title": "Flask vs Django: choosing Python Framework - Merixstudio",
+        "content": "Nov 24, 2021 — Flask vs Django: choosing Python framework (Update). Having carefully examined all project-related factors like the type of web app you're ..."
+    },
+    {
+        "title": "Django vs Node.js: Which One Is Better For Web Development?",
+        "content": "Oct 1, 2021 — Django vs Node.js: Which One Is Better For Web Development? In this blog, we will take you through the definition of the frameworks, the key ..."
+    },
+    {
+        "title": "The Back-end battle in 2021— Ruby on Rails v/s Django",
+        "content": "May 7, 2021 — Django vs Ruby on Rails (RoR): Find out which framework is best in 2021 based on key statistics, companies using RoR and Django, relevancy, ..."
+    },
+    {
+        "title": "Django vs PyCharm | What are the differences? - StackShare",
+        "content": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. What is PyCharm? The Most Intelligent Python IDE."
+    },
+    {
+        "title": "django CMS vs WordPress - Blog",
+        "content": "Jun 10, 2021 — django CMS vs WordPress is a dilemma many developers face when they are planning to develop a website. Yes it's true, the choice of tool for ..."
+    },
+    {
+        "title": "Express vs. Django: 10 Indicators to Choose the True ...",
+        "content": "May 11, 2021 — Thinking about picking the right backend technology for your applications? Then here are nine differentials of Express vs. Django to ..."
+    },
+    {
+        "title": "Django vs. Pylons - Stack Overflow",
+        "content": "Aug 28, 2009 · 4 answersI'm using Pylons right now. The flexibility is great. It's all about best-of-breed rather than The Django Way. It's more oriented toward ..."
+    },
+    {
+        "title": "Flask vs. Django: Which Python Framework Is Better for Your ...",
+        "content": "Django and Flask are the 2 most popular Python web frameworks. Read our comparison and learn how to choose the right one for your web development project."
+    },
+    {
+        "title": "Django VS Visual Studio - Framework Technologies Market ...",
+        "content": "A comparison between Django and Visual Studio, including market share analysis. Django is leading in more websites categories, including Science & Education ..."
+    },
+    {
+        "title": "Compare Django vs CherryPy | CodeAhoy",
+        "content": "Compare popular Python web frameworks Django and CherryPy. Explore their differences, similarities and how to choose between them."
+    },
+    {
+        "title": "Django vs Flask: Picking the Right Python Web Framework",
+        "content": "Apr 12, 2021 — Django vs Flask - both are extremely popular Python web frameworks. But which is the better choice for your project? We explore the pros and ..."
+    },
+    {
+        "title": "Node.js vs Django | Engineering Education (EngEd) Program",
+        "content": "Jan 24, 2021 — Node.js and Django are technologies used in building versatile web and mobile applications. This article will analyze these two popular ..."
+    },
+    {
+        "title": "AdonisJs vs. Django: Which web framework should you use?",
+        "content": "Mar 9, 2021 — Trying to decide the web framework for your next project? This article provides an overview of both the AdonisJS and Django web frameworks."
+    },
+    {
+        "title": "Pro-Tip: Django ORM vs SQLAlchemy in 2021 | EBS Integrator",
+        "content": "Mar 8, 2021 — In this post we hope to explore the world of ORMs (particularely Django ORM vs SQL Alchemy) with our Python specialist and get his opinion ..."
+    },
+    {
+        "title": "Vue.js vs. Django - Linux Hint",
+        "content": "Dec 3, 2020 — Vue.js vs. Django ... When you are required to choose a library or framework for building web applications, there is no question that JavaScript ..."
+    },
+    {
+        "title": "Flask vs Django: choosing Python Framework - Merixstudio",
+        "content": "Nov 24, 2021 — Flask vs Django: choosing Python framework (Update). Having carefully examined all project-related factors like the type of web app you're ..."
+    }
+]

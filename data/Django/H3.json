@@ -1,0 +1,399 @@
+[
+    {
+        "title": "django.urls functions for use in URLconfs",
+        "content": "The view argument is a view function or the result of as_view () for class-based views. It can also be an django.urls.include (). The kwargs argument allows you to pass additional arguments to the view function or method. See Passing extra options to view functions for an example. See Naming URL patterns for why the name argument is useful."
+    },
+    {
+        "title": "Mega Man Battle Network/BattleChips",
+        "content": ""
+    },
+    {
+        "title": "Joanna MacGregor",
+        "content": ""
+    },
+    {
+        "title": "batteries-included",
+        "content": ""
+    },
+    {
+        "title": "A Programmable Web/Chapter 2",
+        "content": ""
+    },
+    {
+        "title": "include - Django Template Tags - GeeksforGeeks",
+        "content": "include - Django Template Tags. A Django template is a text document or a Python string marked-up using the Django template language. Django being a powerful Batteries included framework provides convenience to rendering data in a template. Django templates not only allow passing data from view to template, but also provides some limited ..."
+    },
+    {
+        "title": "Guitar/Jazz",
+        "content": ""
+    },
+    {
+        "title": "Built-in template tags and filters | Django documentation",
+        "content": "include — The block is closed with an endautoescape ending tag. When auto-escaping is in effect, all variable content has HTML escaping applied to it before ...‎Built-in tag reference · ‎include · ‎with · ‎Built-in filter reference"
+    },
+    {
+        "title": "django include Code Example",
+        "content": "Level up your programming skills with exercises across 52 languages, and insightful discussion with our dedicated team of welcoming mentors."
+    },
+    {
+        "title": "The complete Python course including Django web framework! free download and direct download available - ftuforums.com"
+    },
+    {
+        "title": "The complete Python course including Django web framework! - ftuforums.com"
+    },
+    {
+        "title": "Utilizing Best Buys Upgrade and Save. All for a total of $35 (not including Django)"
+    },
+    {
+        "title": "Python (including Django) on Heroku"
+    },
+    {
+        "title": "A New Try Django Tutorial called \"Launch with Code\" is out on YouTube. Topics include Django (1.6), Python (2.7), Bootstrap (3.2), tracking IP addresses, capturing emails, social sharing, jQuery, and launching on Heroku.com (free hosting tier; no affiliation). Live: http://launchwithcode.com"
+    },
+    {
+        "title": "\"Indie Unique\" a playlist that includes Django Django amongst many other weird/beautiful/magical musicians"
+    },
+    {
+        "title": "Why we choose FastAPI over Flask for building ML applications"
+    },
+    {
+        "title": "Guitar/Playing What You Hear",
+        "content": ""
+    },
+    {
+        "title": "URL dispatcher | Django documentation",
+        "content": "URL namespaces and included URLconfs — It includes a number of other URLconfs: from django.urls import include, path urlpatterns = ...‎How Django processes a... · ‎Using regular expressions · ‎Including other URLconfs"
+    },
+    {
+        "title": "django.urls include Example Code - Full Stack Python",
+        "content": "include is a callable within the django.urls module of the Django project. Example 1 from dccnsys. dccnsys is a conference registration system built with Django.The code is open source under the MIT license. dccnsys / wwwdccn / wwwdccn / urls.py"
+    },
+    {
+        "title": "Choose Your Own Pyventure",
+        "content": ""
+    },
+    {
+        "title": "Getting started with Django",
+        "content": "Django provides a powerful form library that handles rendering forms as HTML, validating user-submitted data, and converting that data to native Python types."
+    },
+    {
+        "title": "The complete Python course including Django web framework ...",
+        "content": "The complete Python course including Django web framework! Learn how to write Python and Django even if you've never written code before. Rating: 4.3 out of 5. 4.3 (41 ratings) 228 students. Created by Kalob Taulien. Last updated 1/2021. English. English [Auto]"
+    },
+    {
+        "title": "Mega Man Battle Network/Printable version",
+        "content": ""
+    },
+    {
+        "title": "Coding style | Django documentation",
+        "content": "Review the changes and re-stage for commit if you are happy with them. Python style¶. Please conform to the indentation style dictated in the .editorconfig ..."
+    },
+    {
+        "title": "python - In Django, how can I understand include ...",
+        "content": "From django document, include() function was described as follows. Whenever Django encounters include(), it chops off whatever part of the URL matched up to that point and sends the remaining string to the included URLconf for further processing. I'm not sure what is that point, what is remaining string."
+    },
+    {
+        "title": "contrib packages | Django documentation",
+        "content": "This code lives in django/contrib in the Django distribution. This document gives a rundown of the packages in contrib , along with any dependencies those ..."
+    },
+    {
+        "title": "Django Tutorial => Use of {% extends %} , {% include ...",
+        "content": "Learn Django - Use of {% extends %} , {% include %} and {% blocks %} Example summary {% extends %}: this declares the template given as an argument as the current template's parent.Usage: {% extends 'parent_template.html' %}. {% block %}{% endblock %}: This is used to define sections in your templates, so that if another template extends this one, it'll be able to replace whatever html code ..."
+    },
+    {
+        "title": "Writing your first Django app, part 1",
+        "content": "You've started the Django development server, a lightweight Web server written purely in Python. We've included this with Django so you can develop things ..."
+    },
+    {
+        "title": "How to use the Extends and Include Django Template Tags",
+        "content": "When to use Django extends vs. Django include. Choosing whether to extend or include a template comes down to the purpose of the file. In general, extend a file to use its code as a base for multiple templates and include a file to load a single section of code within the context of another template. This may seem confusing at first but learning how to extend a template in Django and include a ..."
+    },
+    {
+        "title": "Writing your first Django app, part 1",
+        "content": "Playing with the API — It's a normal Python module with module-level variables representing Django settings. By default, the configuration uses SQLite. If ..."
+    },
+    {
+        "title": "Installing Python and its Modules (including Django) on Isolated Systems",
+        "content": "Hi all, I am working in an environment where our data center systems are not permitted access to the Internet. So, my DEV server (both the Linuxen and the Windows server machines) are not permitted to access Internet Sites. The challenge is how to install (and maintain) Python, its modules and Django on these systems. I know I can't be the only one with this challenge and I am sure I'm missing a solution that someone else has already found for this problem. I'd appreciate some guidance from f..."
+    },
+    {
+        "title": "The complete Python course including Django web framework ...",
+        "content": "Django; Class based views in Django; The complete Python course including Django web framework Course Requirements. Must have a computer and keyboard (sorry, no phone keyboards allowed) Must be willing to ACTUALLY learn. This course is GEARED towards learning and has a task for you to do at the end of almost every lesson."
+    },
+    {
+        "title": "Working with forms | Django documentation",
+        "content": "Django's login form is returned using the POST method, in which the browser bundles up the form data, encodes it for transmission, sends it to the server, and ..."
+    },
+    {
+        "title": "How to include Django's default password validators during User Registration in Django Rest Framework?",
+        "content": "I want to start by saying I am fairly new to Django Rest Framework. I have a fully functioning users app built in Django which has user registration, login, logout, password change and password reset all working well. I am trying to replicate these to have their own REST API endpoints using DRF. I have created a custom user model as shown below. I have written a serializer to handle user registration as shown below. Everything works fine except that the default password validators which are in-..."
+    },
+    {
+        "title": "Writing your first Django app, part 3",
+        "content": "Django will choose the first template it finds whose name matches, and if you had a template with the same name in a different application, Django would be ..."
+    },
+    {
+        "title": "Avoiding including Django docstrings when generating Sphinx docs",
+        "content": "I'm trying to create Sphinx docs for my Django project from my docstrings, but I'm having trouble getting the relevant docs. E.g. if I have an app `articles` and inside of it a `models.py`, this is my `articles.rst`: articles\\.models module ---------------------------- .. automodule:: articles.models :members: :undoc-members: :show-inheritance: then when looking at the articles.models module in the documentation it pulls in docstrings from Django, ..."
+    },
+    {
+        "title": "Django introduction - Learn web development | MDN",
+        "content": "Django uses these definitions, including the field names, to create the underlying database. Querying data (views.py) The Django model provides a simple query API for searching the associated database. This can match against a number of fields at a time using different criteria (e.g. exact, case-insensitive, greater than, etc.), and can support ..."
+    },
+    {
+        "title": "Way to include Django ModelForm in a JavaScript?",
+        "content": "I need to include a Django ModelForm in a dynamically created element in JavaScript. class PostForm(ModelForm): class Meta: model = Post fields = ['body'] widgets = { 'body': forms.Textarea(attrs={'placeholder':'Compose your post here...', 'rows':3}) } I want to include the above form inside of the `container` div let container = document.createElement('div'); container.innnerHTML = \"<div></div> ..."
+    },
+    {
+        "title": "Django Tutorial - GeeksforGeeks",
+        "content": "Django is a Python-based web framework that allows you to quickly create efficient web applications. It is also called batteries included framework because Django provides built-in features for everything including Django Admin Interface, default database - SQLlite3, etc."
+    },
+    {
+        "title": "Application server performance testing, includes Django, ErlyWeb, Rails and others",
+        "content": ""
+    },
+    {
+        "title": "What is Django (Python)? | LearnDjango.com",
+        "content": "Django is an open-source web framework written in the Python programming language. Named after the jazz guitarist Django Reinhardt, it is used by some of the largest websites in the world including Instagram, Mozilla, and NASA, but also lightweight enough to be a popular choice for weekend side projects and startups."
+    },
+    {
+        "title": "Virtual Django Meetup (including a talk by the author of django-cors)",
+        "content": "I know I posted about this awhile back but we ended up postponing it. Here's the final time I'll post about it. It is happening next week on Tuesday - all details here: https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/273692748/ Here's the complete list of speakers and talks: (1) Data-Driven Development using Feature Flags Often, while deliberating on a range of options for a new feature in an application, organizations tend to go towards options that offer better results i..."
+    },
+    {
+        "title": "6 Python Packages you should be using in every Django Web App",
+        "content": "This package is actually a smaller version of the Django application django-tinymce4 that contains a widget to render Django form fields as TinyMCE editors. TinyMCE is a WYSIWYG (\"what you see is what you get\") text editor that converts HTML elements into editor instances or \"plain text\"."
+    },
+    {
+        "title": "Who was Halyna Hutchins? What happened on set that led to her death? Who, if anybody, should be held responsible?",
+        "content": "(The following [is a post I wrote](https://stanleynolan.substack.com/p/the-death-of-halyna-hutchins?r=7d2b&utm_campaign=post&utm_medium=web&utm_source=copy) trying to put Halyna's death into context with as much detail as possible. I start with a brief overview of Halyna's biography, which is sadly missing from almost all of the coverage.) Halyna Hutchins was born in Ukraine but grew up on the Soviet military base at Murmansk, Russia because her father was in the Soviet Navy. While ..."
+    },
+    {
+        "title": "The complete Python course including Django web framework!",
+        "content": "The complete Python course including Django web framework! February 16, 2021 February 16, 2021. Description. Learn how to program with Python. Learn how to make Python-based websites with Django. Who uses Python? Just about everybody. Python is the 3rd most popular programming language in the world. It's SIGNIFICANTLY more popular than ..."
+    },
+    {
+        "title": "'module' object is not callable",
+        "content": "My server is running fine and the front-end search bar is showing. The program is a search bar to display graphs from data from a database. I have been able to link the database and I could retrieve data using search bar. I am getting errors while including django-plotly-dash graphs. I am trying to put a test graph but am not able to do it. views.py- from django.shortcuts import render from .models import samplelogdata import plotly.offline as plot import plotly.graph_objects ..."
+    },
+    {
+        "title": "What is Django | IBM",
+        "content": "The Django application produces that dynamic HTML with a built-in templating engine called the Django template language (DTL). An HTML template allows Django developers to combine static elements (including design elements such as colors, logos, or text) with data (such as user names or locations) to create a new web page on the fly."
+    },
+    {
+        "title": "Knowledge of multiple languages",
+        "content": "Greetings, I was surfing through the 2021 resume thread resumes and I found a LOT of you guys have 5+ languages listed in your technical skills section. Is it necessary to be able to code in so many languages, if so, to what level? I decided to centre all my work around python (including Django, pygame, etc,) is that a bad idea? &#x200B; Thanks!"
+    },
+    {
+        "title": "Django URL | How to Create a Django URL with Examples",
+        "content": "At last, it needs to be ensured that the urls.py file from the Django application is included as an item to the urlpatterns tuple. Making this include will automatically import all the urls from that corresponding application. from django.contrib import admin from django.conf.urls import url,include from Django_app1 import views admin ..."
+    },
+    {
+        "title": "“In other words Marshall, you owe me 200 dollars”",
+        "content": "gotta be top 10 favorite tarantino quotes for me. including djangos face in amaze of it all."
+    },
+    {
+        "title": "Django documentation | Django documentation | Django",
+        "content": "Django has a lot of documentation. A high-level overview of how it's organized will help you know where to look for certain things: Tutorials take you by the hand through a series of steps to create a Web application. Start here if you're new to Django or Web application development. Also look at the \" First steps \"."
+    },
+    {
+        "title": "Predictions for live action netflix version (shitpost)",
+        "content": "\\- The opening will begin on Loguetown with the Strawhats running away from Smoker and Buggy while chaos is happening all around them. Then a freeze frame during a closeup on Luffy and we'll hear him in monologue say: \"yep, that's me - you probably wonder how I got here. It all started when...\" so and so. Then a quick summary of Luffy's backstory with Shanks and it'll all be done with freeze frames in live action that simulates the manga panels. \\- Luffy is changed to be a Tom Holland-esque dwe..."
+    },
+    {
+        "title": "第26天，Django之include本质 - 简书",
+        "content": "第26天，Django之include本质 目录 一、 URL name详解 向视图传递额外的参数 利用reverse函数反向生成URL 对有参数的url设置name 二、include路由转发 传递额外的参数给include() 三、URL命名空间 四、include()本质"
+    },
+    {
+        "title": "help needed! very basic problem",
+        "content": "I am following coreys schafer django tut , I am stuck Using the URLconf defined in django_project3.urls, Django tried these URL patterns, in this order: admin/ django_app [name='Blog_home'] django_app about/ [name='Blog_about'] The current path, django_app/, didn’t match any of these. this is the error, i only get when i try to acess django\\_app/about . but not when i access django\\_app/ why? heres the code [urls.py](https://urls.py) from project from django.co..."
+    },
+    {
+        "title": "Sky reveals 2022 TV and film line-up including Westworld ...",
+        "content": "Django - Sky Atlantic. Credit: Sky. A high concept retelling o the classic Western Django. Haunted by the murder of his family eight years earlier, Django is still looking for his daughter Sarah, believing she may have survived the killing. He is shocked to find her in New Babylon, a city of outcasts."
+    },
+    {
+        "title": "Newbie Question on Ethereum Development having only Python Experience",
+        "content": "Hello everyone, I am interested in becoming an Ethereum Blockchain Developer. I searched different job postings and Reddit posts. I have experience in Python programming language including Django and API development but I don't know Javascript or any of its frameworks. Is it possible to become an Ethereum developer with only the knowledge of Solidity and Python? I know for frontend, React is very popular in the crypto space but can I get a job with two languages i.e. Solidity and P..."
+    },
+    {
+        "title": "django.urls.path Example Code - Full Stack Python",
+        "content": "The path function is contained with the django.urls module within the Django project code base. path is used for routing URLs to the appropriate view functions within a Django application using the URL dispatcher. Example 1 from dccnsys. dccnsys is a conference registration system built with Django. The code is open source under the MIT license."
+    },
+    {
+        "title": "help!! path not found problem",
+        "content": "I am following coreys schafer django tut , I am stuck Using the URLconf defined in django_project3.urls, Django tried these URL patterns, in this order: admin/ django_app [name='Blog_home'] django_app about/ [name='Blog_about'] The current path, django_app/, didn’t match any of these. this is the error, i only get when i try to acess django\\_app/about . but not when i access django\\_app/ why? heres the code [urls.py](https://urls.py) from project from django.co..."
+    },
+    {
+        "title": "14 - HOW TO INCLUDE NAVBAR IN DJANGO - Arbcoms.com",
+        "content": "14 - HOW TO INCLUDE NAVBAR IN DJANGO. 1. Remove or just cut the navbar from all the pages. Usually from  to . 2. Create a new html page, name it navbar.html then paste in the content of navbar content cut above. 3."
+    },
+    {
+        "title": "What is the future of Django? Are we becoming obsolete?",
+        "content": "My original wording for this post may have been a bit stronger than intended - Apologies :) I have worked with multiple backend frameworks including Django, .NET Core, Node.js + Express, Koa, and Flask. Django is BY FAR my favorite backend framework. I’m not trying to attack the framework or the community of hard working individuals who’ve built and maintained it. However, I do think that the framework is starting to show its age, and that as Python developers, we should think seriously about w..."
+    },
+    {
+        "title": "Django Tutorial Part 2: Creating a skeleton website ...",
+        "content": "Django Tutorial Part 2: Creating a skeleton website. This second article in our Django Tutorial shows how you can create a \"skeleton\" website project as a basis, which you can then populate with site-specific settings, paths, models, views, and templates. Set up a Django development environment. Review the Django Tutorial."
+    },
+    {
+        "title": "The register page on my website is not rendering",
+        "content": "I am building a website in Django with a register page when I click on the button for the register page to render nothing happens. I am asking if anyone can help me with this error see my code below **The register view** from django.shortcuts import render, redirect from django.contrib.auth import login from django.contrib.auth.forms import UserCreationForm # Create your views here. def register(request): \"\"\"register a new user.\"\"\" ..."
+    },
+    {
+        "title": "True Colours Venice Slate Includes 'Django and Django ...",
+        "content": "\"Django and Django: Sergio Corbucci Unchained\" is a portrait of Corbucci, who besides cult 1966 Western \"Django\" with Franco Nero made several others including \"The Great Silence ..."
+    },
+    {
+        "title": "Seeking practice partner for coding projects focused in javascript",
+        "content": "I am in the Central American time zone and prefer to work with anyone within the US. I have been working as a \"full stack developer\" in title for about 1.5 years but have been supporting developers for 8 years. I am really wanting to dive in and improve my skills. I would like to focus my efforts Javascript, specifically express and react but also just improving general node coding skills. I am not really sure how to describe my level which is also part of the reason I am seeking someone to ..."
+    },
+    {
+        "title": "Get Started With Django Part 2: Django User Management ...",
+        "content": "The first backend on the list is the default one used by Django. If you don't include it here, then Django won't be able to log in standard users. The second backend is used for GitHub logins. The last thing to do is to add a link to the GitHub login on your login page:"
+    },
+    {
+        "title": "Docker & Selenium WebDriverException: Message: Process unexpectedly closed with status 11",
+        "content": "I am trying to run my selenium E2E tests in docker, but I am receiveing this error and I cant figure out why. I'm using Python (Django) as my backend. I'm on a new Mac as my old one (where I began the project) died. I git cloned the repo, so maybe there is something missing that was inside of .gitignore that I'm overlooking. The tests worked fine on my old Mac, but after cloning I can't get them to work. Dockerfile: FROM nikolaik/python-nodejs:latest ENV PYTHONDONTWRITEBYTECODE 1 ..."
+    },
+    {
+        "title": "Django Static Files Handling - javatpoint",
+        "content": "Django Static (CSS, JavaScript, images) Configuration. 1. Include the django.contrib.staticfiles in INSTALLED_APPS. 2. Define STATIC_URL in settings.py file as given below. 3. Load static files in the templates by using the below expression. 4. Store all images, JavaScript, CSS files in a static folder of the application."
+    },
+    {
+        "title": "django-decorator-include · PyPI",
+        "content": "decorator_include is intended for use in URL confs as a replacement for the django.conf.urls.include function. It works in almost the same way as include however the first argument should be either a decorator or an iterable of decorators to apply to all included views (if an iterable, the order of the decorators is the order in which the ..."
+    },
+    {
+        "title": "Python & Django Framework Course: The Complete Guide | Udemy",
+        "content": "In this \"Complete Guide: Python & Django Framework\" course, you will learn Python v3 the latest Python version.Including to that you will also learn Django 3 Framework, Latest full stack web development framework.. In the Python section you will learn everything from Basics to most important and fundamentals of Python Programming with practical examples."
+    },
+    {
+        "title": "django-include-by-ajax · PyPI",
+        "content": "A Django App Providing the {% include_by_ajax %} Template Tag The Problem. Start pages usually show data aggregated from different sections. To render a start page might take some time if the relations and filters are complex or if there are a lot of images."
+    },
+    {
+        "title": "Guitar/Printable version",
+        "content": ""
+    },
+    {
+        "title": "Integrating Django with a legacy database",
+        "content": "While Django is best suited for developing new applications, it's quite possible to integrate it into legacy databases. Django includes a couple of utilities to ..."
+    },
+    {
+        "title": "Guitar/Print Version",
+        "content": ""
+    },
+    {
+        "title": "Writing your first Django app, part 6",
+        "content": "css , similar to how you reference the path for templates. Static file namespacing. Just like templates, we might be able to get away with putting our static ..."
+    },
+    {
+        "title": "Query Expressions | Django documentation",
+        "content": "Using F() with annotations — stories_filed , Python never gets to know about it - it is dealt with entirely by the database. All Python does, through ..."
+    },
+    {
+        "title": "How to use Django with Apache and mod_wsgi",
+        "content": "mod_wsgi is an Apache module which can host any Python WSGI application, including Django. Django will work with any version of Apache which supports ..."
+    },
+    {
+        "title": "Search | Django documentation",
+        "content": "A common task for web applications is to search some data in the database with user input. In a simple case, this could be filtering a list of objects by a ..."
+    },
+    {
+        "title": "FAQ: Installation | Django documentation",
+        "content": "What Python version can I use with Django? — What Python version can I use with Django?¶. Django version, Python versions. 2.2, 3.5, 3.6, 3.7, 3.8 (added in ..."
+    },
+    {
+        "title": "Django Tutorial Part 5: Creating our home page - Learn web",
+        "content": "Oct 8, 2021 — The index page will include some static HTML, along with generated \"counts\" of different records in the database. To make this work we'll create ..."
+    },
+    {
+        "title": "First steps with Django — Celery 5.2.1 documentation",
+        "content": "x for versions older than Django 1.11. To use Celery with your Django project you must first define an instance of the Celery library (called an “app”). If you ..."
+    },
+    {
+        "title": "Get started with Django - Learn | Microsoft Docs",
+        "content": "Django is one of the most popular Python web frameworks. It's especially powerful when working with a data-driven application, where the main goal is to ..."
+    },
+    {
+        "title": "Quickstart: Compose and Django | Docker Documentation",
+        "content": "Getting started with Docker Compose and Django. ... This Dockerfile starts with a Python 3 parent image. The parent image is modified by adding a new code ..."
+    },
+    {
+        "title": "django CMS - Enterprise Content Management with Django ...",
+        "content": "django CMS is the leading enterprise CMS powered by the community, backed by the django CMS Association. Find out more and find out how you can participate.Type: Content management system"
+    },
+    {
+        "title": "How To Set Up Django with Postgres, Nginx, and Gunicorn on ...",
+        "content": "Django is a powerful web framework that can help you get your Python application or website off the ground. Django includes a simplified development server ..."
+    },
+    {
+        "title": "Getting started with Django | Python | Google Cloud",
+        "content": "You can deploy Django with a Cloud Spanner backend using the python-spanner-django database backend. Sometimes, there are compelling reasons to use a NoSQL ..."
+    },
+    {
+        "title": "Top 10 Mistakes that Django Developers Make - Toptal",
+        "content": "I believe every application requires an admin panel—if not yet, it's simply a matter of time until your basic application needs one. With Django admin, you can ..."
+    },
+    {
+        "title": "Django REST framework: Home",
+        "content": "Install using pip , including any optional packages you want... pip install djangorestframework pip install markdown # Markdown support for the browsable API."
+    },
+    {
+        "title": "Setting up Django and your web server with uWSGI and nginx",
+        "content": "While this tutorial assumes Django 1.4 or later, which will automatically create a wsgi module in your new project, the instructions will work with earlier ..."
+    },
+    {
+        "title": "Working with Django | Heroku Dev Center",
+        "content": "Heroku resources specific to Django, the popular Python web framework. ... and Database Connections in Django · Scaling a Django Application with Memcache ..."
+    },
+    {
+        "title": "Building Modern Applications with Django and Vue.js - Auth0",
+        "content": "Oct 7, 2021 — Learn ow to create a full-stack application with Django, Django REST framework, and Vue.js. Then, learn how to secure your REST API and the ..."
+    },
+    {
+        "title": "Django: Web Development with Python - Amazon.com",
+        "content": "Django: Web Development with Python [Dauzon, Samuel, Bendoraitis, Aidas, Ravindran, Arun] on Amazon.com. *FREE* shipping on qualifying offers.Publisher: ‎Packt Publishing (August 31, 2016)Dimensions: ‎7.5 x 1.65 x 9.25 inches"
+    },
+    {
+        "title": "Create a Django project | PyCharm - JetBrains",
+        "content": "Oct 9, 2021 — Django project is intended for productive web development with Django. PyCharm takes care of creating specific directory structure and files ..."
+    },
+    {
+        "title": "Django Integration with MongoDB Tutorial",
+        "content": "Using MongoDB with Django is advantageous because: Every second, more and more unstructured data is generated from various sources like chats, real-time streams ...From django.db import models: from mongoen...Model: DocumentDjango’s ORM: MongoEngineModels.CharField: fields.StringField()"
+    },
+    {
+        "title": "Build a Personal Diary With Django and Python",
+        "content": "Sep 15, 2021 — Set up a Django project; Work with the standard SQLite database; Make use of the Django admin site; Create models and class-based views; Nest ..."
+    },
+    {
+        "title": "How to create an API with Django - Mkdev",
+        "content": "There are two ways to interact with the API: browsing the Django REST framework frontend and making http requests. Open your web browser and navigate to 127.0."
+    },
+    {
+        "title": "Fast Search With Django + PostgreSQL - Stack Overflow",
+        "content": "Jul 18, 2021 · 1 answerIf you're already using Django with PostgreSQL the easiest way to improve your search speed and accuracy is to use full-text search with ..."
+    },
+    {
+        "title": "Django (web framework) - Wikipedia",
+        "content": "Development tools with Django support — Google App Engine includes support for Django version 1.x.x as one of the bundled frameworks. Version history[edit].Stable release: 3.2.7 / 1 September 2021; 3 m...Written in: PythonInitial release: 21 July 2005; 16 years agoOriginal author(s): Adrian Holovaty, ‎Simon Will...‎"
+    },
+    {
+        "title": "Build Python Web Apps with Django | Codecademy",
+        "content": "Welcome to the world of Django (pronounced like JANG-go with a silent D)! Get introduced to an open-source web development framework supported by the Django ..."
+    },
+    {
+        "title": "Using Wing with Django",
+        "content": "The debugger works with Django's auto-reload feature and can step through and debug Python code and Django templates. Wing Pro also automates some aspects ..."
+    },
+    {
+        "title": "Build a Python App with CockroachDB and Django",
+        "content": "This tutorial shows you how build a simple Python application with CockroachDB and the Django framework. CockroachDB supports Django versions 3.1+."
+    },
+    {
+        "title": "Graphene-Django",
+        "content": "We recommend you start with the installation guide to get set up and the basic tutorial. It is worth reading the core graphene docs to familiarize yourself ..."
+    }
+]
